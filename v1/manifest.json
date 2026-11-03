@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "packVersion": 4,
+  "publishedAt": "2026-11-03T10:18:49.487236Z",
+  "minAppVersion": "1.0.0",
+  "languages": [
+    "en",
+    "vi"
+  ],
+  "files": [
+    {
+      "path": "taxonomy.json",
+      "sha256": "fc3590e33cc64ed10a375cd10a895542498749fb841a8b68ed32d3fa786f5cc3",
+      "bytes": 10055
+    },
+    {
+      "path": "blueprints.json",
+      "sha256": "5938c0e72d541001c834fc0a0c358445b2531ed1c1aabdd35ff2fb5460e28ee0",
+      "bytes": 9521
+    },
+    {
+      "path": "questions_core.json",
+      "sha256": "4b552671ec4c1496ad56fc4106099a5634a165a18fe8b5e06e406be98b8cca4f",
+      "bytes": 661643
+    },
+    {
+      "path": "questions_tx_law.json",
+      "sha256": "541416eac0f398667a89e01e7166c4fc6e276bff9c262183347f25c39ebac0fc",
+      "bytes": 74145
+    },
+    {
+      "path": "glossary.json",
+      "sha256": "c744d0c4310cd9f4a32eb2077eb713ccb9b3115ca90febd603c9436f70d133b2",
+      "bytes": 150273
+    },
+    {
+      "path": "lessons.json",
+      "sha256": "95a69bbeb278e18b60e102ac9fdd1cc5a336f1f08ced247a62f0129b20d49f7d",
+      "bytes": 56724
+    },
+    {
+      "path": "media.json",
+      "sha256": "a2540b74f86518eff9d6cce2e11eaec115dc6ad1db450da1f2a74dc39759c7d4",
+      "bytes": 40
+    },
+    {
+      "path": "diagrams/nail_section.svg",
+      "sha256": "d992dea5b924a6c98c2719648012265052c3b1c6df5cb60f1aa1d150d7890b05",
+      "bytes": 2176
+    },
+    {
+      "path": "diagrams/nail_top.svg",
+      "sha256": "fe17bf116cd8ab12c5dd9cf8e5f52eb8e7f14c9efd9c7c787fe66494e6fe64c2",
+      "bytes": 1818
+    },
+    {
+      "path": "diagrams/nail_shapes.svg",
+      "sha256": "7cd9f2bf077fa4a354729d89b5eeb2827bf732e27106f301d2d27c9e7f3e5693",
+      "bytes": 1467
+    }
+  ],
+  "changelog": {
+    "en": "First reviewed content pack: 300 questions across California, NIC and Texas, 129 glossary terms and 10 study notes.",
+    "vi": "Gói nội dung đầu tiên đã được duyệt: 300 câu hỏi cho California, NIC và Texas, 129 thuật ngữ và 10 bài học."
+  }
+}
