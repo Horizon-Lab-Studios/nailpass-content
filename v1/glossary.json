@@ -1,0 +1,4748 @@
+{
+  "schemaVersion": 1,
+  "terms": [
+    {
+      "id": "term_matrix",
+      "domain": "anatomy_disorders",
+      "term": {
+        "en": "Matrix",
+        "vi": "Matrix (mầm móng)"
+      },
+      "phonetic": {
+        "en": "MAY-triks"
+      },
+      "definition": {
+        "en": "The growing area at the base of the nail, under the proximal nail fold. Its cells divide and harden with keratin to form the nail plate. An injury to the matrix can change how the nail grows.",
+        "vi": "Vùng phát triển ở gốc móng, nằm dưới nếp da gốc móng. Tế bào ở đây phân chia và sừng hóa nhờ keratin để tạo thành tấm móng. Nếu matrix bị tổn thương, móng có thể mọc khác đi."
+      },
+      "aliases": {
+        "en": [
+          "nail matrix",
+          "nail root"
+        ],
+        "vi": [
+          "mầm móng",
+          "gốc móng"
+        ]
+      },
+      "relatedTermIds": [
+        "term_lunula",
+        "term_nail_plate",
+        "term_proximal_nail_fold"
+      ],
+      "diagram": {
+        "asset": "diagrams/nail_section.svg",
+        "highlight": "matrix"
+      },
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIC National Nail Technology Theory CIB (eff. 1 Jul 2020) content outline: Anatomy and Physiology",
+        "LibreTexts Human Anatomy Laboratory Manual 6.04: Anatomy of the Nails"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_lunula",
+      "domain": "anatomy_disorders",
+      "term": {
+        "en": "Lunula",
+        "vi": "Lunula (vầng trăng móng)"
+      },
+      "phonetic": {
+        "en": "LOON-yuh-luh"
+      },
+      "definition": {
+        "en": "The pale half-moon shape at the base of the nail plate. It is the part of the matrix that can be seen through the nail.",
+        "vi": "Hình bán nguyệt màu nhạt ở gốc tấm móng. Đây là phần của matrix (mầm móng) có thể nhìn thấy qua tấm móng."
+      },
+      "aliases": {
+        "en": [
+          "half-moon"
+        ],
+        "vi": [
+          "bán nguyệt móng"
+        ]
+      },
+      "relatedTermIds": [
+        "term_matrix",
+        "term_nail_plate"
+      ],
+      "diagram": {
+        "asset": "diagrams/nail_top.svg",
+        "highlight": "lunula"
+      },
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "LibreTexts Human Anatomy Laboratory Manual 6.04: Anatomy of the Nails"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_nail_plate",
+      "domain": "anatomy_disorders",
+      "term": {
+        "en": "Nail plate",
+        "vi": "Nail plate (tấm móng)"
+      },
+      "definition": {
+        "en": "The hard, visible part of the nail, made of hardened cells filled with keratin. It has no nerves or blood vessels and rests on the nail bed.",
+        "vi": "Phần móng cứng nhìn thấy được, tạo từ các tế bào đã sừng hóa chứa keratin. Tấm móng không có dây thần kinh hay mạch máu và nằm trên giường móng."
+      },
+      "aliases": {
+        "en": [
+          "nail body"
+        ],
+        "vi": [
+          "mặt móng"
+        ]
+      },
+      "relatedTermIds": [
+        "term_keratin",
+        "term_nail_bed",
+        "term_free_edge",
+        "term_matrix"
+      ],
+      "diagram": {
+        "asset": "diagrams/nail_top.svg",
+        "highlight": "nail_plate"
+      },
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIC National Nail Technology Theory CIB (eff. 1 Jul 2020) content outline: Anatomy and Physiology",
+        "LibreTexts Human Anatomy Laboratory Manual 6.04: Anatomy of the Nails"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_nail_bed",
+      "domain": "anatomy_disorders",
+      "term": {
+        "en": "Nail bed",
+        "vi": "Nail bed (giường móng)"
+      },
+      "definition": {
+        "en": "The living skin under the nail plate. It is rich in blood vessels and nerve endings, which give the nail its pink color.",
+        "vi": "Phần da sống nằm dưới tấm móng. Nơi này có nhiều mạch máu và đầu dây thần kinh, làm cho móng có màu hồng."
+      },
+      "aliases": {
+        "en": [],
+        "vi": []
+      },
+      "relatedTermIds": [
+        "term_nail_plate",
+        "term_onycholysis"
+      ],
+      "diagram": {
+        "asset": "diagrams/nail_section.svg",
+        "highlight": "nail_bed"
+      },
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "LibreTexts Human Anatomy Laboratory Manual 6.04: Anatomy of the Nails"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_free_edge",
+      "domain": "anatomy_disorders",
+      "term": {
+        "en": "Free edge",
+        "vi": "Free edge (đầu móng tự do)"
+      },
+      "definition": {
+        "en": "The part of the nail plate that grows past the fingertip or toe tip. It is the part that is filed and shaped.",
+        "vi": "Phần tấm móng mọc dài ra khỏi đầu ngón tay hoặc ngón chân. Đây là phần được dũa và tạo dáng."
+      },
+      "aliases": {
+        "en": [],
+        "vi": [
+          "đầu móng"
+        ]
+      },
+      "relatedTermIds": [
+        "term_nail_plate",
+        "term_hyponychium"
+      ],
+      "diagram": {
+        "asset": "diagrams/nail_top.svg",
+        "highlight": "free_edge"
+      },
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIC National Nail Technology Theory CIB (eff. 1 Jul 2020) content outline: Anatomy and Physiology"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_hyponychium",
+      "domain": "anatomy_disorders",
+      "term": {
+        "en": "Hyponychium",
+        "vi": "Hyponychium (da dưới đầu móng)"
+      },
+      "phonetic": {
+        "en": "hy-poh-NIK-ee-um"
+      },
+      "definition": {
+        "en": "The living skin under the free edge, where the nail plate leaves the fingertip. It forms a seal that helps protect the nail bed from germs.",
+        "vi": "Phần da sống dưới đầu móng tự do, nơi tấm móng rời khỏi đầu ngón tay. Nó tạo lớp bịt kín giúp bảo vệ giường móng khỏi vi trùng."
+      },
+      "aliases": {
+        "en": [],
+        "vi": []
+      },
+      "relatedTermIds": [
+        "term_free_edge",
+        "term_nail_bed"
+      ],
+      "diagram": {
+        "asset": "diagrams/nail_section.svg",
+        "highlight": "hyponychium"
+      },
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "LibreTexts Human Anatomy Laboratory Manual 6.04: Anatomy of the Nails"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_eponychium",
+      "domain": "anatomy_disorders",
+      "term": {
+        "en": "Eponychium",
+        "vi": "Eponychium (da sống ở gốc móng)"
+      },
+      "phonetic": {
+        "en": "ep-oh-NIK-ee-um"
+      },
+      "definition": {
+        "en": "Living skin at the base of the nail plate, at the edge of the proximal nail fold. It must never be cut.",
+        "vi": "Phần da sống ở gốc tấm móng, ngay mép nếp da gốc móng. Tuyệt đối không được cắt."
+      },
+      "aliases": {
+        "en": [],
+        "vi": []
+      },
+      "relatedTermIds": [
+        "term_cuticle",
+        "term_proximal_nail_fold",
+        "term_matrix"
+      ],
+      "diagram": {
+        "asset": "diagrams/nail_top.svg",
+        "highlight": "eponychium"
+      },
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NailKnowledge.org: Anatomy and physiology of the nail unit (v13)",
+        "LibreTexts Human Anatomy Laboratory Manual 6.04: Anatomy of the Nails"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_cuticle",
+      "domain": "anatomy_disorders",
+      "term": {
+        "en": "Cuticle",
+        "vi": "Cuticle (da chết bám trên móng)"
+      },
+      "phonetic": {
+        "en": "KYOO-tih-kul"
+      },
+      "definition": {
+        "en": "Thin, colorless dead tissue from the underside of the proximal nail fold that sticks to the nail plate as it grows. It can be gently removed from the nail plate; the living eponychium cannot.",
+        "vi": "Lớp mô chết mỏng, không màu, đến từ mặt dưới nếp da gốc móng và bám theo tấm móng khi móng mọc ra. Có thể nhẹ nhàng lấy ra khỏi tấm móng; còn eponychium là da sống thì không được lấy."
+      },
+      "aliases": {
+        "en": [],
+        "vi": [
+          "da chết"
+        ]
+      },
+      "relatedTermIds": [
+        "term_eponychium",
+        "term_proximal_nail_fold"
+      ],
+      "diagram": {
+        "asset": "diagrams/nail_top.svg",
+        "highlight": "cuticle"
+      },
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NailKnowledge.org: Anatomy and physiology of the nail unit (v13)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_lateral_nail_fold",
+      "domain": "anatomy_disorders",
+      "term": {
+        "en": "Lateral nail fold",
+        "vi": "Lateral nail fold (nếp da hai bên móng)"
+      },
+      "definition": {
+        "en": "The fold of skin along each side of the nail plate. It holds the sides of the plate in place.",
+        "vi": "Nếp da chạy dọc hai bên tấm móng, giữ hai cạnh của tấm móng."
+      },
+      "aliases": {
+        "en": [
+          "nail wall",
+          "side wall"
+        ],
+        "vi": [
+          "khóe móng"
+        ]
+      },
+      "relatedTermIds": [
+        "term_proximal_nail_fold",
+        "term_nail_plate"
+      ],
+      "diagram": {
+        "asset": "diagrams/nail_top.svg",
+        "highlight": "lateral_nail_fold"
+      },
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "LibreTexts Human Anatomy Laboratory Manual 6.04: Anatomy of the Nails"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_proximal_nail_fold",
+      "domain": "anatomy_disorders",
+      "term": {
+        "en": "Proximal nail fold",
+        "vi": "Proximal nail fold (nếp da gốc móng)"
+      },
+      "definition": {
+        "en": "The fold of skin at the base of the nail that covers and protects the matrix. Its edge, where it meets the nail plate, is the eponychium.",
+        "vi": "Nếp da ở gốc móng, che phủ và bảo vệ matrix (mầm móng). Phần mép của nó, nơi tiếp giáp tấm móng, là eponychium."
+      },
+      "aliases": {
+        "en": [],
+        "vi": []
+      },
+      "relatedTermIds": [
+        "term_eponychium",
+        "term_matrix",
+        "term_cuticle"
+      ],
+      "diagram": {
+        "asset": "diagrams/nail_section.svg",
+        "highlight": "proximal_nail_fold"
+      },
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "LibreTexts Human Anatomy Laboratory Manual 6.04: Anatomy of the Nails",
+        "NailKnowledge.org: Anatomy and physiology of the nail unit (v13)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_distal_phalanx",
+      "domain": "anatomy_disorders",
+      "term": {
+        "en": "Distal phalanx",
+        "vi": "Distal phalanx (đốt xương cuối ngón)"
+      },
+      "phonetic": {
+        "en": "DIS-tul FAY-langks"
+      },
+      "definition": {
+        "en": "The last bone at the tip of a finger or toe. The nail unit sits on top of it.",
+        "vi": "Đốt xương cuối cùng ở đầu ngón tay hoặc ngón chân. Cấu trúc móng nằm ngay trên xương này."
+      },
+      "aliases": {
+        "en": [],
+        "vi": []
+      },
+      "relatedTermIds": [
+        "term_phalanges"
+      ],
+      "diagram": {
+        "asset": "diagrams/nail_section.svg",
+        "highlight": "distal_phalanx"
+      },
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIH StatPearls: Anatomy, Shoulder and Upper Limb, Hand Bones"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_phalanges",
+      "domain": "anatomy_disorders",
+      "term": {
+        "en": "Phalanges",
+        "vi": "Phalanges (xương đốt ngón)"
+      },
+      "phonetic": {
+        "en": "fuh-LAN-jeez"
+      },
+      "definition": {
+        "en": "The bones of the fingers and toes. Each hand and each foot has 14: two in the thumb or big toe and three in each other finger or toe.",
+        "vi": "Các xương của ngón tay và ngón chân. Mỗi bàn tay và mỗi bàn chân có 14 xương: hai xương ở ngón cái và ba xương ở mỗi ngón còn lại."
+      },
+      "aliases": {
+        "en": [
+          "phalanx"
+        ],
+        "vi": []
+      },
+      "relatedTermIds": [
+        "term_distal_phalanx",
+        "term_carpals"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIH StatPearls: Anatomy, Shoulder and Upper Limb, Hand Bones",
+        "NIH StatPearls: Anatomy, Bony Pelvis and Lower Limb, Foot Bones"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_carpals",
+      "domain": "anatomy_disorders",
+      "term": {
+        "en": "Carpals",
+        "vi": "Carpals (xương cổ tay)"
+      },
+      "phonetic": {
+        "en": "KAR-pulz"
+      },
+      "definition": {
+        "en": "The eight small bones of the wrist. With 5 metacarpals and 14 phalanges, they make up the 27 bones of each hand.",
+        "vi": "Tám xương nhỏ ở cổ tay. Cùng với 5 xương bàn tay (metacarpals) và 14 xương đốt ngón (phalanges), tạo nên 27 xương của mỗi bàn tay."
+      },
+      "aliases": {
+        "en": [
+          "carpus",
+          "wrist bones"
+        ],
+        "vi": []
+      },
+      "relatedTermIds": [
+        "term_phalanges"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIH StatPearls: Anatomy, Shoulder and Upper Limb, Hand Bones",
+        "LibreTexts Anatomy and Physiology (Boundless) 7.6C: Carpals, Metacarpals and Phalanges (The Hand)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_keratin",
+      "domain": "anatomy_disorders",
+      "term": {
+        "en": "Keratin",
+        "vi": "Keratin (chất sừng)"
+      },
+      "phonetic": {
+        "en": "KAIR-uh-tin"
+      },
+      "definition": {
+        "en": "A tough protein that makes up the nail plate. It is also found in hair and the outer layer of skin.",
+        "vi": "Một loại protein bền chắc tạo nên tấm móng. Keratin cũng có trong tóc và lớp ngoài của da."
+      },
+      "aliases": {
+        "en": [],
+        "vi": [
+          "chất sừng"
+        ]
+      },
+      "relatedTermIds": [
+        "term_nail_plate"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "LibreTexts Human Anatomy Laboratory Manual 6.04: Anatomy of the Nails"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_onycholysis",
+      "domain": "anatomy_disorders",
+      "term": {
+        "en": "Onycholysis",
+        "vi": "Onycholysis (móng tách khỏi giường móng)"
+      },
+      "phonetic": {
+        "en": "on-ih-KOL-ih-sis"
+      },
+      "definition": {
+        "en": "Separation of the nail plate from the nail bed. It has many possible causes, so the technician does not guess the cause; refer the client to a physician.",
+        "vi": "Tình trạng tấm móng tách ra khỏi giường móng. Có nhiều nguyên nhân, nên thợ nail không tự đoán; hãy giới thiệu khách đến bác sĩ."
+      },
+      "aliases": {
+        "en": [
+          "nail lifting"
+        ],
+        "vi": [
+          "móng hở",
+          "móng bong"
+        ]
+      },
+      "relatedTermIds": [
+        "term_nail_bed",
+        "term_nail_plate"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "MedlinePlus Medical Encyclopedia: Nail abnormalities"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_paronychia",
+      "domain": "anatomy_disorders",
+      "term": {
+        "en": "Paronychia",
+        "vi": "Paronychia (nhiễm trùng da quanh móng)"
+      },
+      "phonetic": {
+        "en": "pair-oh-NIK-ee-uh"
+      },
+      "definition": {
+        "en": "An infection of the skin around a fingernail or toenail, caused by bacteria, Candida yeast or other fungi. Signs include pain, redness and swelling, sometimes with pus. Do not service the area; refer the client to a physician.",
+        "vi": "Nhiễm trùng da quanh móng tay hoặc móng chân, do vi khuẩn, nấm men Candida hoặc các loại nấm khác gây ra. Dấu hiệu gồm đau, đỏ, sưng, đôi khi có mủ. Không làm dịch vụ ở vùng đó; hãy giới thiệu khách đến bác sĩ."
+      },
+      "aliases": {
+        "en": [],
+        "vi": [
+          "sưng mé"
+        ]
+      },
+      "relatedTermIds": [
+        "term_cuticle",
+        "term_eponychium"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "MedlinePlus Medical Encyclopedia: Paronychia"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_onychomycosis",
+      "domain": "anatomy_disorders",
+      "term": {
+        "en": "Onychomycosis",
+        "vi": "Onychomycosis (nấm móng)"
+      },
+      "phonetic": {
+        "en": "on-ih-koh-my-KOH-sis"
+      },
+      "definition": {
+        "en": "A fungal infection of the nail. Common signs are a thick, discolored, brittle or crumbly nail with buildup under it. Do not service the nail; refer the client to a physician.",
+        "vi": "Nhiễm nấm ở móng. Dấu hiệu thường gặp là móng dày, đổi màu, giòn hoặc dễ vụn, có chất tích tụ bên dưới. Không làm dịch vụ trên móng đó; hãy giới thiệu khách đến bác sĩ."
+      },
+      "aliases": {
+        "en": [
+          "nail fungus",
+          "tinea unguium"
+        ],
+        "vi": [
+          "nấm móng"
+        ]
+      },
+      "relatedTermIds": [
+        "term_onycholysis"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "American Academy of Dermatology: Nail fungus, signs and symptoms"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_beaus_lines",
+      "domain": "anatomy_disorders",
+      "term": {
+        "en": "Beau's lines",
+        "vi": "Beau's lines (đường lõm ngang trên móng)"
+      },
+      "phonetic": {
+        "en": "BOHZ lines"
+      },
+      "definition": {
+        "en": "Depressions that run across the nail plate. They can follow an illness, an injury to the nail, chemotherapy or poor nutrition.",
+        "vi": "Những đường lõm chạy ngang tấm móng. Có thể xuất hiện sau khi bị bệnh, móng bị chấn thương, hóa trị (chemotherapy) hoặc thiếu dinh dưỡng."
+      },
+      "aliases": {
+        "en": [
+          "Beau lines"
+        ],
+        "vi": []
+      },
+      "relatedTermIds": [
+        "term_leukonychia"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "MedlinePlus Medical Encyclopedia: Nail abnormalities"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_leukonychia",
+      "domain": "anatomy_disorders",
+      "term": {
+        "en": "Leukonychia",
+        "vi": "Leukonychia (đốm trắng trên móng)"
+      },
+      "phonetic": {
+        "en": "loo-koh-NIK-ee-uh"
+      },
+      "definition": {
+        "en": "White streaks or spots on the nails. It can be linked to medicines or disease, so the technician does not guess the cause.",
+        "vi": "Các vệt hoặc đốm trắng trên móng. Có thể liên quan đến thuốc hoặc bệnh, nên thợ nail không tự đoán nguyên nhân."
+      },
+      "aliases": {
+        "en": [
+          "white spots"
+        ],
+        "vi": []
+      },
+      "relatedTermIds": [
+        "term_beaus_lines",
+        "term_koilonychia"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "MedlinePlus Medical Encyclopedia: Nail abnormalities"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_koilonychia",
+      "domain": "anatomy_disorders",
+      "term": {
+        "en": "Koilonychia",
+        "vi": "Koilonychia (móng mỏng, lõm vào)"
+      },
+      "phonetic": {
+        "en": "koy-loh-NIK-ee-uh"
+      },
+      "definition": {
+        "en": "A thin nail plate that curves inward, sometimes with raised ridges. It is associated with iron deficiency anemia; refer the client to a physician.",
+        "vi": "Tấm móng mỏng, cong lõm vào trong, đôi khi có gờ nổi. Có liên quan đến thiếu máu do thiếu sắt; hãy giới thiệu khách đến bác sĩ."
+      },
+      "aliases": {
+        "en": [
+          "spoon nail"
+        ],
+        "vi": [
+          "móng lõm"
+        ]
+      },
+      "relatedTermIds": [
+        "term_leukonychia"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "MedlinePlus Medical Encyclopedia: Nail abnormalities"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_matter",
+      "domain": "chemistry",
+      "term": {
+        "en": "Matter",
+        "vi": "Matter (vật chất)"
+      },
+      "phonetic": {
+        "en": "MAT-er"
+      },
+      "definition": {
+        "en": "Anything that has mass and takes up space. It is commonly found as a solid, a liquid or a gas.",
+        "vi": "Bất cứ thứ gì có khối lượng và chiếm chỗ trong không gian. Thường tồn tại ở dạng rắn, lỏng hoặc khí."
+      },
+      "aliases": {
+        "en": [],
+        "vi": [
+          "vật chất"
+        ]
+      },
+      "relatedTermIds": [],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "OpenStax Chemistry 2e (2019), §1.2 Phases and Classification of Matter"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_ph",
+      "domain": "chemistry",
+      "term": {
+        "en": "pH",
+        "vi": "pH (độ axit, kiềm)"
+      },
+      "phonetic": {
+        "en": "pee-AYCH"
+      },
+      "definition": {
+        "en": "A scale from 0 to 14 that shows how acidic or alkaline a water-based solution is. 7 is neutral, below 7 is acidic and above 7 is alkaline. Each whole step is a tenfold change.",
+        "vi": "Thang đo từ 0 đến 14 cho biết dung dịch gốc nước có tính axit hay kiềm. 7 là trung tính, dưới 7 là axit, trên 7 là kiềm. Mỗi bậc chênh lệch mười lần."
+      },
+      "aliases": {
+        "en": [
+          "potential hydrogen"
+        ],
+        "vi": [
+          "độ pH"
+        ]
+      },
+      "relatedTermIds": [
+        "term_acid",
+        "term_alkali"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "EPA CADDIS Volume 2: pH"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_acid",
+      "domain": "chemistry",
+      "term": {
+        "en": "Acid",
+        "vi": "Acid (axit)"
+      },
+      "phonetic": {
+        "en": "AS-id"
+      },
+      "definition": {
+        "en": "A substance whose water solution has a pH below 7. Strong acids, such as the methacrylic acid in some primers, can burn skin.",
+        "vi": "Chất mà dung dịch nước của nó có pH dưới 7. Axit mạnh, như methacrylic acid trong một số primer, có thể làm bỏng da."
+      },
+      "aliases": {
+        "en": [
+          "acidic"
+        ],
+        "vi": [
+          "axit",
+          "tính axit"
+        ]
+      },
+      "relatedTermIds": [
+        "term_ph",
+        "term_alkali"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "EPA CADDIS Volume 2: pH",
+        "OSHA: Health Hazards in Nail Salons (chemical hazards)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_alkali",
+      "domain": "chemistry",
+      "term": {
+        "en": "Alkali",
+        "vi": "Alkali (kiềm, bazơ)"
+      },
+      "phonetic": {
+        "en": "AL-kuh-lye"
+      },
+      "definition": {
+        "en": "A substance whose water solution has a pH above 7. Also called a base; solutions above pH 7 are described as alkaline or basic.",
+        "vi": "Chất mà dung dịch nước của nó có pH trên 7. Còn gọi là bazơ; dung dịch có pH trên 7 được gọi là có tính kiềm."
+      },
+      "aliases": {
+        "en": [
+          "base",
+          "alkaline",
+          "basic"
+        ],
+        "vi": [
+          "kiềm",
+          "bazơ"
+        ]
+      },
+      "relatedTermIds": [
+        "term_ph",
+        "term_acid"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "EPA CADDIS Volume 2: pH"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_solution",
+      "domain": "chemistry",
+      "term": {
+        "en": "Solution",
+        "vi": "Solution (dung dịch)"
+      },
+      "phonetic": {
+        "en": "suh-LOO-shun"
+      },
+      "definition": {
+        "en": "A uniform mixture in which one or more substances (solutes) are dissolved in another (the solvent). Salt water is an example.",
+        "vi": "Hỗn hợp đồng nhất trong đó một hay nhiều chất (chất tan) được hòa tan trong một chất khác (dung môi). Ví dụ: nước muối."
+      },
+      "aliases": {
+        "en": [],
+        "vi": [
+          "dung dịch"
+        ]
+      },
+      "relatedTermIds": [
+        "term_solvent"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "OpenStax Chemistry 2e (2019), §11.1 The Dissolution Process"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_solvent",
+      "domain": "chemistry",
+      "term": {
+        "en": "Solvent",
+        "vi": "Solvent (dung môi)"
+      },
+      "phonetic": {
+        "en": "SOL-vent"
+      },
+      "definition": {
+        "en": "The substance in a solution that dissolves another substance. Acetone in polish remover is a solvent.",
+        "vi": "Chất trong dung dịch dùng để hòa tan chất khác. Acetone trong nước chùi sơn là một dung môi."
+      },
+      "aliases": {
+        "en": [],
+        "vi": [
+          "dung môi"
+        ]
+      },
+      "relatedTermIds": [
+        "term_solution"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "OpenStax Chemistry 2e (2019), §11.1 The Dissolution Process",
+        "OSHA: Health Hazards in Nail Salons (chemical hazards)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_monomer",
+      "domain": "chemistry",
+      "term": {
+        "en": "Monomer",
+        "vi": "Monomer (đơn phân, chất lỏng)"
+      },
+      "phonetic": {
+        "en": "MON-uh-mer"
+      },
+      "definition": {
+        "en": "A small molecule that can join with others like it to form a polymer. In liquid-and-powder enhancements, the liquid is mainly monomer.",
+        "vi": "Phân tử nhỏ có thể nối với các phân tử giống nó để tạo thành polymer. Trong móng bột, phần nước chủ yếu là monomer."
+      },
+      "aliases": {
+        "en": [
+          "liquid"
+        ],
+        "vi": [
+          "nước",
+          "nước đắp bột"
+        ]
+      },
+      "relatedTermIds": [
+        "term_polymer",
+        "term_polymerization"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "IUPAC Compendium of Chemical Terminology (Gold Book): monomer",
+        "OSHA: Health Hazards in Nail Salons (chemical hazards)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_polymer",
+      "domain": "chemistry",
+      "term": {
+        "en": "Polymer",
+        "vi": "Polymer (cao phân tử, bột)"
+      },
+      "phonetic": {
+        "en": "POL-ih-mer"
+      },
+      "definition": {
+        "en": "A large molecule made of many repeating units joined in long chains. Acrylic powder is mostly polymer, and a finished enhancement is a hardened polymer.",
+        "vi": "Phân tử lớn gồm nhiều đơn vị lặp lại nối thành chuỗi dài. Bột acrylic chủ yếu là polymer, và móng sau khi đông cứng cũng là polymer."
+      },
+      "aliases": {
+        "en": [
+          "powder"
+        ],
+        "vi": [
+          "bột"
+        ]
+      },
+      "relatedTermIds": [
+        "term_monomer",
+        "term_polymerization"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "IUPAC Compendium of Chemical Terminology (Gold Book): polymer",
+        "FDA: Nail care products (cosmetics), artificial nails"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_polymerization",
+      "domain": "chemistry",
+      "term": {
+        "en": "Polymerization",
+        "vi": "Polymerization (phản ứng trùng hợp)"
+      },
+      "phonetic": {
+        "en": "puh-LIM-er-ih-ZAY-shun"
+      },
+      "definition": {
+        "en": "The chemical reaction that joins monomers into a polymer. It is how liquid-and-powder product and light-cured gel harden. Also called curing.",
+        "vi": "Phản ứng hóa học nối các monomer thành polymer. Đây là cách móng bột và gel hơ đèn đông cứng. Còn gọi là curing."
+      },
+      "aliases": {
+        "en": [
+          "curing",
+          "cure"
+        ],
+        "vi": [
+          "trùng hợp",
+          "đông cứng"
+        ]
+      },
+      "relatedTermIds": [
+        "term_monomer",
+        "term_polymer",
+        "term_initiator"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "IUPAC Compendium of Chemical Terminology (Gold Book): polymerization"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_catalyst",
+      "domain": "chemistry",
+      "term": {
+        "en": "Catalyst",
+        "vi": "Catalyst (chất xúc tác)"
+      },
+      "phonetic": {
+        "en": "KAT-uh-list"
+      },
+      "definition": {
+        "en": "A substance that speeds up a chemical reaction without being used up by it.",
+        "vi": "Chất làm phản ứng hóa học xảy ra nhanh hơn mà không bị tiêu hao trong phản ứng."
+      },
+      "aliases": {
+        "en": [],
+        "vi": [
+          "chất xúc tác"
+        ]
+      },
+      "relatedTermIds": [
+        "term_initiator"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "IUPAC Compendium of Chemical Terminology (Gold Book): catalyst"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_initiator",
+      "domain": "chemistry",
+      "term": {
+        "en": "Initiator",
+        "vi": "Initiator (chất khơi mào)"
+      },
+      "phonetic": {
+        "en": "ih-NISH-ee-ay-ter"
+      },
+      "definition": {
+        "en": "A chemical that starts polymerization. In acrylic powder the initiator is usually benzoyl peroxide, and it is mostly used up as the product hardens.",
+        "vi": "Hóa chất bắt đầu phản ứng trùng hợp. Trong bột acrylic, chất khơi mào thường là benzoyl peroxide, và phần lớn bị tiêu hao khi sản phẩm đông cứng."
+      },
+      "aliases": {
+        "en": [
+          "benzoyl peroxide",
+          "BPO"
+        ],
+        "vi": [
+          "chất khơi mào"
+        ]
+      },
+      "relatedTermIds": [
+        "term_polymerization",
+        "term_catalyst",
+        "term_inhibitor"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "SCCNFP/0486/01 (European Commission, 2002): benzoyl peroxide, hydroquinone and MEHQ in artificial nail systems, §2.2 and §2.12"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_inhibitor",
+      "domain": "chemistry",
+      "term": {
+        "en": "Inhibitor",
+        "vi": "Inhibitor (chất ức chế)"
+      },
+      "phonetic": {
+        "en": "in-HIB-ih-ter"
+      },
+      "definition": {
+        "en": "A chemical added in tiny amounts to monomer liquid to stop it polymerizing too early in the bottle. Hydroquinone and MEHQ are examples.",
+        "vi": "Hóa chất thêm một lượng rất nhỏ vào monomer (nước) để giữ nó không bị trùng hợp quá sớm trong chai. Ví dụ: hydroquinone và MEHQ."
+      },
+      "aliases": {
+        "en": [
+          "stabilizer"
+        ],
+        "vi": [
+          "chất ổn định"
+        ]
+      },
+      "relatedTermIds": [
+        "term_initiator",
+        "term_monomer"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "SCCNFP/0486/01 (European Commission, 2002): benzoyl peroxide, hydroquinone and MEHQ in artificial nail systems, §2.2"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_sensitization",
+      "domain": "chemistry",
+      "term": {
+        "en": "Sensitization",
+        "vi": "Sensitization (mẫn cảm dị ứng)"
+      },
+      "phonetic": {
+        "en": "sen-sih-tih-ZAY-shun"
+      },
+      "definition": {
+        "en": "Becoming allergic to a chemical after repeated contact. Once sensitized, a person can react every time they are exposed to it.",
+        "vi": "Tình trạng bị dị ứng với một hóa chất sau nhiều lần tiếp xúc. Khi đã bị mẫn cảm, người đó có thể bị phản ứng mỗi lần tiếp xúc lại."
+      },
+      "aliases": {
+        "en": [
+          "allergic sensitization"
+        ],
+        "vi": [
+          "mẫn cảm",
+          "dị ứng"
+        ]
+      },
+      "relatedTermIds": [
+        "term_monomer"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "California Board of Barbering and Cosmetology: Licensee Fact Sheet 5, Artificial Nails (rev. 03/2024)",
+        "FDA: Nail care products (cosmetics), artificial nails"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_mma",
+      "domain": "chemistry",
+      "term": {
+        "en": "Methyl methacrylate (MMA)",
+        "vi": "Methyl methacrylate (MMA)"
+      },
+      "phonetic": {
+        "en": "METH-il meth-AK-ruh-layt"
+      },
+      "definition": {
+        "en": "A liquid monomer linked to nail damage and skin reactions in nail products. FDA removed products with 100 percent MMA monomer in the 1970s, and many states ban it.",
+        "vi": "Một loại monomer dạng lỏng từng gây hư móng và phản ứng da trong sản phẩm làm móng. FDA đã rút các sản phẩm chứa 100 phần trăm monomer MMA vào thập niên 1970, và nhiều tiểu bang cấm dùng."
+      },
+      "aliases": {
+        "en": [
+          "MMA"
+        ],
+        "vi": [
+          "MMA"
+        ]
+      },
+      "relatedTermIds": [
+        "term_monomer"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "FDA: Nail care products (cosmetics), methyl methacrylate",
+        "OSHA: Health Hazards in Nail Salons (chemical hazards)",
+        "16 CCR §989(b) (California), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_client_consultation",
+      "domain": "consultation_analysis",
+      "term": {
+        "en": "Client consultation",
+        "vi": "Tư vấn khách hàng (client consultation)"
+      },
+      "phonetic": {
+        "en": "KLY-ent kon-sul-TAY-shun"
+      },
+      "definition": {
+        "en": "A short conversation and check held before every service to learn what the client wants, review her health information and look at her hands or feet, so the service is safe and suitable.",
+        "vi": "Buổi trao đổi và kiểm tra ngắn trước mỗi dịch vụ để biết khách muốn gì, xem lại thông tin sức khỏe và quan sát tay hoặc chân của khách, giúp dịch vụ an toàn và phù hợp."
+      },
+      "aliases": {
+        "en": [
+          "consultation"
+        ],
+        "vi": [
+          "tư vấn"
+        ]
+      },
+      "relatedTermIds": [
+        "term_intake_form",
+        "term_nail_analysis",
+        "term_service_record"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIC Nail Technology Theory content outline: Client Consultation",
+        "PSI California manicurist outline: Client Consultation and Nail Analysis"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_intake_form",
+      "domain": "consultation_analysis",
+      "term": {
+        "en": "Client intake form",
+        "vi": "Phiếu thông tin khách hàng (intake form)"
+      },
+      "phonetic": {
+        "en": "KLY-ent IN-tayk form"
+      },
+      "definition": {
+        "en": "A form the client fills in before her first service, listing contact details, health conditions, medications, allergies and the services she wants. It is reviewed and updated at later visits.",
+        "vi": "Phiếu khách điền trước lần làm dịch vụ đầu tiên, ghi thông tin liên lạc, bệnh lý, thuốc đang dùng, dị ứng và dịch vụ khách muốn làm. Phiếu được xem lại và cập nhật ở những lần sau."
+      },
+      "aliases": {
+        "en": [
+          "consultation form",
+          "health questionnaire"
+        ],
+        "vi": [
+          "phiếu tư vấn"
+        ]
+      },
+      "relatedTermIds": [
+        "term_client_consultation",
+        "term_service_record"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIC Nail Technology Theory content outline: Client Consultation",
+        "PSI California manicurist outline: Client Consultation and Nail Analysis"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_service_record",
+      "domain": "consultation_analysis",
+      "term": {
+        "en": "Client service record",
+        "vi": "Hồ sơ dịch vụ của khách (service record)"
+      },
+      "phonetic": {
+        "en": "KLY-ent SUR-vis REK-erd"
+      },
+      "definition": {
+        "en": "A record kept for each client showing the date, services given, products used, results and any reactions. It is updated after every visit and kept private.",
+        "vi": "Hồ sơ lưu cho từng khách, ghi ngày làm, dịch vụ đã làm, sản phẩm đã dùng, kết quả và mọi phản ứng (nếu có). Hồ sơ được cập nhật sau mỗi lần làm và giữ kín."
+      },
+      "aliases": {
+        "en": [
+          "client record card"
+        ],
+        "vi": [
+          "thẻ hồ sơ khách"
+        ]
+      },
+      "relatedTermIds": [
+        "term_intake_form",
+        "term_client_consultation"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIC Nail Technology Theory content outline: Client Consultation",
+        "PSI California manicurist outline: Client Consultation and Nail Analysis"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_nail_analysis",
+      "domain": "consultation_analysis",
+      "term": {
+        "en": "Nail analysis",
+        "vi": "Phân tích móng (nail analysis)"
+      },
+      "phonetic": {
+        "en": "nayl uh-NAL-uh-sis"
+      },
+      "definition": {
+        "en": "Looking closely at the nails and surrounding skin, with polish removed and in good light, to decide whether a service is safe and which service suits the client.",
+        "vi": "Quan sát kỹ móng và vùng da quanh móng, sau khi đã tẩy sơn và dưới ánh sáng tốt, để quyết định dịch vụ có an toàn không và dịch vụ nào hợp với khách."
+      },
+      "aliases": {
+        "en": [],
+        "vi": [
+          "kiểm tra móng"
+        ]
+      },
+      "relatedTermIds": [
+        "term_client_consultation",
+        "term_contraindication"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIC Nail Technology Theory content outline: Client Consultation",
+        "PSI California manicurist outline: Client Consultation and Nail Analysis"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_contraindication",
+      "domain": "consultation_analysis",
+      "term": {
+        "en": "Contraindication",
+        "vi": "Chống chỉ định (contraindication)"
+      },
+      "phonetic": {
+        "en": "KON-truh-in-dih-KAY-shun"
+      },
+      "definition": {
+        "en": "A condition or factor that means a service or product should not be used, or must be changed, for a particular client. When the condition is medical, the technician refers the client to a physician.",
+        "vi": "Tình trạng hoặc yếu tố cho thấy không nên làm một dịch vụ hay dùng một sản phẩm cho khách đó, hoặc phải điều chỉnh. Nếu đó là vấn đề y khoa, thợ nail giới thiệu khách đi gặp bác sĩ."
+      },
+      "aliases": {
+        "en": [],
+        "vi": [
+          "chống chỉ định"
+        ]
+      },
+      "relatedTermIds": [
+        "term_physician_referral",
+        "term_contagious_condition",
+        "term_nail_analysis"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIC Nail Technology Theory content outline: Client Consultation",
+        "PSI California manicurist outline: Client Consultation and Nail Analysis"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_physician_referral",
+      "domain": "consultation_analysis",
+      "term": {
+        "en": "Physician referral",
+        "vi": "Giới thiệu đến bác sĩ (physician referral)"
+      },
+      "phonetic": {
+        "en": "fih-ZISH-un rih-FUR-ul"
+      },
+      "definition": {
+        "en": "Suggesting that a client see a physician about a possible medical problem. A nail technician does not diagnose or treat medical conditions; she explains the concern in general terms and refers the client to a physician.",
+        "vi": "Khuyên khách đi gặp bác sĩ về một vấn đề có thể liên quan đến sức khỏe. Thợ nail không chẩn đoán hay điều trị bệnh; chỉ giải thích chung chung điều mình lo ngại và giới thiệu khách đến bác sĩ."
+      },
+      "aliases": {
+        "en": [
+          "referral"
+        ],
+        "vi": [
+          "khuyên đi bác sĩ"
+        ]
+      },
+      "relatedTermIds": [
+        "term_contraindication",
+        "term_contagious_condition"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIC Nail Technology Theory content outline: Client Consultation",
+        "PSI California manicurist outline: Client Consultation and Nail Analysis"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_contagious_condition",
+      "domain": "consultation_analysis",
+      "term": {
+        "en": "Contagious condition",
+        "vi": "Bệnh truyền nhiễm (contagious condition)"
+      },
+      "phonetic": {
+        "en": "kun-TAY-jus kun-DISH-un"
+      },
+      "definition": {
+        "en": "A condition that can spread from one person to another, by touch or through shared tools. A client showing signs of one is not serviced on the affected area and is referred to a physician.",
+        "vi": "Tình trạng có thể lây từ người này sang người khác, qua tiếp xúc hoặc qua dụng cụ dùng chung. Khách có dấu hiệu bệnh này thì không làm dịch vụ trên vùng bị ảnh hưởng và được giới thiệu đến bác sĩ."
+      },
+      "aliases": {
+        "en": [
+          "communicable condition"
+        ],
+        "vi": [
+          "bệnh lây"
+        ]
+      },
+      "relatedTermIds": [
+        "term_contraindication",
+        "term_physician_referral"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIC Nail Technology Theory content outline: Client Consultation",
+        "PSI California manicurist outline: Client Consultation and Nail Analysis"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_peripheral_neuropathy",
+      "domain": "consultation_analysis",
+      "term": {
+        "en": "Peripheral neuropathy",
+        "vi": "Tổn thương thần kinh ngoại biên (peripheral neuropathy)"
+      },
+      "phonetic": {
+        "en": "puh-RIF-er-ul noo-ROP-uh-thee"
+      },
+      "definition": {
+        "en": "Nerve damage, often in the feet and legs, that can cause numbness. It is a common complication of diabetes, so a client may not feel a cut or blister during a pedicure.",
+        "vi": "Tổn thương dây thần kinh, thường ở bàn chân và chân, có thể gây tê. Đây là biến chứng thường gặp của bệnh tiểu đường, nên khách có thể không cảm thấy vết cắt hay vết phồng khi làm pedicure."
+      },
+      "aliases": {
+        "en": [
+          "diabetic nerve damage"
+        ],
+        "vi": [
+          "tê chân do tiểu đường"
+        ]
+      },
+      "relatedTermIds": [
+        "term_contraindication"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "CDC: Diabetes and your feet"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_blood_thinner",
+      "domain": "consultation_analysis",
+      "term": {
+        "en": "Blood thinner (anticoagulant)",
+        "vi": "Thuốc loãng máu (blood thinner, anticoagulant)"
+      },
+      "phonetic": {
+        "en": "AN-tee-koh-AG-yuh-lunt"
+      },
+      "definition": {
+        "en": "A medicine that makes blood take longer to clot, so the person may bleed more easily. Clients who take one need extra-gentle work and no cutting of the skin.",
+        "vi": "Loại thuốc làm máu lâu đông hơn, nên người dùng có thể dễ chảy máu. Khách dùng thuốc này cần được làm thật nhẹ tay và không cắt da."
+      },
+      "aliases": {
+        "en": [
+          "anticoagulant"
+        ],
+        "vi": [
+          "thuốc chống đông máu"
+        ]
+      },
+      "relatedTermIds": [
+        "term_contraindication"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "MedlinePlus: Blood Thinners"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_product_sensitization",
+      "domain": "consultation_analysis",
+      "term": {
+        "en": "Sensitization (product allergy)",
+        "vi": "Mẫn cảm với sản phẩm (sensitization)"
+      },
+      "phonetic": {
+        "en": "SEN-sih-tih-ZAY-shun"
+      },
+      "definition": {
+        "en": "Becoming allergic to a product ingredient after repeated contact, such as nail monomers touching the skin. A sensitized client can react with redness, swelling and pain around the nail and should be referred to a physician.",
+        "vi": "Trở nên dị ứng với một thành phần sản phẩm sau nhiều lần tiếp xúc, ví dụ nước acrylic (monomer) dính vào da. Khách đã bị mẫn cảm có thể bị đỏ, sưng và đau quanh móng, và nên được giới thiệu đến bác sĩ."
+      },
+      "aliases": {
+        "en": [
+          "allergic sensitization"
+        ],
+        "vi": [
+          "dị ứng sản phẩm"
+        ]
+      },
+      "relatedTermIds": [
+        "term_contraindication",
+        "term_service_record"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "FDA: Nail Care Products"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_apex",
+      "domain": "enhancements",
+      "term": {
+        "en": "Apex",
+        "vi": "Apex (điểm cao nhất của móng)"
+      },
+      "phonetic": {
+        "en": "AY-peks"
+      },
+      "definition": {
+        "en": "The highest, thickest point of an enhancement, built over the stress area to give the nail strength where it bends most.",
+        "vi": "Điểm cao và dày nhất của móng nhân tạo, được đắp ngay trên vùng chịu lực (stress area) để móng chắc ở chỗ hay bị uốn nhất."
+      },
+      "aliases": {
+        "en": [
+          "arch",
+          "high point"
+        ],
+        "vi": [
+          "điểm cao"
+        ]
+      },
+      "relatedTermIds": [
+        "term_stress_area",
+        "term_c_curve",
+        "term_fill"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIC Nail Technology Theory content outline: Nail Enhancements (structure and apex)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_stress_area",
+      "domain": "enhancements",
+      "term": {
+        "en": "Stress area",
+        "vi": "Stress area (vùng chịu lực)"
+      },
+      "phonetic": {
+        "en": "STRES AIR-ee-uh"
+      },
+      "definition": {
+        "en": "The part of the nail where the free edge extends past the finger. It bends the most, so it needs the most product.",
+        "vi": "Phần móng nơi đầu móng (free edge) bắt đầu vươn ra khỏi ngón tay. Đây là chỗ bị uốn nhiều nhất nên cần nhiều sản phẩm nhất."
+      },
+      "aliases": {
+        "en": [
+          "stress point"
+        ],
+        "vi": [
+          "vùng chịu lực"
+        ]
+      },
+      "relatedTermIds": [
+        "term_apex"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIC Nail Technology Theory content outline: Nail Enhancements (structure and apex)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_c_curve",
+      "domain": "enhancements",
+      "term": {
+        "en": "C-curve",
+        "vi": "C-curve (độ cong ngang của móng)"
+      },
+      "phonetic": {
+        "en": "SEE kurv"
+      },
+      "definition": {
+        "en": "The side-to-side curve of the nail seen from the free edge, shaped like the letter C. An even C-curve adds strength.",
+        "vi": "Độ cong từ bên này sang bên kia của móng khi nhìn từ đầu móng, giống hình chữ C. C-curve đều giúp móng chắc hơn."
+      },
+      "aliases": {
+        "en": [
+          "cross curve"
+        ],
+        "vi": []
+      },
+      "relatedTermIds": [
+        "term_apex"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIC Nail Technology Theory content outline: Nail Enhancements (structure and apex)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_tip_well",
+      "domain": "enhancements",
+      "term": {
+        "en": "Tip well",
+        "vi": "Tip well (lòng típ)"
+      },
+      "phonetic": {
+        "en": "TIP wel"
+      },
+      "definition": {
+        "en": "The thinner part of a nail tip that is glued onto the natural nail. Also called the contact area.",
+        "vi": "Phần mỏng hơn của móng típ, được dán lên móng thật bằng keo. Còn gọi là vùng tiếp xúc (contact area)."
+      },
+      "aliases": {
+        "en": [
+          "well",
+          "contact area"
+        ],
+        "vi": [
+          "vùng tiếp xúc"
+        ]
+      },
+      "relatedTermIds": [],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIC Nail Technology Theory content outline: Nail Enhancements (nail tips)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_nail_wrap",
+      "domain": "enhancements",
+      "term": {
+        "en": "Nail wrap",
+        "vi": "Nail wrap (bọc móng)"
+      },
+      "phonetic": {
+        "en": "NAYL rap"
+      },
+      "definition": {
+        "en": "A layer of fabric or paper bonded to the nail with adhesive to strengthen or repair it. Common fabrics are silk, linen and fiberglass.",
+        "vi": "Một lớp vải hoặc giấy được dán lên móng bằng keo để làm móng chắc hơn hoặc để sửa móng. Các loại vải thường dùng là lụa (silk), vải lanh (linen) và sợi thủy tinh (fiberglass)."
+      },
+      "aliases": {
+        "en": [
+          "fabric wrap",
+          "silk wrap"
+        ],
+        "vi": [
+          "bọc lụa"
+        ]
+      },
+      "relatedTermIds": [],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIC Nail Technology Theory content outline: Nail Enhancements (nail wraps)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_mix_ratio",
+      "domain": "enhancements",
+      "term": {
+        "en": "Mix ratio",
+        "vi": "Mix ratio (tỷ lệ nước và bột)"
+      },
+      "phonetic": {
+        "en": "MIKS RAY-shee-oh"
+      },
+      "definition": {
+        "en": "The amount of liquid monomer compared with powder polymer in a bead. Too wet or too dry a bead weakens the enhancement.",
+        "vi": "Lượng nước monomer so với bột polymer trong một viên bột. Viên bột quá ướt hoặc quá khô đều làm móng yếu."
+      },
+      "aliases": {
+        "en": [
+          "liquid-to-powder ratio"
+        ],
+        "vi": [
+          "tỷ lệ bột nước"
+        ]
+      },
+      "relatedTermIds": [
+        "term_acrylic_bead"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIC Nail Technology Theory content outline: Nail Enhancements (liquid and powder)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_acrylic_bead",
+      "domain": "enhancements",
+      "term": {
+        "en": "Bead",
+        "vi": "Bead (viên bột)"
+      },
+      "phonetic": {
+        "en": "BEED"
+      },
+      "definition": {
+        "en": "The small ball of mixed liquid and powder picked up on the brush and placed on the nail.",
+        "vi": "Viên bột nhỏ gồm nước và bột đã hòa, được lấy bằng cọ và đặt lên móng."
+      },
+      "aliases": {
+        "en": [
+          "ball"
+        ],
+        "vi": [
+          "viên bột"
+        ]
+      },
+      "relatedTermIds": [
+        "term_mix_ratio"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIC Nail Technology Theory content outline: Nail Enhancements (liquid and powder)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_inhibition_layer",
+      "domain": "enhancements",
+      "term": {
+        "en": "Inhibition layer",
+        "vi": "Inhibition layer (lớp dính của gel)"
+      },
+      "phonetic": {
+        "en": "in-hih-BISH-un LAY-er"
+      },
+      "definition": {
+        "en": "The sticky, uncured film left on the surface of many gels after curing, because air stops the top surface from hardening. Keep it off the skin.",
+        "vi": "Lớp dính chưa đông còn lại trên bề mặt nhiều loại gel sau khi hơ đèn, vì không khí làm lớp trên cùng không cứng được. Không để lớp này dính da."
+      },
+      "aliases": {
+        "en": [
+          "tacky layer",
+          "sticky layer"
+        ],
+        "vi": [
+          "lớp dính"
+        ]
+      },
+      "relatedTermIds": [
+        "term_photoinitiator"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIC Nail Technology Theory content outline: Nail Enhancements (light-cured gels)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_photoinitiator",
+      "domain": "enhancements",
+      "term": {
+        "en": "Photoinitiator",
+        "vi": "Photoinitiator (chất quang khởi đầu)"
+      },
+      "phonetic": {
+        "en": "foh-toh-ih-NISH-ee-ay-ter"
+      },
+      "definition": {
+        "en": "An ingredient in light-cured gel that starts the hardening reaction when exposed to UV or LED light of the right wavelength.",
+        "vi": "Thành phần trong gel đèn giúp bắt đầu phản ứng đông cứng khi được chiếu đèn UV hoặc LED đúng bước sóng."
+      },
+      "aliases": {
+        "en": [],
+        "vi": []
+      },
+      "relatedTermIds": [
+        "term_inhibition_layer"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIC Nail Technology Theory content outline: Nail Enhancements (light-cured gels)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_dip_activator",
+      "domain": "enhancements",
+      "term": {
+        "en": "Dip activator",
+        "vi": "Activator (chất kích hoạt của bột nhúng)"
+      },
+      "phonetic": {
+        "en": "DIP AK-tih-vay-ter"
+      },
+      "definition": {
+        "en": "The liquid in a dip powder system that hardens the adhesive base and powder layers.",
+        "vi": "Chất lỏng trong hệ thống bột nhúng (dip) giúp làm cứng lớp keo lót (base) và lớp bột."
+      },
+      "aliases": {
+        "en": [
+          "activator"
+        ],
+        "vi": []
+      },
+      "relatedTermIds": [],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIC Nail Technology Theory content outline: Nail Enhancements"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_fill",
+      "domain": "enhancements",
+      "term": {
+        "en": "Fill",
+        "vi": "Fill (đổ móng)"
+      },
+      "phonetic": {
+        "en": "FIL"
+      },
+      "definition": {
+        "en": "Maintenance service that covers the new growth near the cuticle area and rebalances the enhancement so the apex sits over the stress area again.",
+        "vi": "Dịch vụ bảo trì phủ phần móng mới mọc gần gốc móng và cân chỉnh lại bộ móng để apex nằm lại đúng vùng chịu lực."
+      },
+      "aliases": {
+        "en": [
+          "rebalance",
+          "backfill"
+        ],
+        "vi": [
+          "đổ móng",
+          "dặm móng"
+        ]
+      },
+      "relatedTermIds": [
+        "term_apex",
+        "term_lifting"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIC Nail Technology Theory content outline: Nail Enhancements (maintenance)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_lifting",
+      "domain": "enhancements",
+      "term": {
+        "en": "Lifting",
+        "vi": "Lifting (hở chân móng)"
+      },
+      "phonetic": {
+        "en": "LIF-ting"
+      },
+      "definition": {
+        "en": "When an enhancement separates from the natural nail, often at the cuticle area or sidewalls. Lifted product can trap moisture and debris.",
+        "vi": "Khi móng nhân tạo tách khỏi móng thật, thường ở vùng gốc móng hoặc hai thành móng. Phần bị hở có thể giữ ẩm và bụi bẩn bên dưới."
+      },
+      "aliases": {
+        "en": [],
+        "vi": [
+          "hở móng",
+          "bong móng"
+        ]
+      },
+      "relatedTermIds": [
+        "term_fill"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIC Nail Technology Theory content outline: Nail Enhancements (maintenance)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_soak_off",
+      "domain": "enhancements",
+      "term": {
+        "en": "Soak-off",
+        "vi": "Soak-off (ngâm tháo móng)"
+      },
+      "phonetic": {
+        "en": "SOHK awf"
+      },
+      "definition": {
+        "en": "Removing an enhancement by soaking it in acetone until the product softens, after first reducing its bulk. Hard gel is filed off instead.",
+        "vi": "Tháo móng nhân tạo bằng cách ngâm acetone cho đến khi sản phẩm mềm ra, sau khi đã dũa bớt độ dày. Gel cứng (hard gel) thì phải dũa để tháo."
+      },
+      "aliases": {
+        "en": [
+          "soak-off removal"
+        ],
+        "vi": [
+          "ngâm acetone"
+        ]
+      },
+      "relatedTermIds": [],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIC Nail Technology Theory content outline: Nail Enhancements (removal)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_cleaning",
+      "domain": "infection_control_safety",
+      "term": {
+        "en": "Cleaning",
+        "vi": "Làm sạch (cleaning)"
+      },
+      "definition": {
+        "en": "Removing visible dirt and debris, usually with soap or detergent and water. Cleaning comes before disinfection or sterilization but does not reliably kill germs on its own.",
+        "vi": "Loại bỏ bụi bẩn và mảnh vụn nhìn thấy được, thường bằng xà phòng hoặc chất tẩy rửa với nước. Làm sạch là bước trước khử trùng hoặc tiệt trùng, nhưng tự nó không chắc diệt được vi trùng."
+      },
+      "aliases": {
+        "en": [],
+        "vi": [
+          "rửa sạch"
+        ]
+      },
+      "relatedTermIds": [
+        "term_disinfection",
+        "term_sterilization"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "CDC Guideline for Disinfection and Sterilization in Healthcare Facilities (2008), Glossary: Cleaning"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_disinfection",
+      "domain": "infection_control_safety",
+      "term": {
+        "en": "Disinfection",
+        "vi": "Khử trùng (disinfection)"
+      },
+      "phonetic": {
+        "en": "dis-in-FEK-shun"
+      },
+      "definition": {
+        "en": "Using a chemical or heat to destroy most disease-causing microorganisms on non-living surfaces and implements. It does not necessarily kill bacterial spores.",
+        "vi": "Dùng hóa chất hoặc nhiệt để diệt hầu hết vi sinh vật gây bệnh trên bề mặt không sống và dụng cụ. Khử trùng không chắc diệt được bào tử vi khuẩn."
+      },
+      "aliases": {
+        "en": [
+          "disinfecting"
+        ],
+        "vi": [
+          "sát trùng dụng cụ"
+        ]
+      },
+      "relatedTermIds": [
+        "term_cleaning",
+        "term_sterilization",
+        "term_contact_time",
+        "term_epa_registration_number"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "CDC Guideline for Disinfection and Sterilization in Healthcare Facilities (2008), Glossary: Disinfection; Disinfectant"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_sterilization",
+      "domain": "infection_control_safety",
+      "term": {
+        "en": "Sterilization",
+        "vi": "Tiệt trùng (sterilization)"
+      },
+      "phonetic": {
+        "en": "ster-ih-lih-ZAY-shun"
+      },
+      "definition": {
+        "en": "A validated process that makes an item free of all forms of living microorganisms, including bacterial spores.",
+        "vi": "Quy trình đã được kiểm chứng giúp dụng cụ sạch hoàn toàn mọi dạng vi sinh vật sống, kể cả bào tử vi khuẩn."
+      },
+      "aliases": {
+        "en": [
+          "sterilizing"
+        ],
+        "vi": []
+      },
+      "relatedTermIds": [
+        "term_autoclave",
+        "term_biological_indicator",
+        "term_disinfection"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "CDC Guideline for Disinfection and Sterilization in Healthcare Facilities (2008), Glossary: Sterilization"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_antiseptic",
+      "domain": "infection_control_safety",
+      "term": {
+        "en": "Antiseptic",
+        "vi": "Thuốc sát trùng da (antiseptic)"
+      },
+      "phonetic": {
+        "en": "an-tih-SEP-tik"
+      },
+      "definition": {
+        "en": "A product that slows or stops the growth of microorganisms on living tissue such as skin. Antiseptics are not used to disinfect implements or surfaces.",
+        "vi": "Sản phẩm làm chậm hoặc ngăn sự phát triển của vi sinh vật trên mô sống như da. Không dùng antiseptic để khử trùng dụng cụ hay bề mặt."
+      },
+      "aliases": {
+        "en": [],
+        "vi": []
+      },
+      "relatedTermIds": [
+        "term_disinfection"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "CDC Guideline for Disinfection and Sterilization in Healthcare Facilities (2008), Glossary: Antiseptic"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_epa_registration_number",
+      "domain": "infection_control_safety",
+      "term": {
+        "en": "EPA registration number",
+        "vi": "Số đăng ký EPA (EPA registration number)"
+      },
+      "definition": {
+        "en": "The unique number on the label of a disinfectant registered by the US Environmental Protection Agency. It is the only reliable way to identify the exact product.",
+        "vi": "Số riêng in trên nhãn thuốc khử trùng đã được Cơ quan Bảo vệ Môi trường Hoa Kỳ (EPA) cho đăng ký. Đây là cách duy nhất để nhận biết chính xác sản phẩm."
+      },
+      "aliases": {
+        "en": [
+          "EPA Reg. No."
+        ],
+        "vi": []
+      },
+      "relatedTermIds": [
+        "term_disinfection",
+        "term_contact_time"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "EPA: Selected EPA-registered disinfectants, reading the label",
+        "EPA: Antimicrobial pesticide registration (FIFRA)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_contact_time",
+      "domain": "infection_control_safety",
+      "term": {
+        "en": "Contact time",
+        "vi": "Thời gian tiếp xúc (contact time)"
+      },
+      "definition": {
+        "en": "How long a disinfectant must stay in contact with a surface or implement, visibly wet, to kill the organisms listed on its label.",
+        "vi": "Khoảng thời gian thuốc khử trùng phải tiếp xúc với bề mặt hoặc dụng cụ, luôn ướt thấy rõ, để diệt các vi sinh vật ghi trên nhãn."
+      },
+      "aliases": {
+        "en": [
+          "dwell time"
+        ],
+        "vi": []
+      },
+      "relatedTermIds": [
+        "term_disinfection",
+        "term_epa_registration_number"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "EPA: Selected EPA-registered disinfectants, reading the label (contact time)",
+        "CDC Guideline for Disinfection and Sterilization in Healthcare Facilities (2008), Glossary: Contact time"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_autoclave",
+      "domain": "infection_control_safety",
+      "term": {
+        "en": "Autoclave",
+        "vi": "Nồi hấp tiệt trùng (autoclave)"
+      },
+      "phonetic": {
+        "en": "AW-toh-klayv"
+      },
+      "definition": {
+        "en": "A machine that sterilizes heat-tolerant implements with saturated steam under pressure.",
+        "vi": "Máy tiệt trùng dụng cụ chịu nhiệt bằng hơi nước bão hòa dưới áp suất."
+      },
+      "aliases": {
+        "en": [
+          "steam sterilizer"
+        ],
+        "vi": [
+          "máy hấp"
+        ]
+      },
+      "relatedTermIds": [
+        "term_sterilization",
+        "term_biological_indicator"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "CDC Guideline for Disinfection and Sterilization in Healthcare Facilities (2008), Sterilization: Steam Sterilization"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_biological_indicator",
+      "domain": "infection_control_safety",
+      "term": {
+        "en": "Biological indicator",
+        "vi": "Chỉ thị sinh học (biological indicator)"
+      },
+      "definition": {
+        "en": "A test containing highly resistant bacterial spores, run through a sterilizer to check directly that the cycle kills microorganisms. Also called a spore test.",
+        "vi": "Mẫu thử chứa bào tử vi khuẩn rất khó diệt, cho chạy qua máy tiệt trùng để kiểm tra trực tiếp xem chu kỳ có diệt được vi sinh vật không. Còn gọi là test bào tử (spore test)."
+      },
+      "aliases": {
+        "en": [
+          "spore test"
+        ],
+        "vi": [
+          "test bào tử"
+        ]
+      },
+      "relatedTermIds": [
+        "term_autoclave",
+        "term_sterilization"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "CDC Guideline for Disinfection and Sterilization in Healthcare Facilities (2008), Glossary: Biologic indicator; Sterilizing Practices: Monitoring"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_bloodborne_pathogens",
+      "domain": "infection_control_safety",
+      "term": {
+        "en": "Bloodborne pathogens",
+        "vi": "Mầm bệnh lây qua đường máu (bloodborne pathogens)"
+      },
+      "phonetic": {
+        "en": "BLUD-born PATH-oh-jenz"
+      },
+      "definition": {
+        "en": "Disease-causing microorganisms in human blood, such as hepatitis B virus and HIV.",
+        "vi": "Vi sinh vật gây bệnh có trong máu người, ví dụ vi-rút viêm gan B (hepatitis B) và HIV."
+      },
+      "aliases": {
+        "en": [
+          "BBP"
+        ],
+        "vi": []
+      },
+      "relatedTermIds": [
+        "term_universal_precautions",
+        "term_exposure_incident",
+        "term_sharps_container"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "OSHA Bloodborne Pathogens Standard, 29 CFR 1910.1030(b) Definitions: Bloodborne Pathogens"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_universal_precautions",
+      "domain": "infection_control_safety",
+      "term": {
+        "en": "Universal precautions",
+        "vi": "Phòng ngừa phổ quát (universal precautions)"
+      },
+      "definition": {
+        "en": "An approach to infection control in which all human blood and certain body fluids are treated as if they are known to be infectious.",
+        "vi": "Cách kiểm soát nhiễm khuẩn trong đó mọi loại máu người và một số dịch cơ thể đều được xem như chắc chắn có khả năng lây bệnh."
+      },
+      "aliases": {
+        "en": [],
+        "vi": []
+      },
+      "relatedTermIds": [
+        "term_bloodborne_pathogens",
+        "term_exposure_incident"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "OSHA Bloodborne Pathogens Standard, 29 CFR 1910.1030(b) Definitions: Universal Precautions"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_exposure_incident",
+      "domain": "infection_control_safety",
+      "term": {
+        "en": "Exposure incident",
+        "vi": "Sự cố phơi nhiễm (exposure incident)"
+      },
+      "definition": {
+        "en": "Contact at work between blood or other potentially infectious material and the eyes, mouth, other mucous membranes or broken skin, or through a puncture.",
+        "vi": "Khi đang làm việc, máu hoặc chất có khả năng lây nhiễm khác tiếp xúc với mắt, miệng, niêm mạc khác hoặc da bị trầy xước, hoặc đi vào qua vết đâm."
+      },
+      "aliases": {
+        "en": [],
+        "vi": []
+      },
+      "relatedTermIds": [
+        "term_bloodborne_pathogens",
+        "term_universal_precautions"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "OSHA Bloodborne Pathogens Standard, 29 CFR 1910.1030(b) Definitions: Exposure Incident"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_sharps_container",
+      "domain": "infection_control_safety",
+      "term": {
+        "en": "Sharps container",
+        "vi": "Hộp đựng vật sắc nhọn (sharps container)"
+      },
+      "definition": {
+        "en": "A closable, puncture-resistant container that does not leak on its sides or bottom and is labeled or color-coded, used for discarding contaminated blades and other sharps.",
+        "vi": "Hộp đóng kín được, chống đâm thủng, không rò rỉ ở thành và đáy, có dán nhãn hoặc mã màu, dùng để bỏ lưỡi dao và vật sắc nhọn đã dính máu."
+      },
+      "aliases": {
+        "en": [],
+        "vi": []
+      },
+      "relatedTermIds": [
+        "term_bloodborne_pathogens"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "OSHA Bloodborne Pathogens Standard, 29 CFR 1910.1030(d)(4)(iii)(A)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_safety_data_sheet",
+      "domain": "infection_control_safety",
+      "term": {
+        "en": "Safety Data Sheet (SDS)",
+        "vi": "Bảng dữ liệu an toàn (SDS)"
+      },
+      "definition": {
+        "en": "A 16-section document from the manufacturer that describes a hazardous chemical, its hazards, safe handling, protective equipment and first aid. Employers must keep one for each hazardous chemical used.",
+        "vi": "Tài liệu 16 mục của nhà sản xuất mô tả một hóa chất nguy hiểm, các mối nguy, cách sử dụng an toàn, đồ bảo hộ và sơ cứu. Chủ phải có SDS cho từng hóa chất nguy hiểm đang dùng."
+      },
+      "aliases": {
+        "en": [
+          "SDS",
+          "MSDS"
+        ],
+        "vi": []
+      },
+      "relatedTermIds": [],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "OSHA Hazard Communication Standard, 29 CFR 1910.1200(g)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_n95_respirator",
+      "domain": "infection_control_safety",
+      "term": {
+        "en": "N95 respirator",
+        "vi": "Khẩu trang N95 (N95 respirator)"
+      },
+      "definition": {
+        "en": "A NIOSH-approved filtering mask that protects against particles such as dust from filing and acrylic powder. It does not protect against chemical gases or vapors.",
+        "vi": "Khẩu trang lọc được NIOSH chứng nhận, bảo vệ khỏi các hạt nhỏ như bụi dũa móng và bột acrylic. Nó không bảo vệ khỏi khí hay hơi hóa chất."
+      },
+      "aliases": {
+        "en": [
+          "N95 mask"
+        ],
+        "vi": []
+      },
+      "relatedTermIds": [],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "OSHA Nail Salons: Chemical Hazards, masks and respirators (osha.gov/nail-salons/chemical-hazards)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_shape_square",
+      "domain": "manicure_pedicure",
+      "term": {
+        "en": "Square nail",
+        "vi": "Móng vuông (square)"
+      },
+      "phonetic": {
+        "en": "SKWAIR"
+      },
+      "definition": {
+        "en": "A nail shape with a free edge filed straight across and sharp, squared corners.",
+        "vi": "Dáng móng có đầu móng (free edge) dũa thẳng ngang và hai góc vuông sắc."
+      },
+      "aliases": {
+        "en": [],
+        "vi": []
+      },
+      "relatedTermIds": [
+        "term_shape_squoval"
+      ],
+      "diagram": {
+        "asset": "diagrams/nail_shapes.svg",
+        "highlight": "shape_square"
+      },
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIC National Nail Technology Theory CIB, content outline: Manicure and Pedicure Services (trim and shape nails)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_shape_squoval",
+      "domain": "manicure_pedicure",
+      "term": {
+        "en": "Squoval nail",
+        "vi": "Móng vuông bo (squoval)"
+      },
+      "phonetic": {
+        "en": "SKWO-vul"
+      },
+      "definition": {
+        "en": "A square nail with softly rounded corners: the free edge is straight across, and the corners are filed into a gentle curve.",
+        "vi": "Móng vuông có hai góc được bo tròn nhẹ: đầu móng thẳng ngang, hai góc được dũa cong mềm."
+      },
+      "aliases": {
+        "en": [
+          "soft square"
+        ],
+        "vi": [
+          "vuông bo góc"
+        ]
+      },
+      "relatedTermIds": [
+        "term_shape_square",
+        "term_shape_oval"
+      ],
+      "diagram": {
+        "asset": "diagrams/nail_shapes.svg",
+        "highlight": "shape_squoval"
+      },
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIC National Nail Technology Theory CIB, content outline: Manicure and Pedicure Services (trim and shape nails)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_shape_round",
+      "domain": "manicure_pedicure",
+      "term": {
+        "en": "Round nail",
+        "vi": "Móng tròn (round)"
+      },
+      "phonetic": {
+        "en": "ROWND"
+      },
+      "definition": {
+        "en": "A nail shape with straight sides and a free edge filed into an even curve that follows the fingertip.",
+        "vi": "Dáng móng có hai cạnh thẳng và đầu móng được dũa cong đều theo đầu ngón tay."
+      },
+      "aliases": {
+        "en": [],
+        "vi": []
+      },
+      "relatedTermIds": [
+        "term_shape_oval"
+      ],
+      "diagram": {
+        "asset": "diagrams/nail_shapes.svg",
+        "highlight": "shape_round"
+      },
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIC National Nail Technology Theory CIB, content outline: Manicure and Pedicure Services (trim and shape nails)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_shape_oval",
+      "domain": "manicure_pedicure",
+      "term": {
+        "en": "Oval nail",
+        "vi": "Móng bầu dục (oval)"
+      },
+      "phonetic": {
+        "en": "OH-vul"
+      },
+      "definition": {
+        "en": "A nail shape whose sides taper slightly toward a rounded tip, like the end of an egg.",
+        "vi": "Dáng móng có hai bên thon nhẹ về phía đầu móng tròn, giống đầu quả trứng."
+      },
+      "aliases": {
+        "en": [],
+        "vi": []
+      },
+      "relatedTermIds": [
+        "term_shape_round",
+        "term_shape_almond"
+      ],
+      "diagram": {
+        "asset": "diagrams/nail_shapes.svg",
+        "highlight": "shape_oval"
+      },
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIC National Nail Technology Theory CIB, content outline: Manicure and Pedicure Services (trim and shape nails)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_shape_almond",
+      "domain": "manicure_pedicure",
+      "term": {
+        "en": "Almond nail",
+        "vi": "Móng hạnh nhân (almond)"
+      },
+      "phonetic": {
+        "en": "AH-mund"
+      },
+      "definition": {
+        "en": "A nail shape whose sides taper more than an oval to a narrower, softly rounded tip, like an almond.",
+        "vi": "Dáng móng có hai bên thon nhiều hơn móng oval, về một đầu hẹp và bo tròn nhẹ, giống hạt hạnh nhân."
+      },
+      "aliases": {
+        "en": [],
+        "vi": []
+      },
+      "relatedTermIds": [
+        "term_shape_oval",
+        "term_shape_stiletto"
+      ],
+      "diagram": {
+        "asset": "diagrams/nail_shapes.svg",
+        "highlight": "shape_almond"
+      },
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIC National Nail Technology Theory CIB, content outline: Manicure and Pedicure Services (trim and shape nails)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_shape_stiletto",
+      "domain": "manicure_pedicure",
+      "term": {
+        "en": "Stiletto nail",
+        "vi": "Móng nhọn (stiletto)"
+      },
+      "phonetic": {
+        "en": "stih-LET-oh"
+      },
+      "definition": {
+        "en": "A nail shape whose sides taper sharply from both sidewalls to a fine point.",
+        "vi": "Dáng móng có hai bên thon nhanh từ hai vách móng lại thành một đầu nhọn."
+      },
+      "aliases": {
+        "en": [],
+        "vi": []
+      },
+      "relatedTermIds": [
+        "term_shape_almond"
+      ],
+      "diagram": {
+        "asset": "diagrams/nail_shapes.svg",
+        "highlight": "shape_stiletto"
+      },
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIC National Nail Technology Theory CIB, content outline: Manicure and Pedicure Services (trim and shape nails)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_effleurage",
+      "domain": "manicure_pedicure",
+      "term": {
+        "en": "Effleurage",
+        "vi": "Effleurage (vuốt nhẹ)"
+      },
+      "phonetic": {
+        "en": "EF-loo-rahzh"
+      },
+      "definition": {
+        "en": "A light, continuous gliding massage stroke used to relax the client and to begin and end a massage.",
+        "vi": "Động tác massage vuốt nhẹ, trượt liên tục, giúp khách thư giãn, dùng để mở đầu và kết thúc phần massage."
+      },
+      "aliases": {
+        "en": [
+          "gliding stroke"
+        ],
+        "vi": []
+      },
+      "relatedTermIds": [
+        "term_petrissage",
+        "term_friction_massage"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIC National Nail Technology Theory CIB, content outline: Manicure and Pedicure Services (hand and foot massage)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_petrissage",
+      "domain": "manicure_pedicure",
+      "term": {
+        "en": "Petrissage",
+        "vi": "Petrissage (nhào bóp)"
+      },
+      "phonetic": {
+        "en": "PEH-trih-sahzh"
+      },
+      "definition": {
+        "en": "A kneading massage movement that lifts, squeezes and presses the muscle.",
+        "vi": "Động tác massage nhào bóp: nâng, bóp và ấn vào cơ."
+      },
+      "aliases": {
+        "en": [
+          "kneading"
+        ],
+        "vi": []
+      },
+      "relatedTermIds": [
+        "term_effleurage",
+        "term_friction_massage"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIC National Nail Technology Theory CIB, content outline: Manicure and Pedicure Services (hand and foot massage)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_friction_massage",
+      "domain": "manicure_pedicure",
+      "term": {
+        "en": "Friction (massage)",
+        "vi": "Friction (chà xát)"
+      },
+      "phonetic": {
+        "en": "FRIK-shun"
+      },
+      "definition": {
+        "en": "A deep rubbing massage movement, often in small circles, that moves one layer of tissue over another.",
+        "vi": "Động tác massage chà xát sâu, thường theo vòng tròn nhỏ, làm một lớp mô di chuyển trên lớp mô khác."
+      },
+      "aliases": {
+        "en": [],
+        "vi": []
+      },
+      "relatedTermIds": [
+        "term_petrissage"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIC National Nail Technology Theory CIB, content outline: Manicure and Pedicure Services (hand and foot massage)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_paraffin_wax",
+      "domain": "manicure_pedicure",
+      "term": {
+        "en": "Paraffin wax treatment",
+        "vi": "Sáp paraffin"
+      },
+      "phonetic": {
+        "en": "PAIR-uh-fin"
+      },
+      "definition": {
+        "en": "A spa add-on in which warm paraffin wax coats the hands or feet to hold in heat and moisture and soften dry skin. It is not used over open cuts or irritated skin.",
+        "vi": "Dịch vụ spa thêm, phủ sáp paraffin ấm lên tay hoặc chân để giữ nhiệt và độ ẩm, làm mềm da khô. Không dùng trên vết thương hở hoặc da bị kích ứng."
+      },
+      "aliases": {
+        "en": [
+          "paraffin dip"
+        ],
+        "vi": [
+          "nhúng sáp"
+        ]
+      },
+      "relatedTermIds": [],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIC National Nail Technology Theory CIB, content outline: Manicure and Pedicure Services (spa treatments)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_whirlpool_foot_spa",
+      "domain": "manicure_pedicure",
+      "term": {
+        "en": "Whirlpool foot spa",
+        "vi": "Bồn ngâm chân có sục (whirlpool foot spa)"
+      },
+      "phonetic": {
+        "en": "WURL-pool FOOT spah"
+      },
+      "definition": {
+        "en": "A pedicure basin that circulates water. Its screen and removable parts trap debris, so state rules set strict cleaning steps after each client, at the end of each day, and on a longer schedule.",
+        "vi": "Bồn ngâm chân có nước chạy tuần hoàn. Lưới lọc và các bộ phận tháo rời dễ giữ cặn bẩn, nên quy định tiểu bang đặt ra các bước vệ sinh nghiêm ngặt sau mỗi khách, cuối mỗi ngày và theo lịch dài hơn."
+      },
+      "aliases": {
+        "en": [
+          "whirlpool footspa",
+          "pedicure spa"
+        ],
+        "vi": [
+          "ghế pedicure có sục"
+        ]
+      },
+      "relatedTermIds": [
+        "term_pipeless_foot_spa",
+        "term_foot_spa_liner",
+        "term_pedicure_cleaning_log"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "16 CCR §980.1 (California), checked 2026-11-02",
+        "16 TAC §83.108 (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_pipeless_foot_spa",
+      "domain": "manicure_pedicure",
+      "term": {
+        "en": "Pipeless foot spa",
+        "vi": "Bồn ngâm chân không ống (pipeless)"
+      },
+      "phonetic": {
+        "en": "PIPE-less FOOT spah"
+      },
+      "definition": {
+        "en": "A foot spa that moves water with footplates, impellers or propellers instead of pipes. In California, the footplate and other removable parts are taken out and scrubbed after every client.",
+        "vi": "Bồn ngâm chân tạo dòng nước bằng tấm để chân (footplate), cánh quạt (impeller) hoặc chân vịt thay vì đường ống. Ở California, tấm để chân và các bộ phận tháo rời phải được tháo ra chà rửa sau mỗi khách."
+      },
+      "aliases": {
+        "en": [
+          "pipe-less footspa"
+        ],
+        "vi": []
+      },
+      "relatedTermIds": [
+        "term_whirlpool_foot_spa"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "16 CCR §980.3 (California), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_foot_spa_liner",
+      "domain": "manicure_pedicure",
+      "term": {
+        "en": "Disposable foot spa liner",
+        "vi": "Túi lót bồn ngâm chân dùng một lần (liner)"
+      },
+      "phonetic": {
+        "en": "dis-POH-zuh-bul LY-ner"
+      },
+      "definition": {
+        "en": "A single-use plastic liner placed in a foot basin and thrown away after one client. It is never disinfected or reused, and the basin is still cleaned after it is removed.",
+        "vi": "Túi nhựa lót trong bồn ngâm chân, chỉ dùng cho một khách rồi bỏ đi. Không bao giờ khử trùng hay dùng lại, và bồn vẫn phải được vệ sinh sau khi bỏ túi lót."
+      },
+      "aliases": {
+        "en": [
+          "spa liner",
+          "tub liner"
+        ],
+        "vi": [
+          "bao lót bồn"
+        ]
+      },
+      "relatedTermIds": [
+        "term_whirlpool_foot_spa"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "16 CCR §980.4 (California), checked 2026-11-02",
+        "16 TAC §83.108(h), (j) (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_pedicure_cleaning_log",
+      "domain": "manicure_pedicure",
+      "term": {
+        "en": "Foot spa cleaning log",
+        "vi": "Sổ ghi vệ sinh bồn ngâm chân (cleaning log)"
+      },
+      "phonetic": {
+        "en": "FOOT spah KLEEN-ing log"
+      },
+      "definition": {
+        "en": "A written record of each foot spa or basin cleaning, with the date and time. It must be shown to a client or a state board representative on request.",
+        "vi": "Sổ ghi lại mỗi lần vệ sinh bồn ngâm chân hoặc chậu ngâm, có ngày và giờ. Phải cho khách hoặc người đại diện của hội đồng tiểu bang xem khi được yêu cầu."
+      },
+      "aliases": {
+        "en": [
+          "pedicure equipment-cleaning log",
+          "foot spa record"
+        ],
+        "vi": [
+          "sổ vệ sinh bồn"
+        ]
+      },
+      "relatedTermIds": [
+        "term_whirlpool_foot_spa"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "16 CCR §980.1(f) (California), checked 2026-11-02",
+        "16 TAC §83.108(e), (l) (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_service_setup",
+      "domain": "service_prep_post",
+      "term": {
+        "en": "Workstation setup",
+        "vi": "Chuẩn bị bàn làm (workstation setup)"
+      },
+      "definition": {
+        "en": "Getting the station ready before a client sits down: a disinfected table, a clean towel, disinfected implements taken from clean storage and new single-use items.",
+        "vi": "Chuẩn bị bàn trước khi khách ngồi xuống: mặt bàn đã khử trùng, khăn sạch, dụng cụ đã khử trùng lấy từ chỗ cất sạch và vật dụng dùng một lần còn mới."
+      },
+      "aliases": {
+        "en": [
+          "station setup",
+          "pre-service setup"
+        ],
+        "vi": [
+          "set up bàn"
+        ]
+      },
+      "relatedTermIds": [
+        "term_hand_hygiene",
+        "term_disinfected_storage"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIC Nail Technology Theory content outline: Service Preparation",
+        "16 TAC §83.102 (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_hand_hygiene",
+      "domain": "service_prep_post",
+      "term": {
+        "en": "Hand hygiene",
+        "vi": "Vệ sinh tay (hand hygiene)"
+      },
+      "definition": {
+        "en": "Cleaning the hands with soap and running water, scrubbing for at least 20 seconds, or with a hand sanitizer where allowed. Practitioners clean their hands before each client and after removing gloves.",
+        "vi": "Làm sạch tay bằng xà phòng và nước chảy, chà ít nhất 20 giây, hoặc bằng nước rửa tay khô (hand sanitizer) khi được phép. Thợ phải làm sạch tay trước mỗi khách và sau khi tháo găng tay."
+      },
+      "aliases": {
+        "en": [
+          "hand washing"
+        ],
+        "vi": [
+          "rửa tay"
+        ]
+      },
+      "relatedTermIds": [
+        "term_service_setup"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "CDC: Clean Hands – handwashing steps",
+        "OSHA Bloodborne Pathogens Standard, 29 CFR 1910.1030(d)(2)(v)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_disinfected_storage",
+      "domain": "service_prep_post",
+      "term": {
+        "en": "Disinfected storage",
+        "vi": "Chỗ cất dụng cụ đã khử trùng (disinfected storage)"
+      },
+      "definition": {
+        "en": "A clean place where disinfected implements are kept until use, separate from used items. In California it must be covered and labeled \"Clean\" or \"Disinfected\".",
+        "vi": "Chỗ sạch để cất dụng cụ đã khử trùng cho tới khi dùng, để riêng với đồ đã dùng. Ở California chỗ này phải có nắp đậy và dán nhãn \"Clean\" hoặc \"Disinfected\"."
+      },
+      "aliases": {
+        "en": [
+          "clean container"
+        ],
+        "vi": [
+          "hộp đồ sạch"
+        ]
+      },
+      "relatedTermIds": [
+        "term_soiled_container",
+        "term_new_items_storage"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "16 CCR §979(d) (California), checked 2026-11-02",
+        "16 TAC §83.102(f) (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_soiled_container",
+      "domain": "service_prep_post",
+      "term": {
+        "en": "Soiled container",
+        "vi": "Hộp đựng đồ dơ (soiled container)"
+      },
+      "definition": {
+        "en": "A container for used implements waiting to be cleaned and disinfected. In California it is labeled \"Dirty\", \"Soiled\" or \"Contaminated\".",
+        "vi": "Hộp đựng dụng cụ đã dùng đang chờ làm sạch và khử trùng. Ở California hộp này dán nhãn \"Dirty\", \"Soiled\" hoặc \"Contaminated\"."
+      },
+      "aliases": {
+        "en": [
+          "dirty container",
+          "used implement container"
+        ],
+        "vi": [
+          "hộp đồ dơ"
+        ]
+      },
+      "relatedTermIds": [
+        "term_disinfected_storage"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "16 CCR §979(c) (California), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_new_items_storage",
+      "domain": "service_prep_post",
+      "term": {
+        "en": "\"New\" storage",
+        "vi": "Chỗ cất đồ mới (\"New\" storage)"
+      },
+      "definition": {
+        "en": "In California, new supplies and disposable items are kept in a clean, covered place labeled \"New\" until they are used.",
+        "vi": "Ở California, vật tư mới và đồ dùng một lần được cất trong chỗ sạch, có nắp đậy, dán nhãn \"New\" cho tới khi sử dụng."
+      },
+      "aliases": {
+        "en": [],
+        "vi": []
+      },
+      "relatedTermIds": [
+        "term_disinfected_storage"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "16 CCR §981 (California), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_post_service_cleanup",
+      "domain": "service_prep_post",
+      "term": {
+        "en": "Post-service cleanup",
+        "vi": "Dọn dẹp sau dịch vụ (post-service cleanup)"
+      },
+      "definition": {
+        "en": "The tasks after each client: discard single-use items, place used implements in the soiled container for cleaning and disinfection, remove used towels and disinfect the work surface.",
+        "vi": "Các việc làm sau mỗi khách: bỏ đồ dùng một lần, bỏ dụng cụ đã dùng vào hộp đồ dơ để làm sạch và khử trùng, dọn khăn đã dùng và khử trùng mặt bàn."
+      },
+      "aliases": {
+        "en": [
+          "cleanup between clients"
+        ],
+        "vi": [
+          "dọn bàn"
+        ]
+      },
+      "relatedTermIds": [
+        "term_soiled_container"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIC Nail Technology Theory content outline: Post-Service",
+        "16 TAC §83.102 (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_rebooking",
+      "domain": "service_prep_post",
+      "term": {
+        "en": "Rebooking",
+        "vi": "Đặt hẹn lần sau (rebooking)"
+      },
+      "definition": {
+        "en": "Scheduling the client's next appointment before they leave, timed to the service they had (for example, a fill or a polish change).",
+        "vi": "Hẹn lịch lần tới cho khách trước khi khách về, tính theo dịch vụ khách vừa làm (ví dụ đắp lại (fill) hay đổi màu sơn)."
+      },
+      "aliases": {
+        "en": [
+          "next appointment"
+        ],
+        "vi": [
+          "hẹn lịch"
+        ]
+      },
+      "relatedTermIds": [
+        "term_home_care"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIC Nail Technology Theory content outline: Post-Service"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_home_care",
+      "domain": "service_prep_post",
+      "term": {
+        "en": "Home-care recommendation",
+        "vi": "Hướng dẫn chăm sóc tại nhà (home care)"
+      },
+      "definition": {
+        "en": "Advice and suitable retail products suggested at the end of a service so the client can keep nails and skin in good condition until the next visit.",
+        "vi": "Lời khuyên và sản phẩm phù hợp được giới thiệu cuối buổi làm để khách giữ móng và da tốt cho tới lần hẹn sau."
+      },
+      "aliases": {
+        "en": [
+          "retail recommendation",
+          "aftercare"
+        ],
+        "vi": [
+          "giới thiệu sản phẩm"
+        ]
+      },
+      "relatedTermIds": [
+        "term_rebooking"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIC Nail Technology Theory content outline: Post-Service"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_epidermis",
+      "domain": "skin_care",
+      "term": {
+        "en": "Epidermis",
+        "vi": "Biểu bì (epidermis)"
+      },
+      "phonetic": {
+        "en": "ep-ih-DER-mis"
+      },
+      "definition": {
+        "en": "The outermost layer of the skin. It has no blood vessels and forms the body's main barrier against water loss and germs.",
+        "vi": "Lớp ngoài cùng của da. Lớp này không có mạch máu và là hàng rào chính giúp cơ thể giữ nước và ngăn vi trùng."
+      },
+      "aliases": {
+        "en": [
+          "cuticle of the skin"
+        ],
+        "vi": [
+          "lớp biểu bì"
+        ]
+      },
+      "relatedTermIds": [
+        "term_dermis",
+        "term_stratum_corneum",
+        "term_stratum_basale"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIH StatPearls: Anatomy, Skin (Integument), Epidermis",
+        "MedlinePlus: Skin layers"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_dermis",
+      "domain": "skin_care",
+      "term": {
+        "en": "Dermis",
+        "vi": "Chân bì (dermis)"
+      },
+      "phonetic": {
+        "en": "DER-mis"
+      },
+      "definition": {
+        "en": "The thick layer under the epidermis. It holds blood vessels, nerves, sweat and oil glands and hair follicles, and its collagen and elastin fibres give skin strength and stretch.",
+        "vi": "Lớp da dày nằm dưới biểu bì. Lớp này chứa mạch máu, dây thần kinh, tuyến mồ hôi, tuyến dầu và nang lông; sợi collagen và elastin giúp da chắc và đàn hồi."
+      },
+      "aliases": {
+        "en": [
+          "true skin"
+        ],
+        "vi": [
+          "lớp chân bì"
+        ]
+      },
+      "relatedTermIds": [
+        "term_epidermis",
+        "term_subcutaneous_layer",
+        "term_sebaceous_gland",
+        "term_eccrine_gland"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIH StatPearls: Anatomy, Skin (Integument)",
+        "MedlinePlus: Skin layers"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_subcutaneous_layer",
+      "domain": "skin_care",
+      "term": {
+        "en": "Subcutaneous layer",
+        "vi": "Lớp dưới da (subcutaneous layer)"
+      },
+      "phonetic": {
+        "en": "sub-kyoo-TAY-nee-us"
+      },
+      "definition": {
+        "en": "The fatty layer below the dermis. It cushions the body, stores energy and helps hold in body heat.",
+        "vi": "Lớp mỡ nằm dưới chân bì. Lớp này đệm che chở cơ thể, dự trữ năng lượng và giúp giữ nhiệt."
+      },
+      "aliases": {
+        "en": [
+          "hypodermis",
+          "subcutis"
+        ],
+        "vi": [
+          "hạ bì"
+        ]
+      },
+      "relatedTermIds": [
+        "term_dermis"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIH StatPearls: Anatomy, Skin (Integument)",
+        "MedlinePlus: Skin layers"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_stratum_corneum",
+      "domain": "skin_care",
+      "term": {
+        "en": "Stratum corneum",
+        "vi": "Lớp sừng (stratum corneum)"
+      },
+      "phonetic": {
+        "en": "STRAY-tum KOR-nee-um"
+      },
+      "definition": {
+        "en": "The top layer of the epidermis, made of flat, dead cells filled with keratin. These cells are shed all the time and are what exfoliation removes.",
+        "vi": "Lớp trên cùng của biểu bì, gồm các tế bào chết dẹt chứa đầy keratin. Các tế bào này bong ra liên tục và là phần được lấy đi khi tẩy tế bào chết."
+      },
+      "aliases": {
+        "en": [
+          "horny layer"
+        ],
+        "vi": []
+      },
+      "relatedTermIds": [
+        "term_epidermis",
+        "term_exfoliation"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIH StatPearls: Anatomy, Skin (Integument), Epidermis"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_stratum_basale",
+      "domain": "skin_care",
+      "term": {
+        "en": "Stratum basale",
+        "vi": "Lớp đáy (stratum basale)"
+      },
+      "phonetic": {
+        "en": "STRAY-tum bay-SAL-ee"
+      },
+      "definition": {
+        "en": "The deepest layer of the epidermis, where new skin cells are made by cell division. It also contains the melanocytes that make melanin.",
+        "vi": "Lớp sâu nhất của biểu bì, nơi tế bào da mới được tạo ra bằng cách phân chia. Lớp này cũng có các tế bào hắc tố (melanocyte) tạo ra melanin."
+      },
+      "aliases": {
+        "en": [
+          "basal layer",
+          "stratum germinativum"
+        ],
+        "vi": [
+          "lớp mầm"
+        ]
+      },
+      "relatedTermIds": [
+        "term_epidermis",
+        "term_melanin"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIH StatPearls: Anatomy, Skin (Integument), Epidermis"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_melanin",
+      "domain": "skin_care",
+      "term": {
+        "en": "Melanin",
+        "vi": "Sắc tố melanin"
+      },
+      "phonetic": {
+        "en": "MEL-uh-nin"
+      },
+      "definition": {
+        "en": "The pigment that gives skin its colour. It is made by melanocytes and helps protect the skin from ultraviolet (UV) light.",
+        "vi": "Sắc tố tạo nên màu da. Melanin do tế bào hắc tố (melanocyte) tạo ra và giúp bảo vệ da khỏi tia cực tím (UV)."
+      },
+      "aliases": {
+        "en": [],
+        "vi": [
+          "hắc tố"
+        ]
+      },
+      "relatedTermIds": [
+        "term_stratum_basale"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIH StatPearls: Anatomy, Skin (Integument), Epidermis",
+        "American Academy of Dermatology: Vitiligo"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_sebaceous_gland",
+      "domain": "skin_care",
+      "term": {
+        "en": "Sebaceous gland",
+        "vi": "Tuyến dầu (sebaceous gland)"
+      },
+      "phonetic": {
+        "en": "seh-BAY-shus"
+      },
+      "definition": {
+        "en": "An oil gland in the dermis, usually opening into a hair follicle. It releases sebum, an oily substance that keeps skin and hair soft. Palms and soles have none.",
+        "vi": "Tuyến tiết dầu nằm trong chân bì, thường đổ vào nang lông. Tuyến này tiết ra bã nhờn (sebum) giúp da và tóc mềm mại. Lòng bàn tay và lòng bàn chân không có tuyến này."
+      },
+      "aliases": {
+        "en": [
+          "oil gland"
+        ],
+        "vi": [
+          "tuyến bã nhờn"
+        ]
+      },
+      "relatedTermIds": [
+        "term_dermis",
+        "term_eccrine_gland"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIH StatPearls: Anatomy, Skin (Integument)",
+        "NIH StatPearls: Physiology, Sweat Gland"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_eccrine_gland",
+      "domain": "skin_care",
+      "term": {
+        "en": "Eccrine sweat gland",
+        "vi": "Tuyến mồ hôi eccrine (eccrine sweat gland)"
+      },
+      "phonetic": {
+        "en": "EK-rin"
+      },
+      "definition": {
+        "en": "A sweat gland found over most of the body and most numerous on the palms and soles. Its sweat cools the body as it evaporates.",
+        "vi": "Loại tuyến mồ hôi có ở hầu hết cơ thể, nhiều nhất ở lòng bàn tay và lòng bàn chân. Mồ hôi bay hơi giúp làm mát cơ thể."
+      },
+      "aliases": {
+        "en": [
+          "sudoriferous gland"
+        ],
+        "vi": [
+          "tuyến mồ hôi"
+        ]
+      },
+      "relatedTermIds": [
+        "term_sebaceous_gland",
+        "term_dermis"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIH StatPearls: Physiology, Sweat Gland"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_skin_lesion",
+      "domain": "skin_care",
+      "term": {
+        "en": "Skin lesion",
+        "vi": "Tổn thương da (skin lesion)"
+      },
+      "phonetic": {
+        "en": "LEE-zhun"
+      },
+      "definition": {
+        "en": "Any abnormal change in the skin. Primary lesions appear first (such as a macule, papule or vesicle); secondary lesions develop later or from scratching or injury (such as a crust, fissure or excoriation).",
+        "vi": "Bất kỳ thay đổi bất thường nào trên da. Tổn thương nguyên phát xuất hiện trước (như dát, sẩn, mụn nước); tổn thương thứ phát xuất hiện sau hoặc do gãi, chấn thương (như vảy tiết, vết nứt, vết trầy)."
+      },
+      "aliases": {
+        "en": [
+          "primary lesion",
+          "secondary lesion"
+        ],
+        "vi": []
+      },
+      "relatedTermIds": [],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "DermNet: Dermatological terminology (text only)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_tinea_pedis",
+      "domain": "skin_care",
+      "term": {
+        "en": "Tinea pedis",
+        "vi": "Nấm chân (tinea pedis, athlete's foot)"
+      },
+      "phonetic": {
+        "en": "TIN-ee-uh PEE-dis"
+      },
+      "definition": {
+        "en": "A contagious fungal infection of the skin of the feet, often between the toes, with itching, scaling or cracking. A nail tech does not service the affected area and refers the client to a physician.",
+        "vi": "Bệnh nhiễm nấm ở da chân, có thể lây, thường ở kẽ ngón chân, gây ngứa, tróc vảy hoặc nứt da. Thợ nail không làm dịch vụ trên vùng bị nhiễm và giới thiệu khách đến bác sĩ."
+      },
+      "aliases": {
+        "en": [
+          "athlete's foot"
+        ],
+        "vi": [
+          "nấm kẽ chân"
+        ]
+      },
+      "relatedTermIds": [
+        "term_skin_lesion"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "CDC: Athlete's foot (tinea pedis)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_contact_dermatitis",
+      "domain": "skin_care",
+      "term": {
+        "en": "Contact dermatitis",
+        "vi": "Viêm da tiếp xúc (contact dermatitis)"
+      },
+      "phonetic": {
+        "en": "der-muh-TY-tis"
+      },
+      "definition": {
+        "en": "A red, itchy skin reaction caused by something that touches the skin. It can be an allergic reaction or irritation from a substance.",
+        "vi": "Phản ứng da đỏ, ngứa do một chất chạm vào da gây ra. Có thể là phản ứng dị ứng hoặc do chất đó gây kích ứng."
+      },
+      "aliases": {
+        "en": [
+          "allergic contact dermatitis",
+          "irritant contact dermatitis"
+        ],
+        "vi": []
+      },
+      "relatedTermIds": [],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "American Academy of Dermatology: Contact dermatitis"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_callus",
+      "domain": "skin_care",
+      "term": {
+        "en": "Callus",
+        "vi": "Da chai (callus)"
+      },
+      "phonetic": {
+        "en": "KAL-us"
+      },
+      "definition": {
+        "en": "A thick, hardened area of skin caused by repeated pressure or friction, common on the feet. It can be softened and gently smoothed, but removing too much skin can cause bleeding and infection.",
+        "vi": "Vùng da dày và cứng do bị đè ép hoặc cọ xát nhiều lần, hay gặp ở bàn chân. Có thể làm mềm và chà nhẹ, nhưng lấy đi quá nhiều da có thể gây chảy máu và nhiễm trùng."
+      },
+      "aliases": {
+        "en": [
+          "callosity"
+        ],
+        "vi": [
+          "vết chai"
+        ]
+      },
+      "relatedTermIds": [
+        "term_exfoliation"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "American Academy of Dermatology: How to treat corns and calluses"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_exfoliation",
+      "domain": "skin_care",
+      "term": {
+        "en": "Exfoliation",
+        "vi": "Tẩy tế bào chết (exfoliation)"
+      },
+      "phonetic": {
+        "en": "eks-foh-lee-AY-shun"
+      },
+      "definition": {
+        "en": "Removing dead cells from the skin surface. Mechanical exfoliation uses a scrub or tool; chemical exfoliation uses ingredients such as alpha hydroxy acids (AHAs).",
+        "vi": "Lấy đi các tế bào chết trên bề mặt da. Tẩy cơ học dùng hạt chà (scrub) hoặc dụng cụ; tẩy hóa học dùng thành phần như axit alpha hydroxy (AHA)."
+      },
+      "aliases": {
+        "en": [
+          "exfoliating"
+        ],
+        "vi": [
+          "tẩy da chết"
+        ]
+      },
+      "relatedTermIds": [
+        "term_stratum_corneum",
+        "term_callus"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "American Academy of Dermatology: How to safely exfoliate at home",
+        "FDA: Alpha Hydroxy Acids"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_humectant",
+      "domain": "skin_care",
+      "term": {
+        "en": "Humectant",
+        "vi": "Chất hút ẩm (humectant)"
+      },
+      "phonetic": {
+        "en": "hyoo-MEK-tunt"
+      },
+      "definition": {
+        "en": "A moisturizer ingredient, such as glycerin or urea, that draws water into the outer layer of the skin. Occlusives, such as petrolatum, instead form a film that slows water loss.",
+        "vi": "Thành phần dưỡng ẩm, như glycerin hoặc urea, kéo nước vào lớp ngoài của da. Còn chất khóa ẩm (occlusive), như petrolatum (vaseline), tạo lớp màng giúp giảm mất nước."
+      },
+      "aliases": {
+        "en": [],
+        "vi": []
+      },
+      "relatedTermIds": [
+        "term_stratum_corneum"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "Indian Journal of Dermatology (PMC): Moisturizers: The Slippery Road (2016)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_broad_spectrum",
+      "domain": "skin_care",
+      "term": {
+        "en": "Broad-spectrum sunscreen",
+        "vi": "Kem chống nắng phổ rộng (broad-spectrum)"
+      },
+      "phonetic": {
+        "en": "brawd SPEK-trum"
+      },
+      "definition": {
+        "en": "A sunscreen that protects against both UVA and UVB rays. The FDA recommends broad-spectrum sunscreen with SPF 15 or higher, reapplied at least every two hours.",
+        "vi": "Kem chống nắng bảo vệ khỏi cả tia UVA và UVB. FDA khuyên dùng loại phổ rộng có SPF 15 trở lên và thoa lại ít nhất mỗi hai giờ."
+      },
+      "aliases": {
+        "en": [
+          "SPF"
+        ],
+        "vi": []
+      },
+      "relatedTermIds": [
+        "term_melanin"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "FDA: Sunscreen: How to Help Protect Your Skin from the Sun"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_cuticle_nipper",
+      "domain": "tools_equipment",
+      "term": {
+        "en": "Cuticle nipper",
+        "vi": "Kềm cắt da (cuticle nipper)"
+      },
+      "phonetic": {
+        "en": "KYOO-tih-kul NIP-er"
+      },
+      "definition": {
+        "en": "A reusable metal implement with small, sharp jaws used to trim loose, dead skin and hangnails. As a metal implement it is cleaned and disinfected (or sterilized) after every client.",
+        "vi": "Dụng cụ kim loại dùng lại được, có hai lưỡi nhỏ và bén, dùng để cắt da chết bị tróc và da xước (hangnail). Là dụng cụ kim loại nên phải được làm sạch và khử trùng (hoặc tiệt trùng) sau mỗi khách."
+      },
+      "aliases": {
+        "en": [
+          "nipper"
+        ],
+        "vi": [
+          "kềm",
+          "kềm da"
+        ]
+      },
+      "relatedTermIds": [
+        "term_cuticle_pusher",
+        "term_nonporous_tool"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIC Nail Technology Theory content outline: Tools, Equipment and Supplies",
+        "16 TAC §83.106 (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_cuticle_pusher",
+      "domain": "tools_equipment",
+      "term": {
+        "en": "Cuticle pusher",
+        "vi": "Cây đẩy da (cuticle pusher)"
+      },
+      "phonetic": {
+        "en": "KYOO-tih-kul PUSH-er"
+      },
+      "definition": {
+        "en": "A metal implement used to gently push back and loosen cuticle tissue from the nail plate. It is nonporous, so it is cleaned and disinfected between clients and reused.",
+        "vi": "Dụng cụ kim loại dùng để đẩy nhẹ và làm tróc phần da (cuticle) bám trên mặt móng. Đây là đồ không xốp, nên được làm sạch, khử trùng giữa các khách và dùng lại."
+      },
+      "aliases": {
+        "en": [
+          "metal pusher"
+        ],
+        "vi": [
+          "cây sủi da"
+        ]
+      },
+      "relatedTermIds": [
+        "term_cuticle_nipper",
+        "term_orangewood_stick",
+        "term_nonporous_tool"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "NIC Nail Technology Theory content outline: Tools, Equipment and Supplies",
+        "16 TAC §83.106 (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_orangewood_stick",
+      "domain": "tools_equipment",
+      "term": {
+        "en": "Orangewood stick",
+        "vi": "Cây gỗ cam (orangewood stick)"
+      },
+      "phonetic": {
+        "en": "OR-inj-wood stik"
+      },
+      "definition": {
+        "en": "A thin wooden stick used to clean under the free edge, push back cuticle or apply product. Wood is porous, so it is a single-use item and is thrown away after one client.",
+        "vi": "Que gỗ mỏng dùng để làm sạch dưới đầu móng, đẩy da hoặc chấm sản phẩm. Gỗ là vật liệu xốp, nên đây là đồ dùng một lần và phải bỏ đi sau một khách."
+      },
+      "aliases": {
+        "en": [
+          "orange stick"
+        ],
+        "vi": [
+          "que gỗ"
+        ]
+      },
+      "relatedTermIds": [
+        "term_single_use_item",
+        "term_porous_tool"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "16 TAC §83.106 (Texas), checked 2026-11-02",
+        "16 CCR §981 (California), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_buffer_block",
+      "domain": "tools_equipment",
+      "term": {
+        "en": "Buffer block",
+        "vi": "Cục buffer (buffer block)"
+      },
+      "phonetic": {
+        "en": "BUF-er blok"
+      },
+      "definition": {
+        "en": "A padded, rectangular abrasive used to smooth and shine the nail surface. It is porous. California requires it to be discarded after one client; Texas allows reuse after cleaning and spraying with disinfectant, unless it touched broken or unhealthy skin or nails.",
+        "vi": "Cục chà hình chữ nhật có lớp đệm, dùng để làm mịn và bóng mặt móng. Đây là đồ xốp. California bắt buộc bỏ sau một khách; Texas cho dùng lại sau khi làm sạch và xịt dung dịch khử trùng, trừ khi đã dùng trên da hoặc móng bị trầy hay không khỏe."
+      },
+      "aliases": {
+        "en": [
+          "buffer"
+        ],
+        "vi": [
+          "cục chà bóng"
+        ]
+      },
+      "relatedTermIds": [
+        "term_porous_tool",
+        "term_single_use_item"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "16 CCR §981 (California), checked 2026-11-02",
+        "16 TAC §83.106 (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_porous_tool",
+      "domain": "tools_equipment",
+      "term": {
+        "en": "Porous item",
+        "vi": "Đồ xốp (porous item)"
+      },
+      "phonetic": {
+        "en": "POR-us EYE-tem"
+      },
+      "definition": {
+        "en": "An item made of material that absorbs liquid and traps debris, such as wood, foam, cotton or paper. Because a disinfectant cannot reach every part of it, it is usually treated as single-use; check your state's rule.",
+        "vi": "Món đồ làm bằng vật liệu thấm nước và giữ cặn bẩn, như gỗ, mút, bông gòn hoặc giấy. Vì dung dịch khử trùng không tiếp xúc được toàn bộ, nên thường được xem là đồ dùng một lần; hãy xem quy định của tiểu bang mình."
+      },
+      "aliases": {
+        "en": [
+          "absorbent item"
+        ],
+        "vi": [
+          "đồ thấm nước"
+        ]
+      },
+      "relatedTermIds": [
+        "term_nonporous_tool",
+        "term_single_use_item"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "CDC Guideline for Disinfection and Sterilization in Healthcare Facilities (2008)",
+        "16 CCR §981 (California), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_nonporous_tool",
+      "domain": "tools_equipment",
+      "term": {
+        "en": "Nonporous item",
+        "vi": "Đồ không xốp (nonporous item)"
+      },
+      "phonetic": {
+        "en": "non-POR-us EYE-tem"
+      },
+      "definition": {
+        "en": "An item with a hard, sealed surface that does not absorb liquid, such as metal or glass. It can be cleaned and then disinfected or sterilized, so it can be reused.",
+        "vi": "Món đồ có bề mặt cứng, kín, không thấm nước, như kim loại hoặc thủy tinh. Có thể làm sạch rồi khử trùng hoặc tiệt trùng, nên dùng lại được."
+      },
+      "aliases": {
+        "en": [
+          "non-porous item"
+        ],
+        "vi": []
+      },
+      "relatedTermIds": [
+        "term_porous_tool",
+        "term_cuticle_nipper"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "CDC Guideline for Disinfection and Sterilization in Healthcare Facilities (2008)",
+        "NIC Nail Technology Theory content outline: Tools, Equipment and Supplies"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_electric_file",
+      "domain": "tools_equipment",
+      "term": {
+        "en": "Electric file (e-file)",
+        "vi": "Máy dũa điện (e-file)"
+      },
+      "phonetic": {
+        "en": "ih-LEK-trik fyl"
+      },
+      "definition": {
+        "en": "A motor-driven tool with a handpiece that spins interchangeable bits to shape, file and prepare nails and enhancements. Use only machines made for professional nail work; the handpiece is wiped or sprayed with disinfectant, not immersed.",
+        "vi": "Máy chạy bằng mô-tơ, có tay cầm quay các đầu mũi thay được, dùng để tạo dáng, dũa và chuẩn bị móng thật và móng nhân tạo. Chỉ dùng máy làm riêng cho nghề nail; tay cầm được lau hoặc xịt khử trùng, không ngâm nước."
+      },
+      "aliases": {
+        "en": [
+          "e-file",
+          "nail drill"
+        ],
+        "vi": [
+          "máy mài",
+          "máy dũa"
+        ]
+      },
+      "relatedTermIds": [
+        "term_efile_bit",
+        "term_sanding_band"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "16 TAC §83.107 (Texas), checked 2026-11-02",
+        "16 CCR §980 (California), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_efile_bit",
+      "domain": "tools_equipment",
+      "term": {
+        "en": "E-file bit",
+        "vi": "Đầu mũi máy dũa (e-file bit)"
+      },
+      "phonetic": {
+        "en": "EE-fyl bit"
+      },
+      "definition": {
+        "en": "The interchangeable tip that fits into an electric file, made of materials such as metal, carbide or diamond. Reusable bits are cleaned after each use, then disinfected, and in Texas also sterilized, between clients.",
+        "vi": "Đầu thay được gắn vào máy dũa điện, làm bằng kim loại, carbide hoặc kim cương. Đầu mũi dùng lại phải được làm sạch sau mỗi lần dùng, rồi khử trùng, và ở Texas còn phải tiệt trùng, giữa các khách."
+      },
+      "aliases": {
+        "en": [
+          "drill bit",
+          "carbide bit",
+          "diamond bit"
+        ],
+        "vi": [
+          "mũi máy",
+          "đầu mài"
+        ]
+      },
+      "relatedTermIds": [
+        "term_electric_file",
+        "term_sanding_band"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "16 TAC §83.107 (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_sanding_band",
+      "domain": "tools_equipment",
+      "term": {
+        "en": "Sanding band",
+        "vi": "Đầu nhám (sanding band)"
+      },
+      "phonetic": {
+        "en": "SAN-ding band"
+      },
+      "definition": {
+        "en": "A paper or fabric abrasive sleeve that slides over a mandrel (arbor) on an electric file. It is porous and is usually used on one client only; check your state's rule.",
+        "vi": "Ống nhám bằng giấy hoặc vải lồng vào trục (mandrel, arbor) của máy dũa điện. Đây là đồ xốp và thường chỉ dùng cho một khách; hãy xem quy định của tiểu bang mình."
+      },
+      "aliases": {
+        "en": [
+          "sanding sleeve"
+        ],
+        "vi": [
+          "nhám ống"
+        ]
+      },
+      "relatedTermIds": [
+        "term_electric_file",
+        "term_efile_bit",
+        "term_porous_tool"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "16 TAC §83.106 (Texas), checked 2026-11-02",
+        "16 CCR §981 (California), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_vented_table",
+      "domain": "tools_equipment",
+      "term": {
+        "en": "Vented manicure table",
+        "vi": "Bàn làm móng có hút (vented table)"
+      },
+      "phonetic": {
+        "en": "VENT-id MAN-ih-kyoor TAY-bul"
+      },
+      "definition": {
+        "en": "A manicure table with a built-in fan and filter that pulls dust and vapors away from the work area. OSHA advises keeping it on, changing charcoal filters monthly and emptying the catch basin weekly.",
+        "vi": "Bàn làm móng có quạt và bộ lọc gắn sẵn, hút bụi và hơi hóa chất ra khỏi khu vực làm việc. OSHA khuyên luôn bật máy, thay lọc than mỗi tháng và đổ khay hứng bụi mỗi tuần."
+      },
+      "aliases": {
+        "en": [
+          "ventilated table",
+          "downdraft table"
+        ],
+        "vi": [
+          "bàn hút bụi"
+        ]
+      },
+      "relatedTermIds": [],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "OSHA: Health Hazards in Nail Salons (chemical hazards and ventilation)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_nail_curing_lamp",
+      "domain": "tools_equipment",
+      "term": {
+        "en": "Nail curing lamp (LED/UV)",
+        "vi": "Đèn hơ móng (LED/UV nail lamp)"
+      },
+      "phonetic": {
+        "en": "nayl KYOOR-ing lamp"
+      },
+      "definition": {
+        "en": "A lamp that gives off ultraviolet light to harden (cure) gel products. FDA views these lamps as low risk when used as labeled, and suggests broad-spectrum sunscreen or UV-absorbing gloves to limit skin exposure.",
+        "vi": "Đèn phát tia cực tím (UV) để làm cứng (cure) sản phẩm gel. FDA xem loại đèn này ít rủi ro khi dùng đúng hướng dẫn trên nhãn, và gợi ý thoa kem chống nắng phổ rộng hoặc đeo găng chống UV để giảm tia chiếu lên da."
+      },
+      "aliases": {
+        "en": [
+          "UV lamp",
+          "LED lamp",
+          "gel lamp"
+        ],
+        "vi": [
+          "đèn gel",
+          "đèn UV",
+          "đèn LED"
+        ]
+      },
+      "relatedTermIds": [],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "FDA consumer update: How to Safely Use Nail Care Products (UV nail curing lamps)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_single_use_item",
+      "domain": "tools_equipment",
+      "term": {
+        "en": "Single-use item",
+        "vi": "Đồ dùng một lần (single-use item)"
+      },
+      "phonetic": {
+        "en": "SING-gul yoos EYE-tem"
+      },
+      "definition": {
+        "en": "A supply or tool that cannot be disinfected and is thrown away after one client, such as cotton balls, orangewood sticks and nail wipes. New single-use items are stored in a clean, covered place.",
+        "vi": "Vật tư hoặc dụng cụ không khử trùng được và phải bỏ đi sau một khách, như bông gòn, cây gỗ cam và giấy lau móng. Đồ dùng một lần còn mới phải cất ở nơi sạch, có nắp đậy."
+      },
+      "aliases": {
+        "en": [
+          "disposable"
+        ],
+        "vi": [
+          "đồ xài một lần"
+        ]
+      },
+      "relatedTermIds": [
+        "term_porous_tool",
+        "term_orangewood_stick"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "16 CCR §981 (California), checked 2026-11-02",
+        "16 TAC §83.106 (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_tdlr",
+      "domain": "tx_law",
+      "term": {
+        "en": "TDLR",
+        "vi": "TDLR (Sở Cấp phép và Quản lý Texas)"
+      },
+      "definition": {
+        "en": "Texas Department of Licensing and Regulation, the state agency that administers the barbering and cosmetology law, issues manicurist and establishment licenses, inspects salons and enforces the rules.",
+        "vi": "Texas Department of Licensing and Regulation, cơ quan tiểu bang quản lý luật barbering và cosmetology, cấp manicurist license và establishment license, kiểm tra tiệm và thi hành các quy định."
+      },
+      "aliases": {
+        "en": [
+          "Texas Department of Licensing and Regulation",
+          "the department"
+        ],
+        "vi": []
+      },
+      "relatedTermIds": [
+        "term_tx_administrative_penalty"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "Texas Occupations Code §1603.002, checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_tx_manicurist_license",
+      "domain": "tx_law",
+      "term": {
+        "en": "Manicurist license (Texas)",
+        "vi": "Manicurist license (giấy phép thợ làm móng, Texas)"
+      },
+      "definition": {
+        "en": "A Texas individual practitioner license that allows treating nails (cutting, trimming, polishing, coloring, cleansing, manicuring, pedicuring, attaching false nails) and massaging, cleansing, treating or beautifying the hands and feet.",
+        "vi": "Giấy phép hành nghề cá nhân ở Texas cho phép làm móng (cắt, tỉa, đánh bóng, sơn màu, làm sạch, manicure, pedicure, gắn móng giả) và xoa bóp, làm sạch, chăm sóc hoặc làm đẹp bàn tay và bàn chân."
+      },
+      "aliases": {
+        "en": [
+          "manicurist",
+          "nail technician license"
+        ],
+        "vi": [
+          "bằng nail"
+        ]
+      },
+      "relatedTermIds": [
+        "term_tdlr",
+        "term_tx_continuing_education"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "Texas Occupations Code §1603.2103(a), checked 2026-11-02",
+        "Texas Occupations Code §1603.0011(a)(7)-(8), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_tx_establishment_license",
+      "domain": "tx_law",
+      "term": {
+        "en": "Establishment license",
+        "vi": "Establishment license (giấy phép tiệm)"
+      },
+      "definition": {
+        "en": "The TDLR license needed to own, operate or manage a place where barbering or cosmetology services, including nail services, are performed. It is separate from the practitioner's own license.",
+        "vi": "Giấy phép của TDLR bắt buộc để làm chủ, điều hành hoặc quản lý nơi cung cấp dịch vụ barbering hoặc cosmetology, kể cả dịch vụ làm móng. Giấy phép này tách riêng với license của người thợ."
+      },
+      "aliases": {
+        "en": [
+          "salon license",
+          "shop license"
+        ],
+        "vi": [
+          "giấy phép tiệm"
+        ]
+      },
+      "relatedTermIds": [
+        "term_tx_manicurist_specialty_establishment",
+        "term_tx_mini_establishment"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "Texas Occupations Code §1603.2201(a), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_tx_manicurist_specialty_establishment",
+      "domain": "tx_law",
+      "term": {
+        "en": "Manicurist specialty establishment",
+        "vi": "Manicurist specialty establishment (tiệm chuyên làm móng)"
+      },
+      "definition": {
+        "en": "A type of Texas establishment license limited to nail services and hand and foot care, the services a manicurist license covers.",
+        "vi": "Một loại establishment license ở Texas chỉ dành cho dịch vụ làm móng và chăm sóc tay chân, tức là các dịch vụ mà manicurist license cho phép."
+      },
+      "aliases": {
+        "en": [
+          "nail salon license"
+        ],
+        "vi": []
+      },
+      "relatedTermIds": [
+        "term_tx_establishment_license",
+        "term_tx_manicurist_license"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "Texas Occupations Code §1603.2203, checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_tx_mini_establishment",
+      "domain": "tx_law",
+      "term": {
+        "en": "Mini-establishment",
+        "vi": "Mini-establishment (phòng/suite hành nghề riêng)"
+      },
+      "definition": {
+        "en": "A room or suite of rooms on a single premises that is joined to other establishments, for example units opening onto a shared hallway. It needs its own establishment license.",
+        "vi": "Một phòng hoặc dãy phòng trong cùng một khu, nối liền với các tiệm khác, ví dụ các phòng mở ra một hành lang chung. Mỗi phòng cần có establishment license riêng."
+      },
+      "aliases": {
+        "en": [
+          "salon suite"
+        ],
+        "vi": []
+      },
+      "relatedTermIds": [
+        "term_tx_establishment_license"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "Texas Occupations Code §1603.2203, checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_tx_licensed_facility",
+      "domain": "tx_law",
+      "term": {
+        "en": "Licensed facility",
+        "vi": "Licensed facility (cơ sở có giấy phép)"
+      },
+      "definition": {
+        "en": "The premises of a licensed establishment or school. Practitioners normally work only in a licensed facility, with narrow exceptions such as an ill client or a special event booked through a licensed facility.",
+        "vi": "Mặt bằng của một tiệm (establishment) hoặc trường có giấy phép. Thợ thường chỉ được làm việc tại licensed facility, trừ vài ngoại lệ hẹp như khách bị bệnh hoặc sự kiện đặc biệt được đặt hẹn qua một licensed facility."
+      },
+      "aliases": {
+        "en": [],
+        "vi": []
+      },
+      "relatedTermIds": [
+        "term_tx_establishment_license"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "16 TAC §83.70(a)-(b) (Texas), checked 2026-11-02",
+        "Texas Occupations Code §1603.2109, checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_tx_continuing_education",
+      "domain": "tx_law",
+      "term": {
+        "en": "Continuing education (CE)",
+        "vi": "Continuing education (CE, học bổ sung để gia hạn)"
+      },
+      "definition": {
+        "en": "Department-approved course hours a Texas practitioner completes before renewing a license, including required hours on sanitation and, for renewals on or after 1 September 2025, human trafficking prevention.",
+        "vi": "Số giờ học được TDLR chấp thuận mà thợ ở Texas phải hoàn tất trước khi gia hạn license, gồm giờ bắt buộc về vệ sinh (sanitation) và, với lần gia hạn từ ngày 1 tháng 9 năm 2025, giờ về phòng chống buôn người (human trafficking)."
+      },
+      "aliases": {
+        "en": [
+          "CE hours"
+        ],
+        "vi": [
+          "giờ CE"
+        ]
+      },
+      "relatedTermIds": [
+        "term_tx_manicurist_license"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "16 TAC §83.25(b) (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_tx_administrative_penalty",
+      "domain": "tx_law",
+      "term": {
+        "en": "Administrative penalty",
+        "vi": "Administrative penalty (tiền phạt hành chính)"
+      },
+      "definition": {
+        "en": "A fine TDLR can assess for breaking the law, the rules or an order. Each day a violation continues counts as a separate violation, and an unpaid penalty can be grounds to deny license renewal.",
+        "vi": "Tiền phạt mà TDLR có thể áp dụng khi vi phạm luật, quy định hoặc lệnh. Mỗi ngày vi phạm kéo dài được tính là một vi phạm riêng, và tiền phạt chưa đóng có thể là lý do để từ chối gia hạn license."
+      },
+      "aliases": {
+        "en": [
+          "fine"
+        ],
+        "vi": [
+          "tiền phạt"
+        ]
+      },
+      "relatedTermIds": [
+        "term_tdlr"
+      ],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "Texas Occupations Code §51.302(a), checked 2026-11-02",
+        "Texas Occupations Code §1603.301, checked 2026-11-02",
+        "16 TAC §83.90 (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "term_tx_whirlpool_foot_spa",
+      "domain": "tx_law",
+      "term": {
+        "en": "Whirlpool foot spa",
+        "vi": "Whirlpool foot spa (bồn ngâm chân có tuần hoàn nước)"
+      },
+      "definition": {
+        "en": "In the Texas rules, any basin that circulates water, whether free-standing or plumbed in. It has cleaning steps after each client, at the end of each day and every two weeks, and cleaning records must be kept.",
+        "vi": "Theo quy định Texas, là bất kỳ bồn nào có nước tuần hoàn, dù đứng riêng hay nối với đường ống. Bồn này có quy trình vệ sinh sau mỗi khách, cuối mỗi ngày và mỗi hai tuần, và phải lưu sổ ghi chép vệ sinh."
+      },
+      "aliases": {
+        "en": [
+          "pedicure spa"
+        ],
+        "vi": [
+          "bồn pedicure"
+        ]
+      },
+      "relatedTermIds": [],
+      "diagram": null,
+      "image": null,
+      "flashcard": true,
+      "sourceRefs": [
+        "16 TAC §83.108(a)-(e) (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 480" width="400" height="480">
+  <!-- NailPass original diagram: fingertip, top view. No text: labels come from the glossary. -->
+  <g fill="none" stroke-linejoin="round" stroke-linecap="round">
+    <path id="part_finger" d="M90 480 L90 210 C90 90 150 30 200 30 C250 30 310 90 310 210 L310 480 Z" fill="#F3D9CC" stroke="#B98A78" stroke-width="3"/>
+    <path id="part_lateral_nail_fold" d="M122 330 C118 260 120 190 132 140 M278 330 C282 260 280 190 268 140" stroke="#B98A78" stroke-width="3"/>
+    <path id="part_nail_plate" d="M132 330 L132 150 C132 92 164 58 200 58 C236 58 268 92 268 150 L268 330 C240 344 160 344 132 330 Z" fill="#F7E7E3" stroke="#9C6B5E" stroke-width="3"/>
+    <path id="part_free_edge" d="M132 150 C132 92 164 58 200 58 C236 58 268 92 268 150 C236 128 164 128 132 150 Z" fill="#FFFFFF" stroke="#9C6B5E" stroke-width="3"/>
+    <path id="part_lunula" d="M150 330 C150 290 172 270 200 270 C228 270 250 290 250 330 Z" fill="#FBF1EE" stroke="#C9A79C" stroke-width="2"/>
+    <path id="part_cuticle" d="M132 330 C160 346 240 346 268 330" stroke="#D7B3A6" stroke-width="5"/>
+    <path id="part_eponychium" d="M120 336 C150 362 250 362 280 336 L282 356 C250 384 150 384 118 356 Z" fill="#E9C2B3" stroke="#B98A78" stroke-width="2"/>
+  </g>
+  <g class="hotspots" fill="#C85A70" fill-opacity="0" stroke="none">
+    <circle class="hotspot" id="free_edge" cx="200" cy="100" r="26"/>
+    <circle class="hotspot" id="nail_plate" cx="200" cy="200" r="30"/>
+    <circle class="hotspot" id="lunula" cx="200" cy="304" r="22"/>
+    <circle class="hotspot" id="cuticle" cx="250" cy="338" r="16"/>
+    <circle class="hotspot" id="eponychium" cx="200" cy="362" r="20"/>
+    <circle class="hotspot" id="lateral_nail_fold" cx="114" cy="240" r="18"/>
+  </g>
+</svg>

@@ -1,0 +1,2195 @@
+{
+  "schemaVersion": 1,
+  "pool": "tx_law",
+  "questions": [
+    {
+      "id": "txl_0001",
+      "rev": 1,
+      "status": "active",
+      "exams": [
+        "tx_tdlr"
+      ],
+      "domain": "tx_law",
+      "topic": "licensing.scope",
+      "difficulty": 1,
+      "questionType": "single_choice",
+      "isNegativeStem": false,
+      "isFreeTrial": true,
+      "shuffleOptions": true,
+      "stem": {
+        "en": "Under Texas law, which service may a person with only a manicurist license perform?",
+        "vi": "Theo luật Texas, người chỉ có manicurist license được phép làm dịch vụ nào sau đây?"
+      },
+      "statements": [],
+      "diagram": null,
+      "image": null,
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "en": "Attaching false nails",
+            "vi": "Gắn móng giả"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "en": "Giving a facial treatment",
+            "vi": "Làm mặt (facial)"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "en": "Waxing unwanted body hair",
+            "vi": "Wax lông thừa trên cơ thể"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "en": "Applying eyelash extensions",
+            "vi": "Gắn mi (eyelash extensions)"
+          }
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "explanation": {
+        "en": "A manicurist license covers treating nails, including attaching false nails, and massaging, cleansing or beautifying the hands and feet. Facials and hair removal belong to the esthetician license, and eyelash extensions need an eyelash extension or esthetician license.",
+        "vi": "Manicurist license cho phép làm móng, kể cả gắn móng giả, và xoa bóp, làm sạch hoặc làm đẹp bàn tay, bàn chân. Làm mặt và tẩy lông thuộc esthetician license, còn gắn mi cần eyelash extension license hoặc esthetician license."
+      },
+      "glossaryTermIds": [
+        "term_tx_manicurist_license"
+      ],
+      "lessonId": "les_texas_rules_overview",
+      "sourceRefs": [
+        "Texas Occupations Code §1603.2103(a), checked 2026-11-02",
+        "Texas Occupations Code §1603.0011(a)(7)-(8), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "txl_0002",
+      "rev": 1,
+      "status": "active",
+      "exams": [
+        "tx_tdlr"
+      ],
+      "domain": "tx_law",
+      "topic": "licensing.scope",
+      "difficulty": 2,
+      "questionType": "single_choice",
+      "isNegativeStem": true,
+      "negativeKeyword": {
+        "en": "EXCEPT",
+        "vi": "NGOẠI TRỪ"
+      },
+      "isFreeTrial": false,
+      "shuffleOptions": true,
+      "stem": {
+        "en": "A Texas manicurist license allows all of the following services EXCEPT:",
+        "vi": "Manicurist license ở Texas cho phép làm tất cả các dịch vụ sau NGOẠI TRỪ:"
+      },
+      "statements": [],
+      "diagram": null,
+      "image": null,
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "en": "Massaging a client's feet",
+            "vi": "Xoa bóp bàn chân cho khách"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "en": "Polishing a client's toenails",
+            "vi": "Sơn móng chân cho khách"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "en": "Massaging a client's neck and shoulders",
+            "vi": "Xoa bóp cổ và vai cho khách"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "en": "Cleansing a client's hands",
+            "vi": "Làm sạch bàn tay cho khách"
+          }
+        }
+      ],
+      "correctOptionIds": [
+        "C"
+      ],
+      "explanation": {
+        "en": "The manicurist scope is nails plus the hands and feet. Massaging the neck and shoulders falls under a different part of the law, covered by cosmetology operator and esthetician licenses, not the manicurist license.",
+        "vi": "Phạm vi của manicurist license là móng cùng với bàn tay và bàn chân. Xoa bóp cổ và vai thuộc một phần khác của luật, do cosmetology operator license và esthetician license đảm nhận, không thuộc manicurist license."
+      },
+      "glossaryTermIds": [
+        "term_tx_manicurist_license"
+      ],
+      "lessonId": "les_texas_rules_overview",
+      "sourceRefs": [
+        "Texas Occupations Code §1603.2103(a), checked 2026-11-02",
+        "Texas Occupations Code §1603.0011(a)(3), (7), (8), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "txl_0003",
+      "rev": 1,
+      "status": "active",
+      "exams": [
+        "tx_tdlr"
+      ],
+      "domain": "tx_law",
+      "topic": "licensing.renewal",
+      "difficulty": 1,
+      "questionType": "single_choice",
+      "isNegativeStem": false,
+      "isFreeTrial": false,
+      "shuffleOptions": true,
+      "stem": {
+        "en": "How long is a Texas manicurist license valid before it must be renewed?",
+        "vi": "Manicurist license ở Texas có hiệu lực bao lâu trước khi phải gia hạn?"
+      },
+      "statements": [],
+      "diagram": null,
+      "image": null,
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "en": "One year",
+            "vi": "Một năm"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "en": "Two years",
+            "vi": "Hai năm"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "en": "Three years",
+            "vi": "Ba năm"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "en": "Four years",
+            "vi": "Bốn năm"
+          }
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "explanation": {
+        "en": "Practitioner licenses and establishment licenses have a two-year term. A license other than a temporary or school license expires on the second anniversary of the date it was issued.",
+        "vi": "License hành nghề và establishment license có thời hạn hai năm. License (trừ license tạm thời và license của trường) hết hạn vào ngày tròn hai năm kể từ ngày cấp."
+      },
+      "glossaryTermIds": [
+        "term_tx_manicurist_license"
+      ],
+      "lessonId": "les_texas_rules_overview",
+      "sourceRefs": [
+        "16 TAC §83.31(a) (Texas), checked 2026-11-02",
+        "Texas Occupations Code §1603.3001(a), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "txl_0004",
+      "rev": 1,
+      "status": "active",
+      "exams": [
+        "tx_tdlr"
+      ],
+      "domain": "tx_law",
+      "topic": "licensing.requirements",
+      "difficulty": 2,
+      "questionType": "single_choice",
+      "isNegativeStem": false,
+      "isFreeTrial": false,
+      "shuffleOptions": true,
+      "stem": {
+        "en": "For a practitioner license application received on or after 1 September 2023, what is the minimum age in Texas?",
+        "vi": "Với đơn xin license hành nghề nộp từ ngày 1 tháng 9 năm 2023 trở đi, tuổi tối thiểu ở Texas là bao nhiêu?"
+      },
+      "statements": [],
+      "diagram": null,
+      "image": null,
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "en": "16 years old",
+            "vi": "16 tuổi"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "en": "17 years old",
+            "vi": "17 tuổi"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "en": "18 years old",
+            "vi": "18 tuổi"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "en": "21 years old",
+            "vi": "21 tuổi"
+          }
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "explanation": {
+        "en": "The current TDLR rule requires a practitioner license applicant to be at least 17 years old, along with completing the required school hours and passing the exams.",
+        "vi": "Quy định hiện hành của TDLR yêu cầu người xin license hành nghề phải từ 17 tuổi trở lên, cùng với việc học đủ số giờ tại trường và thi đậu."
+      },
+      "glossaryTermIds": [
+        "term_tdlr",
+        "term_tx_manicurist_license"
+      ],
+      "lessonId": "les_texas_rules_overview",
+      "sourceRefs": [
+        "16 TAC §83.200 (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "txl_0005",
+      "rev": 1,
+      "status": "active",
+      "exams": [
+        "tx_tdlr"
+      ],
+      "domain": "tx_law",
+      "topic": "licensing.requirements",
+      "difficulty": 1,
+      "questionType": "single_choice",
+      "isNegativeStem": false,
+      "isFreeTrial": false,
+      "shuffleOptions": true,
+      "stem": {
+        "en": "Which examinations must an applicant pass to receive a Texas practitioner license such as a manicurist license?",
+        "vi": "Người nộp đơn phải thi đậu những bài thi nào để được cấp license hành nghề ở Texas, như manicurist license?"
+      },
+      "statements": [],
+      "diagram": null,
+      "image": null,
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "en": "A written exam only",
+            "vi": "Chỉ bài thi viết"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "en": "A practical exam only",
+            "vi": "Chỉ bài thi thực hành"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "en": "Both a written exam and a practical exam",
+            "vi": "Cả bài thi viết và bài thi thực hành"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "en": "An oral interview with a TDLR inspector",
+            "vi": "Một buổi phỏng vấn với thanh tra TDLR"
+          }
+        }
+      ],
+      "correctOptionIds": [
+        "C"
+      ],
+      "explanation": {
+        "en": "The Texas rule requires the applicant to pass both a written and a practical examination, after completing the required hours of instruction at a licensed school.",
+        "vi": "Quy định Texas yêu cầu người nộp đơn phải đậu cả bài thi viết và bài thi thực hành, sau khi học đủ số giờ tại trường có giấy phép."
+      },
+      "glossaryTermIds": [
+        "term_tx_manicurist_license"
+      ],
+      "lessonId": "les_texas_rules_overview",
+      "sourceRefs": [
+        "16 TAC §83.200 (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "txl_0006",
+      "rev": 1,
+      "status": "active",
+      "exams": [
+        "tx_tdlr"
+      ],
+      "domain": "tx_law",
+      "topic": "licensing.continuing_education",
+      "difficulty": 2,
+      "questionType": "single_choice",
+      "isNegativeStem": false,
+      "isFreeTrial": false,
+      "shuffleOptions": true,
+      "stem": {
+        "en": "What is the minimum continuing education a Texas practitioner (with fewer than 15 years licensed) must complete to renew a license?",
+        "vi": "Thợ ở Texas (có license dưới 15 năm) phải hoàn tất tối thiểu bao nhiêu continuing education (CE) để gia hạn license?"
+      },
+      "statements": [],
+      "diagram": null,
+      "image": null,
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "en": "2 hours, all on any approved topic",
+            "vi": "2 giờ, chủ đề nào được chấp thuận cũng được"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "en": "4 hours, including 1 hour of sanitation",
+            "vi": "4 giờ, trong đó có 1 giờ về vệ sinh (sanitation)"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "en": "8 hours, including 4 hours of nail art",
+            "vi": "8 giờ, trong đó có 4 giờ về vẽ móng (nail art)"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "en": "16 hours, including 2 hours of sanitation",
+            "vi": "16 giờ, trong đó có 2 giờ về vệ sinh"
+          }
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "explanation": {
+        "en": "Renewal requires at least 4 hours of department-approved continuing education, with 1 hour on sanitation. For renewals on or after 1 September 2025, 1 hour must also cover human trafficking prevention. Licensees with 15 or more years have a reduced requirement.",
+        "vi": "Gia hạn cần ít nhất 4 giờ CE được TDLR chấp thuận, trong đó 1 giờ về vệ sinh. Với lần gia hạn từ ngày 1 tháng 9 năm 2025, phải có thêm 1 giờ về phòng chống buôn người (human trafficking). Người có license từ 15 năm trở lên được giảm yêu cầu."
+      },
+      "glossaryTermIds": [
+        "term_tx_continuing_education"
+      ],
+      "lessonId": "les_texas_rules_overview",
+      "sourceRefs": [
+        "16 TAC §83.25(b) and (k) (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "txl_0007",
+      "rev": 1,
+      "status": "active",
+      "exams": [
+        "tx_tdlr"
+      ],
+      "domain": "tx_law",
+      "topic": "licensing.continuing_education",
+      "difficulty": 3,
+      "questionType": "single_choice",
+      "isNegativeStem": false,
+      "isFreeTrial": false,
+      "shuffleOptions": false,
+      "stem": {
+        "en": "Which statements about Texas continuing education for practitioner license renewal are correct?",
+        "vi": "Những câu nào sau đây về continuing education (CE) để gia hạn license hành nghề ở Texas là đúng?"
+      },
+      "statements": [
+        {
+          "id": "I",
+          "text": {
+            "en": "At least 1 hour must cover sanitation.",
+            "vi": "Phải có ít nhất 1 giờ về vệ sinh (sanitation)."
+          }
+        },
+        {
+          "id": "II",
+          "text": {
+            "en": "For renewals on or after 1 September 2025, 1 hour must cover human trafficking prevention.",
+            "vi": "Với lần gia hạn từ ngày 1 tháng 9 năm 2025, phải có 1 giờ về phòng chống buôn người."
+          }
+        },
+        {
+          "id": "III",
+          "text": {
+            "en": "Taking the same course twice earns double credit.",
+            "vi": "Học lại cùng một khóa hai lần thì được tính gấp đôi giờ."
+          }
+        },
+        {
+          "id": "IV",
+          "text": {
+            "en": "Certificates of completion must be kept for two years after completing the course.",
+            "vi": "Phải giữ giấy chứng nhận hoàn tất khóa học trong hai năm sau khi học xong."
+          }
+        }
+      ],
+      "diagram": null,
+      "image": null,
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "en": "I and III only",
+            "vi": "Chỉ I và III"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "en": "II and III only",
+            "vi": "Chỉ II và III"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "en": "I, II and IV only",
+            "vi": "Chỉ I, II và IV"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "en": "I, II, III and IV",
+            "vi": "I, II, III và IV"
+          }
+        }
+      ],
+      "correctOptionIds": [
+        "C"
+      ],
+      "explanation": {
+        "en": "Renewal hours must include 1 hour of sanitation and, for renewals on or after 1 September 2025, 1 hour of human trafficking prevention. Certificates are kept for two years after completion. A licensee cannot earn hours for taking the same course more than once, so statement III is false.",
+        "vi": "Giờ CE để gia hạn phải có 1 giờ về vệ sinh và, với lần gia hạn từ ngày 1 tháng 9 năm 2025, 1 giờ về phòng chống buôn người. Giấy chứng nhận phải giữ hai năm sau khi học xong. Học lại cùng một khóa không được tính thêm giờ, nên câu III sai."
+      },
+      "glossaryTermIds": [
+        "term_tx_continuing_education"
+      ],
+      "lessonId": "les_texas_rules_overview",
+      "sourceRefs": [
+        "16 TAC §83.25(b), (e), (g) (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "txl_0008",
+      "rev": 1,
+      "status": "active",
+      "exams": [
+        "tx_tdlr"
+      ],
+      "domain": "tx_law",
+      "topic": "licensing.transfer",
+      "difficulty": 2,
+      "questionType": "single_choice",
+      "isNegativeStem": false,
+      "isFreeTrial": false,
+      "shuffleOptions": true,
+      "stem": {
+        "en": "A licensed manicurist moves out of Texas and offers to let a coworker use her license. What does Texas law say?",
+        "vi": "Một thợ nail có license chuyển ra khỏi Texas và đề nghị cho đồng nghiệp dùng license của mình. Luật Texas quy định thế nào?"
+      },
+      "statements": [],
+      "diagram": null,
+      "image": null,
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "en": "The coworker may use it with written permission",
+            "vi": "Đồng nghiệp được dùng nếu có giấy cho phép"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "en": "The coworker may use it for up to 30 days",
+            "vi": "Đồng nghiệp được dùng tối đa 30 ngày"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "en": "A license is not transferable to another person",
+            "vi": "License không được chuyển nhượng cho người khác"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "en": "The coworker may use it if the salon owner agrees",
+            "vi": "Đồng nghiệp được dùng nếu chủ tiệm đồng ý"
+          }
+        }
+      ],
+      "correctOptionIds": [
+        "C"
+      ],
+      "explanation": {
+        "en": "A Texas practitioner license or permit is not transferable. Each person who performs nail services must hold their own license.",
+        "vi": "License hoặc permit hành nghề ở Texas không được chuyển nhượng. Mỗi người làm dịch vụ móng phải có license riêng của mình."
+      },
+      "glossaryTermIds": [
+        "term_tx_manicurist_license"
+      ],
+      "lessonId": "les_texas_rules_overview",
+      "sourceRefs": [
+        "Texas Occupations Code §1603.2106, checked 2026-11-02",
+        "Texas Occupations Code §1603.2101(a), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "txl_0009",
+      "rev": 1,
+      "status": "active",
+      "exams": [
+        "tx_tdlr"
+      ],
+      "domain": "tx_law",
+      "topic": "licensing.display",
+      "difficulty": 1,
+      "questionType": "single_choice",
+      "isNegativeStem": false,
+      "isFreeTrial": false,
+      "shuffleOptions": true,
+      "stem": {
+        "en": "Where must a Texas manicurist keep their current license while working at a salon?",
+        "vi": "Thợ nail ở Texas phải để license hiện hành ở đâu khi làm việc tại tiệm?"
+      },
+      "statements": [],
+      "diagram": null,
+      "image": null,
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "en": "Displayed near their work station, or available at the reception desk",
+            "vi": "Treo gần bàn làm việc, hoặc để sẵn ở quầy tiếp tân"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "en": "At home, in a safe place",
+            "vi": "Ở nhà, cất chỗ an toàn"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "en": "In a locked drawer in the break room",
+            "vi": "Trong ngăn kéo khóa ở phòng nghỉ"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "en": "With the salon owner's tax records",
+            "vi": "Chung với hồ sơ thuế của chủ tiệm"
+          }
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "explanation": {
+        "en": "The license must be posted where the public can see it near the work station, or made available at the establishment's reception desk, with a current photo attached.",
+        "vi": "License phải được treo nơi khách có thể thấy gần bàn làm việc, hoặc để sẵn ở quầy tiếp tân của tiệm, có dán hình hiện tại của người thợ."
+      },
+      "glossaryTermIds": [
+        "term_tx_manicurist_license"
+      ],
+      "lessonId": "les_texas_rules_overview",
+      "sourceRefs": [
+        "Texas Occupations Code §1603.2107(a), checked 2026-11-02",
+        "16 TAC §83.70(e) (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "txl_0010",
+      "rev": 1,
+      "status": "active",
+      "exams": [
+        "tx_tdlr"
+      ],
+      "domain": "tx_law",
+      "topic": "practice.display",
+      "difficulty": 2,
+      "questionType": "single_choice",
+      "isNegativeStem": false,
+      "isFreeTrial": false,
+      "shuffleOptions": true,
+      "stem": {
+        "en": "What must be attached to the front of a practitioner's displayed Texas license?",
+        "vi": "Phải dán gì lên mặt trước của license hành nghề Texas đang được treo?"
+      },
+      "statements": [],
+      "diagram": null,
+      "image": null,
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "en": "A copy of the exam score report",
+            "vi": "Bản sao bảng điểm thi"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "en": "A current photo of the licensee, at least 1.5 by 1.5 inches",
+            "vi": "Hình hiện tại của người có license, ít nhất 1,5 x 1,5 inch"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "en": "A copy of the licensee's driver's license",
+            "vi": "Bản sao bằng lái xe của người có license"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "en": "The school completion certificate",
+            "vi": "Giấy chứng nhận tốt nghiệp trường"
+          }
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "explanation": {
+        "en": "A current photo of the licensee, at least one and a half by one and a half inches, must be attached to the front of the license without covering any license information. A digital image of the license shown with the photo is also allowed.",
+        "vi": "Phải dán hình hiện tại của người có license, ít nhất một inch rưỡi mỗi chiều, lên mặt trước license mà không che thông tin trên license. Cũng có thể dùng hình kỹ thuật số của license kèm theo hình người thợ."
+      },
+      "glossaryTermIds": [
+        "term_tx_manicurist_license"
+      ],
+      "sourceRefs": [
+        "16 TAC §83.70(f) (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "txl_0011",
+      "rev": 1,
+      "status": "active",
+      "exams": [
+        "tx_tdlr"
+      ],
+      "domain": "tx_law",
+      "topic": "practice.location",
+      "difficulty": 1,
+      "questionType": "single_choice",
+      "isNegativeStem": false,
+      "isFreeTrial": true,
+      "shuffleOptions": true,
+      "stem": {
+        "en": "In general, where may a licensed Texas manicurist perform nail services?",
+        "vi": "Nói chung, thợ nail có license ở Texas được làm dịch vụ móng ở đâu?"
+      },
+      "statements": [],
+      "diagram": null,
+      "image": null,
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "en": "Anywhere the client agrees to",
+            "vi": "Bất cứ nơi nào khách đồng ý"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "en": "At a licensed establishment or licensed school",
+            "vi": "Tại tiệm (establishment) hoặc trường có giấy phép"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "en": "In their own kitchen, if the tools are clean",
+            "vi": "Trong bếp nhà mình, nếu dụng cụ sạch"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "en": "In any business that has a sink",
+            "vi": "Ở bất kỳ cơ sở kinh doanh nào có bồn rửa"
+          }
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "explanation": {
+        "en": "A license holder may practice only at a licensed establishment or school. Narrow exceptions exist, such as a client who is too ill to travel or a special event, but those appointments must be booked through a licensed facility.",
+        "vi": "Người có license chỉ được hành nghề tại tiệm hoặc trường có giấy phép. Có vài ngoại lệ hẹp, như khách bệnh không đi được hoặc sự kiện đặc biệt, nhưng cuộc hẹn đó phải được đặt qua một licensed facility."
+      },
+      "glossaryTermIds": [
+        "term_tx_licensed_facility",
+        "term_tx_establishment_license"
+      ],
+      "lessonId": "les_texas_rules_overview",
+      "sourceRefs": [
+        "Texas Occupations Code §1603.2108, checked 2026-11-02",
+        "16 TAC §83.70(b) (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "txl_0012",
+      "rev": 1,
+      "status": "active",
+      "exams": [
+        "tx_tdlr"
+      ],
+      "domain": "tx_law",
+      "topic": "practice.location",
+      "difficulty": 3,
+      "questionType": "single_choice",
+      "isNegativeStem": false,
+      "isFreeTrial": false,
+      "shuffleOptions": true,
+      "stem": {
+        "en": "A bride asks a licensed manicurist to do manicures for the wedding party at the wedding venue. Under Texas law, which condition must be met?",
+        "vi": "Cô dâu nhờ một thợ nail có license làm móng tay cho nhóm cô dâu tại nơi tổ chức đám cưới. Theo luật Texas, điều kiện nào phải được đáp ứng?"
+      },
+      "statements": [],
+      "diagram": null,
+      "image": null,
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "en": "The appointment must be booked through a licensed facility",
+            "vi": "Cuộc hẹn phải được đặt qua một licensed facility"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "en": "The bride must sign a waiver, and the booking may be made directly",
+            "vi": "Cô dâu phải ký giấy miễn trách nhiệm, và có thể đặt hẹn trực tiếp"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "en": "The manicurist needs a separate city event permit",
+            "vi": "Thợ nail cần thêm giấy phép sự kiện của thành phố"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "en": "Services away from a salon are never allowed",
+            "vi": "Không bao giờ được làm dịch vụ ngoài tiệm"
+          }
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "explanation": {
+        "en": "A practitioner may serve a client at a special event, such as a wedding, outside a licensed facility, but only within the scope of the license and only if the appointment is made through a licensed facility.",
+        "vi": "Thợ được phục vụ khách tại sự kiện đặc biệt, như đám cưới, bên ngoài licensed facility, nhưng chỉ trong phạm vi license và chỉ khi cuộc hẹn được đặt qua một licensed facility."
+      },
+      "glossaryTermIds": [
+        "term_tx_licensed_facility"
+      ],
+      "lessonId": "les_texas_rules_overview",
+      "sourceRefs": [
+        "Texas Occupations Code §1603.2109(b)-(c), checked 2026-11-02",
+        "16 TAC §83.70(b) (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "txl_0013",
+      "rev": 1,
+      "status": "active",
+      "exams": [
+        "tx_tdlr"
+      ],
+      "domain": "tx_law",
+      "topic": "practice.responsibilities",
+      "difficulty": 1,
+      "questionType": "single_choice",
+      "isNegativeStem": false,
+      "isFreeTrial": false,
+      "shuffleOptions": true,
+      "stem": {
+        "en": "A Texas manicurist moves to a new home address. Within how many days must she notify TDLR?",
+        "vi": "Một thợ nail ở Texas dọn đến địa chỉ nhà mới. Cô ấy phải báo cho TDLR trong vòng bao nhiêu ngày?"
+      },
+      "statements": [],
+      "diagram": null,
+      "image": null,
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "en": "10 days",
+            "vi": "10 ngày"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "en": "30 days",
+            "vi": "30 ngày"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "en": "60 days",
+            "vi": "60 ngày"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "en": "90 days",
+            "vi": "90 ngày"
+          }
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "explanation": {
+        "en": "Practitioners must notify the department within 30 days of a change of address, and in writing within 30 days of a name change. TDLR may send notices to the last mailing address on file.",
+        "vi": "Thợ phải báo cho TDLR trong vòng 30 ngày khi đổi địa chỉ, và báo bằng văn bản trong vòng 30 ngày khi đổi tên. TDLR có thể gửi thông báo đến địa chỉ cuối cùng có trong hồ sơ."
+      },
+      "glossaryTermIds": [
+        "term_tdlr"
+      ],
+      "lessonId": "les_texas_rules_overview",
+      "sourceRefs": [
+        "16 TAC §83.70(g)-(h) (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "txl_0014",
+      "rev": 1,
+      "status": "active",
+      "exams": [
+        "tx_tdlr"
+      ],
+      "domain": "tx_law",
+      "topic": "practice.responsibilities",
+      "difficulty": 2,
+      "questionType": "single_choice",
+      "isNegativeStem": true,
+      "negativeKeyword": {
+        "en": "NOT",
+        "vi": "KHÔNG"
+      },
+      "isFreeTrial": false,
+      "shuffleOptions": true,
+      "stem": {
+        "en": "Which outfit does NOT meet the Texas attire rule for practitioners while performing services?",
+        "vi": "Trang phục nào sau đây KHÔNG đạt quy định Texas về trang phục của thợ khi làm dịch vụ?"
+      },
+      "statements": [],
+      "diagram": null,
+      "image": null,
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "en": "A clean shirt, clean pants and shoes",
+            "vi": "Áo sạch, quần sạch và giày"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "en": "A clean dress and sandals",
+            "vi": "Đầm sạch và dép xăng-đan"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "en": "Lingerie worn as the top, with clean pants and shoes",
+            "vi": "Mặc đồ lót (lingerie) làm áo, với quần sạch và giày"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "en": "A clean scrub top, scrub pants and shoes",
+            "vi": "Áo và quần đồng phục (scrub) sạch, có mang giày"
+          }
+        }
+      ],
+      "correctOptionIds": [
+        "C"
+      ],
+      "explanation": {
+        "en": "Practitioners must wear clean outer garments on the top and bottom, plus footwear. Shirts, dresses and pants qualify as outer garments, but lingerie does not.",
+        "vi": "Thợ phải mặc quần áo bên ngoài sạch sẽ cho phần trên và phần dưới, và mang giày dép. Áo, đầm và quần được tính là quần áo bên ngoài, còn đồ lót (lingerie) thì không."
+      },
+      "glossaryTermIds": [],
+      "sourceRefs": [
+        "16 TAC §83.70(i) (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "txl_0015",
+      "rev": 1,
+      "status": "active",
+      "exams": [
+        "tx_tdlr"
+      ],
+      "domain": "tx_law",
+      "topic": "practice.responsibilities",
+      "difficulty": 2,
+      "questionType": "single_choice",
+      "isNegativeStem": false,
+      "isFreeTrial": false,
+      "shuffleOptions": true,
+      "stem": {
+        "en": "A manicurist knows she currently has an infectious and contagious disease. Under Texas law, what should she do?",
+        "vi": "Một thợ nail biết mình đang mắc bệnh truyền nhiễm và dễ lây. Theo luật Texas, cô ấy nên làm gì?"
+      },
+      "statements": [],
+      "diagram": null,
+      "image": null,
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "en": "Keep working but wear gloves",
+            "vi": "Vẫn làm nhưng đeo bao tay"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "en": "Keep working if each client agrees",
+            "vi": "Vẫn làm nếu từng khách đồng ý"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "en": "Not perform services while she knows she has the disease",
+            "vi": "Không làm dịch vụ trong thời gian biết mình đang mắc bệnh"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "en": "Work only on pedicures, not manicures",
+            "vi": "Chỉ làm pedicure, không làm manicure"
+          }
+        }
+      ],
+      "correctOptionIds": [
+        "C"
+      ],
+      "explanation": {
+        "en": "A license holder may not perform barbering or cosmetology services while knowing they have an infectious or contagious disease, unless protected under the federal Americans with Disabilities Act. Establishment owners also may not assign such a person to perform services.",
+        "vi": "Người có license không được làm dịch vụ barbering hoặc cosmetology khi biết mình đang mắc bệnh truyền nhiễm hoặc dễ lây, trừ khi được bảo vệ theo luật liên bang Americans with Disabilities Act (ADA). Chủ tiệm cũng không được phân công người đó làm dịch vụ."
+      },
+      "glossaryTermIds": [],
+      "sourceRefs": [
+        "Texas Occupations Code §1603.209, checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "txl_0016",
+      "rev": 1,
+      "status": "active",
+      "exams": [
+        "tx_tdlr"
+      ],
+      "domain": "tx_law",
+      "topic": "practice.client_conditions",
+      "difficulty": 2,
+      "questionType": "single_choice",
+      "isNegativeStem": false,
+      "isFreeTrial": false,
+      "shuffleOptions": true,
+      "stem": {
+        "en": "A client arrives for a manicure, and the skin around one fingernail is red, swollen and looks infected. What does the Texas rule require?",
+        "vi": "Khách đến làm móng tay, và phần da quanh một móng bị đỏ, sưng và trông như bị nhiễm trùng. Quy định Texas yêu cầu gì?"
+      },
+      "statements": [],
+      "diagram": null,
+      "image": null,
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "en": "Do not perform the service on the affected area",
+            "vi": "Không làm dịch vụ trên vùng bị ảnh hưởng"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "en": "Continue the service while wearing gloves",
+            "vi": "Tiếp tục làm dịch vụ nhưng đeo bao tay"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "en": "Soak the finger in disinfectant, then continue",
+            "vi": "Ngâm ngón tay vào dung dịch khử trùng rồi làm tiếp"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "en": "Trim away the swollen tissue before polishing",
+            "vi": "Cắt bỏ phần da sưng trước khi sơn"
+          }
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "explanation": {
+        "en": "Practitioners may not serve an area where the skin or nail tissue is inflamed, infected, broken, raised or swollen, or has an open wound or sore. Do not try to treat it; refer the client to a physician.",
+        "vi": "Thợ không được làm dịch vụ trên vùng da hoặc móng bị viêm, nhiễm trùng, trầy rách, nổi gồ hoặc sưng, hoặc có vết thương hở. Đừng tự xử lý; hãy khuyên khách đi gặp bác sĩ."
+      },
+      "glossaryTermIds": [],
+      "sourceRefs": [
+        "16 TAC §83.102(b) (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "txl_0017",
+      "rev": 1,
+      "status": "active",
+      "exams": [
+        "tx_tdlr"
+      ],
+      "domain": "tx_law",
+      "topic": "health_safety.single_use",
+      "difficulty": 1,
+      "questionType": "single_choice",
+      "isNegativeStem": false,
+      "isFreeTrial": true,
+      "shuffleOptions": true,
+      "stem": {
+        "en": "Under the Texas rules, what must a manicurist do with an orangewood stick after using it on a client?",
+        "vi": "Theo quy định Texas, thợ nail phải làm gì với cây gỗ cam (orangewood stick) sau khi dùng cho một khách?"
+      },
+      "statements": [],
+      "diagram": null,
+      "image": null,
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "en": "Disinfect it and reuse it",
+            "vi": "Khử trùng rồi dùng lại"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "en": "Throw it away",
+            "vi": "Bỏ đi"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "en": "Store it in a UV sanitizer for the next client",
+            "vi": "Cất vào máy UV để dùng cho khách sau"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "en": "Wash it with soap and keep it in a drawer",
+            "vi": "Rửa bằng xà phòng rồi cất vào ngăn kéo"
+          }
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "explanation": {
+        "en": "Orangewood sticks, cotton balls, nail wipes and disposable towels are single-use items and must be discarded after each use.",
+        "vi": "Cây gỗ cam, bông gòn, giấy lau móng và khăn dùng một lần là đồ dùng một lần (single-use) và phải bỏ đi sau mỗi lần dùng."
+      },
+      "glossaryTermIds": [],
+      "sourceRefs": [
+        "16 TAC §83.106(e) (Texas), checked 2026-11-02",
+        "16 TAC §83.100 (Texas), definition of single-use items, checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "txl_0018",
+      "rev": 1,
+      "status": "active",
+      "exams": [
+        "tx_tdlr"
+      ],
+      "domain": "tx_law",
+      "topic": "health_safety.implements",
+      "difficulty": 2,
+      "questionType": "single_choice",
+      "isNegativeStem": false,
+      "isFreeTrial": false,
+      "shuffleOptions": true,
+      "stem": {
+        "en": "Before each manicure or pedicure service in Texas, what must be done to metal implements such as cuticle nippers?",
+        "vi": "Trước mỗi dịch vụ manicure hoặc pedicure ở Texas, dụng cụ kim loại như kềm cắt da phải được xử lý thế nào?"
+      },
+      "statements": [],
+      "diagram": null,
+      "image": null,
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "en": "Clean, disinfect, then sterilize or sanitize them",
+            "vi": "Làm sạch, khử trùng, rồi tiệt trùng hoặc sanitize"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "en": "Wipe them with alcohol only",
+            "vi": "Chỉ lau bằng cồn"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "en": "Rinse them under hot running water",
+            "vi": "Xả dưới vòi nước nóng"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "en": "Disinfect them once at the start of each day",
+            "vi": "Khử trùng một lần vào đầu mỗi ngày"
+          }
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "explanation": {
+        "en": "Metal implements must be cleaned and disinfected, then sterilized in an autoclave or dry heat sterilizer, or sanitized in an ultraviolet sanitizer, following the equipment maker's directions. The establishment owner or manager must provide this equipment.",
+        "vi": "Dụng cụ kim loại phải được làm sạch và khử trùng, sau đó tiệt trùng bằng nồi hấp (autoclave) hoặc máy tiệt trùng nhiệt khô (dry heat sterilizer), hoặc sanitize bằng máy tia cực tím (UV sanitizer), theo hướng dẫn của nhà sản xuất. Chủ hoặc quản lý tiệm phải cung cấp các thiết bị này."
+      },
+      "glossaryTermIds": [],
+      "sourceRefs": [
+        "Texas Occupations Code §1603.352(a)-(b), checked 2026-11-02",
+        "16 TAC §83.106(c) (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "txl_0019",
+      "rev": 1,
+      "status": "active",
+      "exams": [
+        "tx_tdlr"
+      ],
+      "domain": "tx_law",
+      "topic": "health_safety.implements",
+      "difficulty": 2,
+      "questionType": "single_choice",
+      "isNegativeStem": true,
+      "negativeKeyword": {
+        "en": "NOT",
+        "vi": "KHÔNG"
+      },
+      "isFreeTrial": false,
+      "shuffleOptions": true,
+      "stem": {
+        "en": "Texas law requires sterilization or UV sanitizing of certain tools before nail services. To which item does this requirement NOT apply?",
+        "vi": "Luật Texas yêu cầu tiệt trùng hoặc sanitize bằng tia UV một số dụng cụ trước dịch vụ làm móng. Yêu cầu này KHÔNG áp dụng cho dụng cụ nào?"
+      },
+      "statements": [],
+      "diagram": null,
+      "image": null,
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "en": "Metal cuticle nipper",
+            "vi": "Kềm cắt da bằng kim loại"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "en": "Metal cuticle pusher",
+            "vi": "Cây đẩy da bằng kim loại"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "en": "Metal nail clipper",
+            "vi": "Bấm móng bằng kim loại"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "en": "Pumice stone",
+            "vi": "Đá chà gót (pumice)"
+          }
+        }
+      ],
+      "correctOptionIds": [
+        "D"
+      ],
+      "explanation": {
+        "en": "The sterilization requirement covers metal tools such as nail clippers, cuticle pushers and cuticle nippers. It does not apply to single-use instruments or to nonmetal items such as nail files, buffer blocks, pumice stones and nail brushes, which follow their own cleaning and disinfecting rules.",
+        "vi": "Yêu cầu tiệt trùng áp dụng cho dụng cụ kim loại như bấm móng, cây đẩy da và kềm cắt da. Yêu cầu này không áp dụng cho đồ dùng một lần hoặc dụng cụ không phải kim loại như dũa, cục chà (buffer block), đá pumice và bàn chải móng; các dụng cụ này theo quy định làm sạch và khử trùng riêng."
+      },
+      "glossaryTermIds": [],
+      "sourceRefs": [
+        "Texas Occupations Code §1603.352(a), (d), checked 2026-11-02",
+        "16 TAC §83.106(f) (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "txl_0020",
+      "rev": 1,
+      "status": "active",
+      "exams": [
+        "tx_tdlr"
+      ],
+      "domain": "tx_law",
+      "topic": "health_safety.prohibited",
+      "difficulty": 3,
+      "questionType": "single_choice",
+      "isNegativeStem": true,
+      "negativeKeyword": {
+        "en": "EXCEPT",
+        "vi": "NGOẠI TRỪ"
+      },
+      "isFreeTrial": false,
+      "shuffleOptions": true,
+      "stem": {
+        "en": "Texas rules prohibit having all of the following on licensed premises EXCEPT:",
+        "vi": "Quy định Texas cấm để tất cả những thứ sau trong cơ sở có giấy phép NGOẠI TRỪ:"
+      },
+      "statements": [],
+      "diagram": null,
+      "image": null,
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "en": "Methyl methacrylate (MMA) liquid monomer",
+            "vi": "Nước monomer methyl methacrylate (MMA)"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "en": "A credo blade or other razor-type callus shaver",
+            "vi": "Dao cạo credo (credo blade) hoặc dao cạo da chai kiểu lưỡi lam"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "en": "Styptic powder",
+            "vi": "Bột cầm máu (styptic powder)"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "en": "An alum stick",
+            "vi": "Cục phèn chua dạng thỏi (alum stick)"
+          }
+        }
+      ],
+      "correctOptionIds": [
+        "C"
+      ],
+      "explanation": {
+        "en": "MMA liquid monomers, razor-type callus shavers such as credo blades, alum or other astringents in stick or lump form, and formalin fumigants are prohibited, and even having them on the premises is a violation. Powder and liquid astringents are allowed, and styptic powder may be used to stop minor bleeding.",
+        "vi": "Nước monomer MMA, dao cạo da chai kiểu lưỡi lam như credo blade, phèn chua hoặc chất làm se dạng thỏi hay dạng cục, và chất xông formalin đều bị cấm, và chỉ cần để trong tiệm đã là vi phạm. Chất làm se dạng bột hoặc dạng lỏng thì được phép, và bột cầm máu (styptic powder) được dùng để cầm máu nhẹ."
+      },
+      "glossaryTermIds": [],
+      "sourceRefs": [
+        "16 TAC §83.112(a)-(b) (Texas), checked 2026-11-02",
+        "16 TAC §83.111(a) (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "txl_0021",
+      "rev": 1,
+      "status": "active",
+      "exams": [
+        "tx_tdlr"
+      ],
+      "domain": "tx_law",
+      "topic": "health_safety.prohibited",
+      "difficulty": 2,
+      "questionType": "single_choice",
+      "isNegativeStem": false,
+      "isFreeTrial": false,
+      "shuffleOptions": true,
+      "stem": {
+        "en": "Under the Texas rules, how are products or procedures that contact or penetrate the dermis treated?",
+        "vi": "Theo quy định Texas, sản phẩm hoặc thủ thuật tiếp xúc hay xuyên vào lớp hạ bì (dermis) được xử lý thế nào?"
+      },
+      "statements": [],
+      "diagram": null,
+      "image": null,
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "en": "They are allowed with written client consent",
+            "vi": "Được phép nếu khách ký giấy đồng ý"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "en": "They are prohibited",
+            "vi": "Bị cấm"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "en": "They are allowed after extra training hours",
+            "vi": "Được phép sau khi học thêm giờ"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "en": "They are allowed only on the feet",
+            "vi": "Chỉ được phép ở bàn chân"
+          }
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "explanation": {
+        "en": "Any product, preparation or procedure that contacts or penetrates the dermis, the living layer below the epidermis, is prohibited for barbering and cosmetology practitioners.",
+        "vi": "Mọi sản phẩm, chế phẩm hoặc thủ thuật tiếp xúc hay xuyên vào lớp hạ bì (dermis), lớp da sống nằm dưới biểu bì, đều bị cấm đối với người hành nghề barbering và cosmetology."
+      },
+      "glossaryTermIds": [],
+      "sourceRefs": [
+        "16 TAC §83.112(c) (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "txl_0022",
+      "rev": 1,
+      "status": "active",
+      "exams": [
+        "tx_tdlr"
+      ],
+      "domain": "tx_law",
+      "topic": "health_safety.foot_spas",
+      "difficulty": 3,
+      "questionType": "single_choice",
+      "isNegativeStem": false,
+      "isFreeTrial": false,
+      "shuffleOptions": true,
+      "stem": {
+        "en": "After each client, a whirlpool foot spa is drained and all debris is removed. Under the Texas rules, what is the next step?",
+        "vi": "Sau mỗi khách, bồn whirlpool foot spa được xả nước và lấy hết cặn bẩn. Theo quy định Texas, bước tiếp theo là gì?"
+      },
+      "statements": [],
+      "diagram": null,
+      "image": null,
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "en": "Scrub the surfaces with soap or detergent and water",
+            "vi": "Chà bề mặt bằng xà phòng hoặc chất tẩy rửa và nước"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "en": "Spray disinfectant on the dirty surfaces right away",
+            "vi": "Xịt thuốc khử trùng ngay lên bề mặt còn dơ"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "en": "Fill it with bleach solution and leave it overnight",
+            "vi": "Đổ dung dịch thuốc tẩy vào và để qua đêm"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "en": "Dry it with a clean towel and seat the next client",
+            "vi": "Lau khô bằng khăn sạch rồi mời khách kế tiếp"
+          }
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "explanation": {
+        "en": "After each client: drain and remove debris, scrub with soap or detergent and water, disinfect with an EPA-registered bactericidal, fungicidal and virucidal disinfectant used as the label directs, then wipe dry with a clean towel. Disinfectant does not work well on surfaces that have not been cleaned first.",
+        "vi": "Sau mỗi khách: xả nước và lấy cặn, chà bằng xà phòng hoặc chất tẩy rửa và nước, khử trùng bằng thuốc khử trùng đăng ký EPA diệt vi khuẩn, nấm và virus theo hướng dẫn trên nhãn, rồi lau khô bằng khăn sạch. Thuốc khử trùng không hiệu quả trên bề mặt chưa được làm sạch trước."
+      },
+      "glossaryTermIds": [
+        "term_tx_whirlpool_foot_spa"
+      ],
+      "sourceRefs": [
+        "16 TAC §83.108(b) (Texas), checked 2026-11-02",
+        "16 TAC §83.101(a)(1) (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "txl_0023",
+      "rev": 1,
+      "status": "active",
+      "exams": [
+        "tx_tdlr"
+      ],
+      "domain": "tx_law",
+      "topic": "health_safety.foot_spas",
+      "difficulty": 2,
+      "questionType": "single_choice",
+      "isNegativeStem": false,
+      "isFreeTrial": false,
+      "shuffleOptions": true,
+      "stem": {
+        "en": "How often do the Texas rules require a whirlpool foot spa to be filled with a high-level bleach solution or EPA-registered disinfectant, circulated, and left to stand for 6 to 10 hours?",
+        "vi": "Quy định Texas yêu cầu bao lâu một lần phải đổ đầy bồn whirlpool foot spa bằng dung dịch thuốc tẩy nồng độ cao hoặc thuốc khử trùng đăng ký EPA, cho chạy tuần hoàn, rồi để yên từ 6 đến 10 tiếng?"
+      },
+      "statements": [],
+      "diagram": null,
+      "image": null,
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "en": "After every client",
+            "vi": "Sau mỗi khách"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "en": "Every day",
+            "vi": "Mỗi ngày"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "en": "Every two weeks",
+            "vi": "Mỗi hai tuần"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "en": "Once a month",
+            "vi": "Mỗi tháng một lần"
+          }
+        }
+      ],
+      "correctOptionIds": [
+        "C"
+      ],
+      "explanation": {
+        "en": "Every two weeks the spa is filled with a high-level chlorine bleach solution or an EPA-registered disinfectant, circulated for 5 to 10 minutes, left for 6 to 10 hours, then drained and flushed before use. Separate cleaning steps are also required after each client and at the end of each day.",
+        "vi": "Mỗi hai tuần, bồn phải được đổ đầy dung dịch thuốc tẩy nồng độ cao hoặc thuốc khử trùng đăng ký EPA, cho chạy tuần hoàn 5 đến 10 phút, để yên 6 đến 10 tiếng, rồi xả và súc lại trước khi dùng. Ngoài ra còn có các bước vệ sinh riêng sau mỗi khách và cuối mỗi ngày."
+      },
+      "glossaryTermIds": [
+        "term_tx_whirlpool_foot_spa"
+      ],
+      "sourceRefs": [
+        "16 TAC §83.108(b)-(d) (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "txl_0024",
+      "rev": 1,
+      "status": "active",
+      "exams": [
+        "tx_tdlr"
+      ],
+      "domain": "tx_law",
+      "topic": "health_safety.foot_spas",
+      "difficulty": 2,
+      "questionType": "single_choice",
+      "isNegativeStem": false,
+      "isFreeTrial": false,
+      "shuffleOptions": true,
+      "stem": {
+        "en": "Foot spa cleaning records in a Texas salon must be kept for at least how long?",
+        "vi": "Sổ ghi chép vệ sinh bồn ngâm chân ở tiệm tại Texas phải được lưu ít nhất bao lâu?"
+      },
+      "statements": [],
+      "diagram": null,
+      "image": null,
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "en": "30 days",
+            "vi": "30 ngày"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "en": "60 days",
+            "vi": "60 ngày"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "en": "90 days",
+            "vi": "90 ngày"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "en": "1 year",
+            "vi": "1 năm"
+          }
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "explanation": {
+        "en": "Cleaning records must be kept for at least 60 days and shown to a client or a TDLR representative on request. A spa or basin without proper records must be taken out of service until it is cleaned and the cleaning is recorded.",
+        "vi": "Sổ ghi chép vệ sinh phải được lưu ít nhất 60 ngày và đưa ra khi khách hoặc nhân viên TDLR yêu cầu. Bồn nào không có sổ ghi chép đúng quy định phải ngưng sử dụng cho đến khi được vệ sinh và ghi lại."
+      },
+      "glossaryTermIds": [
+        "term_tx_whirlpool_foot_spa"
+      ],
+      "sourceRefs": [
+        "16 TAC §83.108(e), (l), (m) (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "txl_0025",
+      "rev": 1,
+      "status": "active",
+      "exams": [
+        "tx_tdlr"
+      ],
+      "domain": "tx_law",
+      "topic": "health_safety.blood_exposure",
+      "difficulty": 2,
+      "questionType": "multi_choice",
+      "isNegativeStem": false,
+      "isFreeTrial": false,
+      "shuffleOptions": true,
+      "practiceOnly": true,
+      "stem": {
+        "en": "Select all that apply. Under the Texas rules, which products may be used to stop minor bleeding during a service?",
+        "vi": "Chọn tất cả câu đúng. Theo quy định Texas, sản phẩm nào được dùng để cầm máu nhẹ trong khi làm dịch vụ?"
+      },
+      "statements": [],
+      "diagram": null,
+      "image": null,
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "en": "Powdered alum",
+            "vi": "Phèn chua dạng bột"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "en": "Styptic powder",
+            "vi": "Bột cầm máu (styptic powder)"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "en": "A cyanoacrylate product",
+            "vi": "Sản phẩm cyanoacrylate"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "en": "An alum stick",
+            "vi": "Cục phèn chua dạng thỏi (alum stick)"
+          }
+        }
+      ],
+      "correctOptionIds": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": {
+        "en": "Powdered alum, styptic powder or a cyanoacrylate product may be applied with a disposable cotton-tipped applicator, which is thrown away right after use. Alum in stick or lump form is prohibited.",
+        "vi": "Phèn chua dạng bột, bột cầm máu hoặc sản phẩm cyanoacrylate được thoa bằng que bông dùng một lần, và phải bỏ que ngay sau khi dùng. Phèn chua dạng thỏi hoặc dạng cục bị cấm."
+      },
+      "glossaryTermIds": [],
+      "sourceRefs": [
+        "16 TAC §83.111(a) (Texas), checked 2026-11-02",
+        "16 TAC §83.112(a) (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "txl_0026",
+      "rev": 1,
+      "status": "active",
+      "exams": [
+        "tx_tdlr"
+      ],
+      "domain": "tx_law",
+      "topic": "health_safety.blood_exposure",
+      "difficulty": 1,
+      "questionType": "single_choice",
+      "isNegativeStem": false,
+      "isFreeTrial": false,
+      "shuffleOptions": true,
+      "stem": {
+        "en": "A porous nail file comes into contact with a client's blood. Under the Texas rules, what must be done with it?",
+        "vi": "Một cây dũa móng loại xốp (porous) bị dính máu của khách. Theo quy định Texas, phải xử lý cây dũa này thế nào?"
+      },
+      "statements": [],
+      "diagram": null,
+      "image": null,
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "en": "Spray it with disinfectant and reuse it",
+            "vi": "Xịt thuốc khử trùng rồi dùng lại"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "en": "Double-bag it right away and discard it in a closed container",
+            "vi": "Bỏ vào hai lớp bao ngay và vứt vào thùng rác có nắp đậy"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "en": "Rinse it and set it aside for the same client next time",
+            "vi": "Rửa sạch rồi để dành cho chính khách đó lần sau"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "en": "Place it in the UV sanitizer overnight",
+            "vi": "Để vào máy UV qua đêm"
+          }
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "explanation": {
+        "en": "A porous item that touches blood or body fluid must be double-bagged immediately and discarded in a closed trash container or biohazard box. A non-porous implement would instead be cleaned and disinfected right away.",
+        "vi": "Dụng cụ xốp (porous) dính máu hoặc dịch cơ thể phải được bỏ vào hai lớp bao ngay và vứt vào thùng rác có nắp đậy hoặc thùng chất thải sinh học (biohazard box). Còn dụng cụ không xốp (non-porous) thì phải làm sạch và khử trùng ngay."
+      },
+      "glossaryTermIds": [],
+      "sourceRefs": [
+        "16 TAC §83.111(c)-(d) (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "txl_0027",
+      "rev": 1,
+      "status": "active",
+      "exams": [
+        "tx_tdlr"
+      ],
+      "domain": "tx_law",
+      "topic": "enforcement.penalties",
+      "difficulty": 2,
+      "questionType": "single_choice",
+      "isNegativeStem": false,
+      "isFreeTrial": false,
+      "shuffleOptions": true,
+      "stem": {
+        "en": "Under Texas Occupations Code Chapter 51, how is a violation that continues for several days treated when TDLR sets an administrative penalty?",
+        "vi": "Theo Texas Occupations Code Chapter 51, một vi phạm kéo dài nhiều ngày được tính thế nào khi TDLR áp dụng tiền phạt hành chính (administrative penalty)?"
+      },
+      "statements": [],
+      "diagram": null,
+      "image": null,
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "en": "As a single violation, no matter how long it lasts",
+            "vi": "Là một vi phạm duy nhất, dù kéo dài bao lâu"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "en": "Each day is a separate violation",
+            "vi": "Mỗi ngày là một vi phạm riêng"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "en": "Only the first and last days count",
+            "vi": "Chỉ tính ngày đầu và ngày cuối"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "en": "It is penalized only if it lasts longer than 30 days",
+            "vi": "Chỉ bị phạt nếu kéo dài hơn 30 ngày"
+          }
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "explanation": {
+        "en": "Each day a violation continues or occurs is a separate violation for penalty purposes. The amount depends on factors such as the seriousness of the violation, past violations, what is needed to deter future violations, and efforts to correct it.",
+        "vi": "Mỗi ngày vi phạm tiếp diễn hoặc xảy ra được tính là một vi phạm riêng khi tính tiền phạt. Số tiền tùy vào các yếu tố như mức độ nghiêm trọng, các vi phạm trước đó, mức cần thiết để ngăn tái phạm, và nỗ lực sửa chữa vi phạm."
+      },
+      "glossaryTermIds": [
+        "term_tx_administrative_penalty",
+        "term_tdlr"
+      ],
+      "sourceRefs": [
+        "Texas Occupations Code §51.302(a)-(b), checked 2026-11-02",
+        "16 TAC §83.90 (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "txl_0028",
+      "rev": 1,
+      "status": "active",
+      "exams": [
+        "tx_tdlr"
+      ],
+      "domain": "tx_law",
+      "topic": "enforcement.inspections",
+      "difficulty": 1,
+      "questionType": "single_choice",
+      "isNegativeStem": false,
+      "isFreeTrial": false,
+      "shuffleOptions": true,
+      "stem": {
+        "en": "When may TDLR inspect a licensed nail salon?",
+        "vi": "Khi nào TDLR được phép kiểm tra một tiệm nail có giấy phép?"
+      },
+      "statements": [],
+      "diagram": null,
+      "image": null,
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "en": "At any time during business hours",
+            "vi": "Bất cứ lúc nào trong giờ mở cửa"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "en": "Only after giving 48 hours' notice",
+            "vi": "Chỉ sau khi báo trước 48 tiếng"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "en": "Only once a year, by appointment",
+            "vi": "Chỉ một lần mỗi năm, theo lịch hẹn"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "en": "Only after a client files a complaint",
+            "vi": "Chỉ sau khi có khách nộp đơn khiếu nại"
+          }
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "explanation": {
+        "en": "TDLR may inspect a place of business at any time during business hours. The owner, manager, employees and contractors must cooperate with the inspector, and an inspector who finds a violation gives written notice.",
+        "vi": "TDLR được kiểm tra nơi kinh doanh bất cứ lúc nào trong giờ mở cửa. Chủ tiệm, quản lý, nhân viên và thợ thuê ghế phải hợp tác với thanh tra, và khi phát hiện vi phạm, thanh tra sẽ đưa thông báo bằng văn bản."
+      },
+      "glossaryTermIds": [
+        "term_tdlr"
+      ],
+      "sourceRefs": [
+        "Texas Occupations Code §1603.104(a), (d), checked 2026-11-02",
+        "16 TAC §83.50(d) (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "txl_0029",
+      "rev": 1,
+      "status": "active",
+      "exams": [
+        "tx_tdlr"
+      ],
+      "domain": "tx_law",
+      "topic": "enforcement.sanctions",
+      "difficulty": 3,
+      "questionType": "single_choice",
+      "isNegativeStem": false,
+      "isFreeTrial": false,
+      "shuffleOptions": false,
+      "stem": {
+        "en": "Under Texas Occupations Code Chapter 51, which of these sanctions may the commission impose on a license holder who violates the rules?",
+        "vi": "Theo Texas Occupations Code Chapter 51, ủy ban (commission) có thể áp dụng những hình thức xử lý nào sau đây với người có license vi phạm quy định?"
+      },
+      "statements": [
+        {
+          "id": "I",
+          "text": {
+            "en": "Revoke the license",
+            "vi": "Thu hồi license"
+          }
+        },
+        {
+          "id": "II",
+          "text": {
+            "en": "Suspend the license",
+            "vi": "Đình chỉ license"
+          }
+        },
+        {
+          "id": "III",
+          "text": {
+            "en": "Reprimand the license holder",
+            "vi": "Khiển trách người có license"
+          }
+        },
+        {
+          "id": "IV",
+          "text": {
+            "en": "Order the license holder to serve a jail sentence",
+            "vi": "Ra lệnh cho người có license phải ngồi tù"
+          }
+        }
+      ],
+      "diagram": null,
+      "image": null,
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "en": "I and II only",
+            "vi": "Chỉ I và II"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "en": "I, II and III only",
+            "vi": "Chỉ I, II và III"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "en": "II, III and IV only",
+            "vi": "Chỉ II, III và IV"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "en": "I, II, III and IV",
+            "vi": "I, II, III và IV"
+          }
+        }
+      ],
+      "correctOptionIds": [
+        "B"
+      ],
+      "explanation": {
+        "en": "The commission may deny, revoke, suspend or refuse to renew a license, or reprimand the license holder, and may place a suspended license holder on probation. A jail sentence is not an administrative sanction the commission can impose.",
+        "vi": "Ủy ban có thể từ chối cấp, thu hồi, đình chỉ hoặc không gia hạn license, hoặc khiển trách người có license, và có thể cho người bị đình chỉ license được hưởng án treo (probation). Ngồi tù không phải là hình thức xử lý hành chính mà ủy ban có thể áp dụng."
+      },
+      "glossaryTermIds": [
+        "term_tdlr"
+      ],
+      "sourceRefs": [
+        "Texas Occupations Code §51.353(a)-(b), checked 2026-11-02",
+        "16 TAC §83.90 (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "txl_0030",
+      "rev": 1,
+      "status": "active",
+      "exams": [
+        "tx_tdlr"
+      ],
+      "domain": "tx_law",
+      "topic": "enforcement.penalties",
+      "difficulty": 3,
+      "questionType": "single_choice",
+      "isNegativeStem": false,
+      "isFreeTrial": false,
+      "shuffleOptions": true,
+      "stem": {
+        "en": "A manicurist has an administrative penalty that is not stayed, and the time to pay it or request a hearing has passed without payment. She now applies to renew her license. What may TDLR do?",
+        "vi": "Một thợ nail có khoản tiền phạt hành chính không được hoãn (stay), và đã quá hạn đóng phạt hoặc xin điều trần mà chưa đóng. Bây giờ cô ấy nộp đơn gia hạn license. TDLR có thể làm gì?"
+      },
+      "statements": [],
+      "diagram": null,
+      "image": null,
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "en": "Deny the renewal",
+            "vi": "Từ chối gia hạn"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "en": "Cancel the penalty because the license is being renewed",
+            "vi": "Hủy tiền phạt vì license đang được gia hạn"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "en": "Renew the license, since penalties never affect renewal",
+            "vi": "Gia hạn license, vì tiền phạt không bao giờ ảnh hưởng việc gia hạn"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "en": "Transfer the penalty to the salon owner",
+            "vi": "Chuyển tiền phạt sang cho chủ tiệm"
+          }
+        }
+      ],
+      "correctOptionIds": [
+        "A"
+      ],
+      "explanation": {
+        "en": "TDLR may deny a renewal when the applicant owes an unpaid administrative penalty, unless the time to pay or request a hearing has not run out or the penalty is stayed.",
+        "vi": "TDLR có thể từ chối gia hạn khi người nộp đơn còn nợ tiền phạt hành chính, trừ khi vẫn còn trong thời hạn đóng phạt hoặc xin điều trần, hoặc khoản phạt đang được hoãn."
+      },
+      "glossaryTermIds": [
+        "term_tx_administrative_penalty",
+        "term_tdlr"
+      ],
+      "sourceRefs": [
+        "Texas Occupations Code §1603.301, checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    }
+  ]
+}

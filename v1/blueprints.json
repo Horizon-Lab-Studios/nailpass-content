@@ -1,0 +1,405 @@
+[
+  {
+    "id": "ca_psi",
+    "enabled": true,
+    "mockEnabled": true,
+    "name": {
+      "en": "California (PSI)",
+      "vi": "California (PSI)"
+    },
+    "description": {
+      "en": "PSI national manicurist exam used by the California Board of Barbering and Cosmetology. 65 questions in 90 minutes. No state-law questions.",
+      "vi": "Bài thi manicurist quốc gia của PSI, được California Board of Barbering and Cosmetology sử dụng. 65 câu hỏi trong 90 phút. Không có câu hỏi về luật tiểu bang."
+    },
+    "totalQuestions": 65,
+    "trialQuestions": 5,
+    "timeLimitMinutes": 90,
+    "passPercent": 75,
+    "passMarkIsEstimate": true,
+    "examDomains": [
+      {
+        "key": "safety_infection_control",
+        "name": {
+          "en": "Safety and Infection Control",
+          "vi": "An toàn và kiểm soát nhiễm khuẩn"
+        },
+        "weight": 0.5,
+        "sources": [
+          "infection_control_safety",
+          "chemistry"
+        ]
+      },
+      {
+        "key": "consultation_nail_analysis",
+        "name": {
+          "en": "Client Consultation and Nail Analysis",
+          "vi": "Tư vấn khách hàng và phân tích móng"
+        },
+        "weight": 0.18,
+        "sources": [
+          "consultation_analysis",
+          "anatomy_disorders"
+        ]
+      },
+      {
+        "key": "skin_care",
+        "name": {
+          "en": "Skin Care",
+          "vi": "Chăm sóc da"
+        },
+        "weight": 0.1,
+        "sources": [
+          "skin_care"
+        ]
+      },
+      {
+        "key": "nail_care",
+        "name": {
+          "en": "Nail Care",
+          "vi": "Chăm sóc móng"
+        },
+        "weight": 0.22,
+        "sources": [
+          "manicure_pedicure",
+          "enhancements",
+          "tools_equipment",
+          "service_prep_post"
+        ]
+      }
+    ],
+    "sourceRef": "PSI California CIB, April 2026",
+    "officialUrl": "https://www.barbercosmo.ca.gov/applicants/national.shtml"
+  },
+  {
+    "id": "nic",
+    "enabled": true,
+    "mockEnabled": true,
+    "name": {
+      "en": "NIC national theory exam",
+      "vi": "Bài thi lý thuyết quốc gia NIC"
+    },
+    "description": {
+      "en": "National nail technology theory exam used by many state boards. 110 questions in 90 minutes. The pass mark is set by your state.",
+      "vi": "Bài thi lý thuyết nail quốc gia được nhiều tiểu bang sử dụng. 110 câu hỏi trong 90 phút. Điểm đậu do tiểu bang của bạn quy định."
+    },
+    "totalQuestions": 110,
+    "trialQuestions": 10,
+    "timeLimitMinutes": 90,
+    "passPercentByState": {
+      "default": 75
+    },
+    "passMarkIsEstimate": false,
+    "examDomains": [
+      {
+        "key": "infection_control",
+        "name": {
+          "en": "Infection Control",
+          "vi": "Kiểm soát nhiễm khuẩn"
+        },
+        "weight": 0.15,
+        "sources": [
+          "infection_control_safety"
+        ]
+      },
+      {
+        "key": "anatomy_physiology",
+        "name": {
+          "en": "Anatomy and Physiology",
+          "vi": "Giải phẫu và sinh lý"
+        },
+        "weight": 0.15,
+        "sources": [
+          "anatomy_disorders",
+          "skin_care"
+        ]
+      },
+      {
+        "key": "chemistry",
+        "name": {
+          "en": "Chemistry",
+          "vi": "Hóa học"
+        },
+        "weight": 0.1,
+        "sources": [
+          "chemistry"
+        ]
+      },
+      {
+        "key": "consultation",
+        "name": {
+          "en": "Client Consultation",
+          "vi": "Tư vấn khách hàng"
+        },
+        "weight": 0.05,
+        "sources": [
+          "consultation_analysis"
+        ]
+      },
+      {
+        "key": "tools",
+        "name": {
+          "en": "Tools, Equipment and Supplies",
+          "vi": "Dụng cụ, thiết bị và vật tư"
+        },
+        "weight": 0.08,
+        "sources": [
+          "tools_equipment"
+        ]
+      },
+      {
+        "key": "preparation",
+        "name": {
+          "en": "Service Preparation",
+          "vi": "Chuẩn bị dịch vụ"
+        },
+        "weight": 0.05,
+        "sources": [
+          "service_prep_post/prep"
+        ]
+      },
+      {
+        "key": "manicure_pedicure",
+        "name": {
+          "en": "Manicure and Pedicure",
+          "vi": "Làm móng tay và móng chân"
+        },
+        "weight": 0.18,
+        "sources": [
+          "manicure_pedicure"
+        ]
+      },
+      {
+        "key": "enhancements",
+        "name": {
+          "en": "Nail Enhancements",
+          "vi": "Móng nhân tạo"
+        },
+        "weight": 0.2,
+        "sources": [
+          "enhancements"
+        ]
+      },
+      {
+        "key": "post_service",
+        "name": {
+          "en": "Post-Service Procedures",
+          "vi": "Quy trình sau dịch vụ"
+        },
+        "weight": 0.04,
+        "sources": [
+          "service_prep_post/post"
+        ]
+      }
+    ],
+    "states": [
+      {
+        "code": "AK",
+        "name": {
+          "en": "Alaska",
+          "vi": "Alaska"
+        }
+      },
+      {
+        "code": "AZ",
+        "name": {
+          "en": "Arizona",
+          "vi": "Arizona"
+        }
+      },
+      {
+        "code": "AR",
+        "name": {
+          "en": "Arkansas",
+          "vi": "Arkansas"
+        }
+      },
+      {
+        "code": "DE",
+        "name": {
+          "en": "Delaware",
+          "vi": "Delaware"
+        }
+      },
+      {
+        "code": "HI",
+        "name": {
+          "en": "Hawaii",
+          "vi": "Hawaii"
+        }
+      },
+      {
+        "code": "ID",
+        "name": {
+          "en": "Idaho",
+          "vi": "Idaho"
+        }
+      },
+      {
+        "code": "ME",
+        "name": {
+          "en": "Maine",
+          "vi": "Maine"
+        }
+      },
+      {
+        "code": "MS",
+        "name": {
+          "en": "Mississippi",
+          "vi": "Mississippi"
+        }
+      },
+      {
+        "code": "MT",
+        "name": {
+          "en": "Montana",
+          "vi": "Montana"
+        }
+      },
+      {
+        "code": "NH",
+        "name": {
+          "en": "New Hampshire",
+          "vi": "New Hampshire"
+        }
+      },
+      {
+        "code": "NM",
+        "name": {
+          "en": "New Mexico",
+          "vi": "New Mexico"
+        }
+      },
+      {
+        "code": "NC",
+        "name": {
+          "en": "North Carolina",
+          "vi": "North Carolina"
+        }
+      },
+      {
+        "code": "ND",
+        "name": {
+          "en": "North Dakota",
+          "vi": "North Dakota"
+        }
+      },
+      {
+        "code": "SD",
+        "name": {
+          "en": "South Dakota",
+          "vi": "South Dakota"
+        }
+      },
+      {
+        "code": "UT",
+        "name": {
+          "en": "Utah",
+          "vi": "Utah"
+        }
+      },
+      {
+        "code": "WA",
+        "name": {
+          "en": "Washington",
+          "vi": "Washington"
+        }
+      },
+      {
+        "code": "WV",
+        "name": {
+          "en": "West Virginia",
+          "vi": "West Virginia"
+        }
+      },
+      {
+        "code": "WI",
+        "name": {
+          "en": "Wisconsin",
+          "vi": "Wisconsin"
+        }
+      },
+      {
+        "code": "other",
+        "name": {
+          "en": "Other NIC state",
+          "vi": "Tiểu bang khác dùng NIC"
+        }
+      }
+    ],
+    "sourceRef": "NIC National Nail Technology Theory CIB, eff. 1 Jul 2020",
+    "officialUrl": "https://nictesting.org"
+  },
+  {
+    "id": "tx_tdlr",
+    "enabled": true,
+    "mockEnabled": true,
+    "name": {
+      "en": "Texas (TDLR)",
+      "vi": "Texas (TDLR)"
+    },
+    "description": {
+      "en": "Texas manicurist written exam given by PSI for TDLR. 66 questions in 100 minutes, including Texas laws and rules.",
+      "vi": "Bài thi viết manicurist Texas do PSI tổ chức cho TDLR. 66 câu hỏi trong 100 phút, bao gồm luật và quy định của Texas."
+    },
+    "totalQuestions": 66,
+    "trialQuestions": 6,
+    "timeLimitMinutes": 100,
+    "passPercent": 70,
+    "passMarkIsEstimate": false,
+    "examDomains": [
+      {
+        "key": "licensing_regulation",
+        "name": {
+          "en": "Licensing and Regulation",
+          "vi": "Giấy phép và quy định"
+        },
+        "weight": 0.2,
+        "sources": [
+          "tx_law"
+        ]
+      },
+      {
+        "key": "infection_control",
+        "name": {
+          "en": "Infection Control",
+          "vi": "Kiểm soát nhiễm khuẩn"
+        },
+        "weight": 0.34,
+        "sources": [
+          "infection_control_safety",
+          "anatomy_disorders/disorders",
+          "skin_care/disorders"
+        ]
+      },
+      {
+        "key": "nail_structure_analysis",
+        "name": {
+          "en": "Nail Structure and Analysis",
+          "vi": "Cấu trúc và phân tích móng"
+        },
+        "weight": 0.05,
+        "sources": [
+          "anatomy_disorders/structure",
+          "consultation_analysis"
+        ]
+      },
+      {
+        "key": "nail_care",
+        "name": {
+          "en": "Nail Care",
+          "vi": "Chăm sóc móng"
+        },
+        "weight": 0.41,
+        "sources": [
+          "manicure_pedicure",
+          "enhancements",
+          "tools_equipment",
+          "chemistry",
+          "service_prep_post"
+        ]
+      }
+    ],
+    "sourceRef": "PSI Texas Manicurist CIB (bulletin 713), 1 Jan 2026",
+    "officialUrl": "https://www.tdlr.texas.gov/barbering-and-cosmetology/individuals/examinations.htm"
+  }
+]

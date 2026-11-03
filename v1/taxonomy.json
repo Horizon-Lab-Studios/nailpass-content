@@ -1,0 +1,422 @@
+{
+  "schemaVersion": 1,
+  "domains": [
+    {
+      "key": "infection_control_safety",
+      "name": {
+        "en": "Infection control and safety",
+        "vi": "Kiểm soát nhiễm khuẩn và an toàn"
+      },
+      "launchTarget": 260,
+      "topicGroups": [
+        {
+          "key": "principles",
+          "name": {
+            "en": "Infection control principles",
+            "vi": "Nguyên tắc kiểm soát nhiễm khuẩn"
+          }
+        },
+        {
+          "key": "disinfection",
+          "name": {
+            "en": "Cleaning and disinfection",
+            "vi": "Làm sạch và khử trùng"
+          }
+        },
+        {
+          "key": "sterilization",
+          "name": {
+            "en": "Sterilization",
+            "vi": "Tiệt trùng"
+          }
+        },
+        {
+          "key": "exposure",
+          "name": {
+            "en": "Blood exposure and bloodborne pathogens",
+            "vi": "Phơi nhiễm máu và mầm bệnh qua đường máu"
+          }
+        },
+        {
+          "key": "chemical_safety",
+          "name": {
+            "en": "Chemical safety, SDS and OSHA",
+            "vi": "An toàn hóa chất, SDS và OSHA"
+          }
+        },
+        {
+          "key": "ventilation",
+          "name": {
+            "en": "Ventilation and air quality",
+            "vi": "Thông gió và chất lượng không khí"
+          }
+        },
+        {
+          "key": "workplace_safety",
+          "name": {
+            "en": "Workplace safety",
+            "vi": "An toàn nơi làm việc"
+          }
+        }
+      ]
+    },
+    {
+      "key": "anatomy_disorders",
+      "name": {
+        "en": "Anatomy and nail disorders",
+        "vi": "Giải phẫu và bệnh móng"
+      },
+      "launchTarget": 170,
+      "topicGroups": [
+        {
+          "key": "structure",
+          "name": {
+            "en": "Nail structure and growth",
+            "vi": "Cấu trúc và sự phát triển của móng"
+          }
+        },
+        {
+          "key": "disorders",
+          "name": {
+            "en": "Nail disorders and diseases",
+            "vi": "Rối loạn và bệnh về móng"
+          }
+        },
+        {
+          "key": "bones_muscles",
+          "name": {
+            "en": "Bones and muscles of the hands, arms, feet and legs",
+            "vi": "Xương và cơ của bàn tay, cánh tay, bàn chân và chân"
+          }
+        }
+      ]
+    },
+    {
+      "key": "chemistry",
+      "name": {
+        "en": "Chemistry",
+        "vi": "Hóa học"
+      },
+      "launchTarget": 110,
+      "topicGroups": [
+        {
+          "key": "basics",
+          "name": {
+            "en": "Chemistry basics",
+            "vi": "Hóa học cơ bản"
+          }
+        },
+        {
+          "key": "products",
+          "name": {
+            "en": "Nail product chemistry",
+            "vi": "Hóa học của sản phẩm làm móng"
+          }
+        },
+        {
+          "key": "product_safety",
+          "name": {
+            "en": "Product safety",
+            "vi": "An toàn sản phẩm"
+          }
+        }
+      ]
+    },
+    {
+      "key": "consultation_analysis",
+      "name": {
+        "en": "Client consultation and nail analysis",
+        "vi": "Tư vấn khách hàng và phân tích móng"
+      },
+      "launchTarget": 90,
+      "topicGroups": [
+        {
+          "key": "consultation",
+          "name": {
+            "en": "Client consultation",
+            "vi": "Tư vấn khách hàng"
+          }
+        },
+        {
+          "key": "records",
+          "name": {
+            "en": "Client records",
+            "vi": "Hồ sơ khách hàng"
+          }
+        },
+        {
+          "key": "analysis",
+          "name": {
+            "en": "Nail and skin analysis",
+            "vi": "Phân tích móng và da"
+          }
+        },
+        {
+          "key": "contraindications",
+          "name": {
+            "en": "Contraindications and referrals",
+            "vi": "Chống chỉ định và giới thiệu đến bác sĩ"
+          }
+        }
+      ]
+    },
+    {
+      "key": "tools_equipment",
+      "name": {
+        "en": "Tools and equipment",
+        "vi": "Dụng cụ và thiết bị"
+      },
+      "launchTarget": 80,
+      "topicGroups": [
+        {
+          "key": "implements",
+          "name": {
+            "en": "Implements",
+            "vi": "Dụng cụ cầm tay"
+          }
+        },
+        {
+          "key": "equipment",
+          "name": {
+            "en": "Equipment",
+            "vi": "Thiết bị"
+          }
+        },
+        {
+          "key": "efiles",
+          "name": {
+            "en": "Electric files",
+            "vi": "Máy dũa điện (e-file)"
+          }
+        },
+        {
+          "key": "supplies",
+          "name": {
+            "en": "Supplies and single-use items",
+            "vi": "Vật tư và đồ dùng một lần"
+          }
+        }
+      ]
+    },
+    {
+      "key": "service_prep_post",
+      "name": {
+        "en": "Service preparation and post-service",
+        "vi": "Chuẩn bị dịch vụ và sau dịch vụ"
+      },
+      "launchTarget": 80,
+      "topicGroups": [
+        {
+          "key": "prep",
+          "name": {
+            "en": "Before the service",
+            "vi": "Trước dịch vụ"
+          }
+        },
+        {
+          "key": "post",
+          "name": {
+            "en": "After the service",
+            "vi": "Sau dịch vụ"
+          }
+        }
+      ]
+    },
+    {
+      "key": "manicure_pedicure",
+      "name": {
+        "en": "Manicure and pedicure",
+        "vi": "Làm móng tay và móng chân"
+      },
+      "launchTarget": 200,
+      "topicGroups": [
+        {
+          "key": "manicure",
+          "name": {
+            "en": "Manicure",
+            "vi": "Làm móng tay (manicure)"
+          }
+        },
+        {
+          "key": "pedicure",
+          "name": {
+            "en": "Pedicure",
+            "vi": "Làm móng chân (pedicure)"
+          }
+        },
+        {
+          "key": "massage",
+          "name": {
+            "en": "Hand and foot massage",
+            "vi": "Xoa bóp tay và chân"
+          }
+        },
+        {
+          "key": "spa",
+          "name": {
+            "en": "Spa add-ons and paraffin",
+            "vi": "Dịch vụ spa thêm và sáp paraffin"
+          }
+        },
+        {
+          "key": "polish",
+          "name": {
+            "en": "Polish and gel polish",
+            "vi": "Sơn móng và sơn gel"
+          }
+        },
+        {
+          "key": "foot_spa",
+          "name": {
+            "en": "Foot spa cleaning",
+            "vi": "Vệ sinh bồn ngâm chân"
+          }
+        }
+      ]
+    },
+    {
+      "key": "enhancements",
+      "name": {
+        "en": "Nail enhancements",
+        "vi": "Móng nhân tạo"
+      },
+      "launchTarget": 210,
+      "topicGroups": [
+        {
+          "key": "tips",
+          "name": {
+            "en": "Nail tips",
+            "vi": "Móng típ (nail tips)"
+          }
+        },
+        {
+          "key": "wraps",
+          "name": {
+            "en": "Nail wraps",
+            "vi": "Bọc móng (nail wraps)"
+          }
+        },
+        {
+          "key": "acrylic",
+          "name": {
+            "en": "Liquid and powder (acrylic)",
+            "vi": "Bột và nước (acrylic)"
+          }
+        },
+        {
+          "key": "gel",
+          "name": {
+            "en": "Light-cured gel",
+            "vi": "Gel đèn"
+          }
+        },
+        {
+          "key": "dip",
+          "name": {
+            "en": "Dip powder",
+            "vi": "Bột nhúng (dip powder)"
+          }
+        },
+        {
+          "key": "maintenance",
+          "name": {
+            "en": "Maintenance and removal",
+            "vi": "Bảo trì và tháo móng"
+          }
+        }
+      ]
+    },
+    {
+      "key": "skin_care",
+      "name": {
+        "en": "Skin care",
+        "vi": "Chăm sóc da"
+      },
+      "launchTarget": 100,
+      "topicGroups": [
+        {
+          "key": "structure",
+          "name": {
+            "en": "Skin structure and function",
+            "vi": "Cấu trúc và chức năng của da"
+          }
+        },
+        {
+          "key": "disorders",
+          "name": {
+            "en": "Skin disorders",
+            "vi": "Rối loạn về da"
+          }
+        },
+        {
+          "key": "treatments",
+          "name": {
+            "en": "Hand and foot skin treatments",
+            "vi": "Chăm sóc da tay và chân"
+          }
+        }
+      ]
+    },
+    {
+      "key": "tx_law",
+      "name": {
+        "en": "Texas laws and rules",
+        "vi": "Luật và quy định Texas"
+      },
+      "launchTarget": 150,
+      "topicGroups": [
+        {
+          "key": "licensing",
+          "name": {
+            "en": "Licensing",
+            "vi": "Giấy phép hành nghề"
+          }
+        },
+        {
+          "key": "practice",
+          "name": {
+            "en": "Practitioner responsibilities",
+            "vi": "Trách nhiệm của người hành nghề"
+          }
+        },
+        {
+          "key": "health_safety",
+          "name": {
+            "en": "Health and safety rules",
+            "vi": "Quy định vệ sinh và an toàn"
+          }
+        },
+        {
+          "key": "enforcement",
+          "name": {
+            "en": "Enforcement and penalties",
+            "vi": "Thực thi và xử phạt"
+          }
+        }
+      ]
+    }
+  ],
+  "diagrams": [
+    {
+      "asset": "diagrams/nail_top.svg",
+      "title": {
+        "en": "The nail unit from above",
+        "vi": "Cấu trúc móng nhìn từ trên xuống"
+      }
+    },
+    {
+      "asset": "diagrams/nail_section.svg",
+      "title": {
+        "en": "Fingertip cross-section",
+        "vi": "Mặt cắt đầu ngón tay"
+      }
+    },
+    {
+      "asset": "diagrams/nail_shapes.svg",
+      "title": {
+        "en": "Nail shapes",
+        "vi": "Các kiểu dáng móng"
+      }
+    }
+  ]
+}

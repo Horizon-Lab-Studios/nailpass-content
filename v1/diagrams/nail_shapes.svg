@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" width="600" height="300">
+  <!-- NailPass original diagram: common nail shapes. No text: labels come from the glossary. -->
+  <g fill="#F7E7E3" stroke="#9C6B5E" stroke-width="3" stroke-linejoin="round">
+    <path id="part_shape_square" d="M30 260 L30 70 L110 70 L110 260 Z"/>
+    <path id="part_shape_squoval" d="M130 260 L130 84 C130 74 136 70 146 70 L194 70 C204 70 210 74 210 84 L210 260 Z"/>
+    <path id="part_shape_round" d="M230 260 L230 100 C230 80 250 70 270 70 C290 70 310 80 310 100 L310 260 Z"/>
+    <path id="part_shape_oval" d="M330 260 L330 120 C330 80 350 50 370 50 C390 50 410 80 410 120 L410 260 Z"/>
+    <path id="part_shape_almond" d="M430 260 L430 130 C430 90 455 50 470 30 C485 50 510 90 510 130 L510 260 Z"/>
+    <path id="part_shape_stiletto" d="M530 260 L530 150 C530 110 560 40 570 10 C580 40 590 110 590 150 L590 260 Z" transform="translate(-10 0)"/>
+  </g>
+  <g class="hotspots" fill="#C85A70" fill-opacity="0" stroke="none">
+    <circle class="hotspot" id="shape_square" cx="70" cy="160" r="30"/>
+    <circle class="hotspot" id="shape_squoval" cx="170" cy="160" r="30"/>
+    <circle class="hotspot" id="shape_round" cx="270" cy="160" r="30"/>
+    <circle class="hotspot" id="shape_oval" cx="370" cy="160" r="30"/>
+    <circle class="hotspot" id="shape_almond" cx="470" cy="160" r="30"/>
+    <circle class="hotspot" id="shape_stiletto" cx="550" cy="160" r="28"/>
+  </g>
+</svg>

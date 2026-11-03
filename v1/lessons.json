@@ -1,0 +1,635 @@
+{
+  "schemaVersion": 1,
+  "lessons": [
+    {
+      "id": "les_nail_structure",
+      "rev": 1,
+      "status": "active",
+      "domain": "anatomy_disorders",
+      "topicGroup": "structure",
+      "order": 20,
+      "isFree": true,
+      "title": {
+        "en": "The parts of the nail",
+        "vi": "Các bộ phận của móng"
+      },
+      "body": {
+        "en": "The nail unit is more than the hard nail you polish. Knowing each part helps you work safely and spot problems early.\n\nThe **nail plate** is the hard, visible nail. It is made of hardened cells filled with **keratin**, a tough protein, and it has no nerves or blood vessels. The part that grows past the fingertip is the **free edge**.\n\nThe nail plate is made by the **matrix**, the growing area at the base of the nail. The matrix sits under the **proximal nail fold**, a fold of skin that protects it. The pale half-moon you can see at the base of some nails, the **lunula**, is the visible part of the matrix.\n\nUnder the nail plate is the **nail bed**. It is living skin with many blood vessels and nerve endings, which is why a healthy nail looks pink.\n\nThe skin around the nail has its own names:\n- The **eponychium** is the living skin at the base of the nail plate.\n- The **cuticle** is the thin, dead tissue stuck to the nail plate.\n- The **hyponychium** is the living skin under the free edge. It seals out germs.\n- The **lateral nail folds** hold the sides of the nail plate.\n\nThe whole nail unit rests on the **distal phalanx**, the last bone of the finger or toe.",
+        "vi": "Móng không chỉ là phần móng cứng mà bạn sơn. Hiểu rõ từng bộ phận giúp bạn làm việc an toàn và phát hiện vấn đề sớm.\n\n**Nail plate** (tấm móng) là phần móng cứng nhìn thấy được. Nó được tạo từ các tế bào đã sừng hóa chứa **keratin** (chất sừng), một loại protein bền chắc, và không có dây thần kinh hay mạch máu. Phần mọc dài ra khỏi đầu ngón là **free edge** (đầu móng tự do).\n\nTấm móng do **matrix** (mầm móng) tạo ra, đây là vùng phát triển ở gốc móng. Matrix nằm dưới **proximal nail fold** (nếp da gốc móng), nếp da có nhiệm vụ bảo vệ nó. Hình bán nguyệt màu nhạt thấy ở gốc một số móng là **lunula** (vầng trăng móng), tức là phần matrix nhìn thấy được.\n\nDưới tấm móng là **nail bed** (giường móng). Đây là da sống có nhiều mạch máu và đầu dây thần kinh, nên móng khỏe trông có màu hồng.\n\nPhần da quanh móng cũng có tên riêng:\n- **Eponychium** là da sống ở gốc tấm móng.\n- **Cuticle** là lớp mô chết mỏng bám trên tấm móng.\n- **Hyponychium** là da sống dưới đầu móng tự do, giúp ngăn vi trùng.\n- **Lateral nail fold** là nếp da hai bên giữ cạnh tấm móng.\n\nToàn bộ cấu trúc móng nằm trên **distal phalanx**, đốt xương cuối của ngón tay hoặc ngón chân."
+      },
+      "keyPoints": {
+        "en": [
+          "The matrix makes the nail plate; the lunula is the part of the matrix you can see.",
+          "The nail plate is hardened keratin with no nerves or blood vessels.",
+          "The nail bed is living skin with blood vessels, which gives the nail its pink color.",
+          "The eponychium is living skin; the cuticle is dead tissue on the nail plate.",
+          "The hyponychium under the free edge seals out germs."
+        ],
+        "vi": [
+          "Matrix (mầm móng) tạo ra tấm móng; lunula là phần matrix nhìn thấy được.",
+          "Tấm móng là keratin đã sừng hóa, không có dây thần kinh hay mạch máu.",
+          "Giường móng (nail bed) là da sống có mạch máu, làm móng có màu hồng.",
+          "Eponychium là da sống; cuticle là mô chết bám trên tấm móng.",
+          "Hyponychium dưới đầu móng tự do giúp ngăn vi trùng."
+        ]
+      },
+      "commonMistake": {
+        "en": "Mixing up the cuticle and the eponychium. The cuticle is dead tissue on the nail plate and can be gently removed from the plate. The eponychium is living skin and must never be cut.",
+        "vi": "Nhầm lẫn giữa cuticle và eponychium. Cuticle là mô chết bám trên tấm móng và có thể nhẹ nhàng lấy ra khỏi tấm móng. Eponychium là da sống, tuyệt đối không được cắt."
+      },
+      "examTip": {
+        "en": "If a question asks which part produces the nail, the answer is the matrix. If it asks which part is visible as a half-moon, the answer is the lunula.",
+        "vi": "Nếu câu hỏi hỏi bộ phận nào tạo ra móng, đáp án là matrix. Nếu hỏi phần nào nhìn thấy như hình bán nguyệt, đáp án là lunula."
+      },
+      "glossaryTermIds": [
+        "term_matrix",
+        "term_lunula",
+        "term_nail_plate",
+        "term_nail_bed",
+        "term_free_edge",
+        "term_eponychium",
+        "term_cuticle",
+        "term_hyponychium",
+        "term_lateral_nail_fold",
+        "term_proximal_nail_fold",
+        "term_distal_phalanx",
+        "term_keratin"
+      ],
+      "image": null,
+      "diagram": {
+        "asset": "diagrams/nail_section.svg"
+      },
+      "sourceRefs": [
+        "NIC National Nail Technology Theory CIB (eff. 1 Jul 2020) content outline: Anatomy and Physiology",
+        "LibreTexts Human Anatomy Laboratory Manual 6.04: Anatomy of the Nails",
+        "NailKnowledge.org: Anatomy and physiology of the nail unit (v13)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_monomer_polymer",
+      "rev": 1,
+      "status": "active",
+      "domain": "chemistry",
+      "topicGroup": "products",
+      "order": 30,
+      "isFree": true,
+      "title": {
+        "en": "Monomers, polymers and how enhancements harden",
+        "vi": "Monomer, polymer và cách móng nhân tạo đông cứng"
+      },
+      "body": {
+        "en": "Almost every nail enhancement hardens by the same reaction, called **polymerization**. Small molecules called **monomers** join together into long chains called **polymers**.\n\nIn a liquid-and-powder (acrylic) system, the liquid is mainly monomer and the powder is mainly polymer. The powder also carries an **initiator**, usually benzoyl peroxide. When the wet brush picks up a bead, the initiator starts the reaction and the bead slowly hardens on the nail.\n\nThe liquid contains a tiny amount of an **inhibitor**, such as hydroquinone or MEHQ. It keeps the monomer from reacting by itself while it sits in the bottle.\n\nLight-cured gel works a little differently:\n- There is no separate liquid and powder.\n- The gel contains **photoinitiators** that start polymerization under UV or LED light.\n\nMethacrylate products do not naturally stick well to the keratin of the nail plate, so a **primer** is often used to help them bond.\n\nUncured monomer and uncured gel are reactive. Repeated skin contact can cause **sensitization**, an allergy that returns every time the person is exposed. Keep product off the skin, close bottles after use, and work with good ventilation.",
+        "vi": "Hầu hết móng nhân tạo đều đông cứng nhờ cùng một phản ứng, gọi là **phản ứng trùng hợp (polymerization)**. Các phân tử nhỏ gọi là **monomer** nối lại với nhau thành chuỗi dài gọi là **polymer**.\n\nTrong hệ móng bột (acrylic, gồm nước và bột), phần nước chủ yếu là monomer, còn phần bột chủ yếu là polymer. Trong bột còn có **chất khơi mào (initiator)**, thường là benzoyl peroxide. Khi cọ ướt lấy một viên bột, chất khơi mào bắt đầu phản ứng và viên bột từ từ cứng lại trên móng.\n\nTrong nước có một lượng rất nhỏ **chất ức chế (inhibitor)**, như hydroquinone hoặc MEHQ. Chất này giữ cho monomer không tự phản ứng khi còn nằm trong chai.\n\nGel hơ đèn hoạt động hơi khác:\n- Không có nước và bột riêng.\n- Gel chứa **chất quang khơi mào (photoinitiator)**, bắt đầu phản ứng trùng hợp dưới ánh sáng đèn UV hoặc LED.\n\nSản phẩm methacrylate tự nó không bám tốt vào keratin của mặt móng, nên thường cần dùng **primer** để giúp bám.\n\nMonomer và gel chưa đông cứng có tính phản ứng. Để dính da nhiều lần có thể gây **mẫn cảm (sensitization)**, tức là dị ứng sẽ tái phát mỗi lần tiếp xúc. Không để sản phẩm dính da, đậy kín chai sau khi dùng, và làm việc nơi thông gió tốt."
+      },
+      "keyPoints": {
+        "en": [
+          "Polymerization joins small monomers into long polymer chains.",
+          "Acrylic liquid is mainly monomer; acrylic powder is mainly polymer plus an initiator.",
+          "Inhibitors keep the liquid from hardening in the bottle.",
+          "Gel hardens when photoinitiators react to UV or LED light.",
+          "Keep uncured product off the skin to avoid sensitization."
+        ],
+        "vi": [
+          "Phản ứng trùng hợp nối các monomer nhỏ thành chuỗi polymer dài.",
+          "Nước acrylic chủ yếu là monomer; bột acrylic chủ yếu là polymer cộng với chất khơi mào.",
+          "Chất ức chế giữ cho nước không bị cứng trong chai.",
+          "Gel cứng lại khi chất quang khơi mào phản ứng với ánh sáng đèn UV hoặc LED.",
+          "Không để sản phẩm chưa đông cứng dính da để tránh mẫn cảm."
+        ]
+      },
+      "commonMistake": {
+        "en": "Mixing up the roles: the initiator in the powder starts the reaction, while the inhibitor in the liquid stops it from starting too early. The primer helps the product stick; it does not start the reaction.",
+        "vi": "Nhầm lẫn vai trò: chất khơi mào trong bột bắt đầu phản ứng, còn chất ức chế trong nước ngăn phản ứng xảy ra quá sớm. Primer giúp sản phẩm bám; primer không bắt đầu phản ứng."
+      },
+      "examTip": {
+        "en": "Remember: liquid equals monomer, powder equals polymer, and polymerization is the reaction that joins them.",
+        "vi": "Ghi nhớ: nước là monomer, bột là polymer, và phản ứng trùng hợp (polymerization) là phản ứng nối chúng lại."
+      },
+      "glossaryTermIds": [
+        "term_monomer",
+        "term_polymer",
+        "term_polymerization",
+        "term_initiator",
+        "term_inhibitor",
+        "term_sensitization"
+      ],
+      "image": null,
+      "diagram": null,
+      "sourceRefs": [
+        "IUPAC Compendium of Chemical Terminology (Gold Book): monomer, polymer, polymerization",
+        "SCCNFP/0486/01 (European Commission, 2002): benzoyl peroxide, hydroquinone and MEHQ in artificial nail systems, §2.2 and §2.11",
+        "SCCS/1528/14 (European Commission, 2014): Opinion on trimethylbenzoyl diphenylphosphine oxide (TPO), a photoinitiator in nail modelling products",
+        "FDA: Nail care products (cosmetics), artificial nails",
+        "California Board of Barbering and Cosmetology: Licensee Fact Sheet 5, Artificial Nails (rev. 03/2024)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_client_consultation",
+      "rev": 1,
+      "status": "active",
+      "domain": "consultation_analysis",
+      "topicGroup": "consultation",
+      "order": 40,
+      "isFree": true,
+      "title": {
+        "en": "The client consultation",
+        "vi": "Tư vấn khách hàng"
+      },
+      "body": {
+        "en": "A **client consultation** happens before every service, even for regular clients. Health, nails and wishes can change between visits.\n\nStart with the **intake form**. It lists contact details, health conditions, medicines, allergies and the services the client wants. If a section is blank, ask the questions in person and write down her answers.\n\nNext, do a **nail analysis**. Remove polish and look at the nails and skin in good light. Then decide:\n\n- **Go ahead** when nails and skin look healthy.\n- **Change the service** when a condition calls for it, for example working extra gently with a client who takes a blood thinner or has diabetes.\n- **Do not service the area** when you see open skin, swelling with pus, or thick, crumbling, discoloured nails. Explain your concern in general terms and refer the client to a physician.\n\nListen, then repeat the request back so the client can correct you. Agree on a length and shape that suit her work and daily life, and be honest about what the service can do.\n\nAfter the service, update the **client service record**: the date, services, products, results and any reactions. Keep records private.\n\nA nail technician never diagnoses or treats a medical condition.",
+        "vi": "**Tư vấn khách hàng** (client consultation) được thực hiện trước mỗi dịch vụ, kể cả với khách quen. Sức khỏe, tình trạng móng và mong muốn của khách có thể thay đổi giữa các lần làm.\n\nBắt đầu với **phiếu thông tin khách hàng** (intake form). Phiếu ghi thông tin liên lạc, bệnh lý, thuốc đang dùng, dị ứng và dịch vụ khách muốn. Nếu khách bỏ trống phần nào, hãy hỏi trực tiếp và ghi lại câu trả lời.\n\nTiếp theo là **phân tích móng** (nail analysis). Tẩy sơn và quan sát móng, da dưới ánh sáng tốt. Sau đó quyết định:\n\n- **Làm bình thường** khi móng và da khỏe.\n- **Điều chỉnh dịch vụ** khi cần, ví dụ làm thật nhẹ tay với khách dùng thuốc loãng máu hoặc bị tiểu đường.\n- **Không làm trên vùng đó** khi thấy da hở, sưng có mủ, hoặc móng dày, mủn, đổi màu. Giải thích chung chung điều mình lo ngại và giới thiệu khách đến bác sĩ.\n\nLắng nghe, rồi nhắc lại yêu cầu để khách xác nhận. Cùng thống nhất độ dài, dáng móng hợp với công việc và sinh hoạt của khách, và nói thật dịch vụ làm được gì.\n\nSau khi làm xong, cập nhật **hồ sơ dịch vụ của khách** (service record): ngày làm, dịch vụ, sản phẩm, kết quả và phản ứng nếu có. Giữ kín hồ sơ.\n\nThợ nail không bao giờ chẩn đoán hay điều trị bệnh."
+      },
+      "keyPoints": {
+        "en": [
+          "Consult before every service, including for returning clients.",
+          "Remove polish and analyse nails and skin in good light.",
+          "Signs of infection or open skin: do not service the area; refer the client to a physician.",
+          "Update the service record after every visit and keep it private."
+        ],
+        "vi": [
+          "Tư vấn trước mỗi dịch vụ, kể cả với khách quen.",
+          "Tẩy sơn và phân tích móng, da dưới ánh sáng tốt.",
+          "Có dấu hiệu nhiễm trùng hoặc da hở: không làm trên vùng đó, giới thiệu khách đến bác sĩ.",
+          "Cập nhật hồ sơ dịch vụ sau mỗi lần làm và giữ kín."
+        ]
+      },
+      "commonMistake": {
+        "en": "Skipping the consultation for a regular client because her record is on file. A record supports the consultation; it never replaces it.",
+        "vi": "Bỏ qua bước tư vấn với khách quen vì đã có hồ sơ. Hồ sơ chỉ hỗ trợ buổi tư vấn, không bao giờ thay thế nó."
+      },
+      "examTip": {
+        "en": "If an answer has the technician naming a disease or recommending medicine, it is wrong. Look for the answer that refers the client to a physician.",
+        "vi": "Đáp án nào cho thợ nail nói tên bệnh hay khuyên dùng thuốc là sai. Hãy chọn đáp án giới thiệu khách đến bác sĩ."
+      },
+      "glossaryTermIds": [
+        "term_client_consultation",
+        "term_intake_form",
+        "term_nail_analysis",
+        "term_service_record",
+        "term_contraindication",
+        "term_physician_referral"
+      ],
+      "image": null,
+      "diagram": null,
+      "sourceRefs": [
+        "NIC Nail Technology Theory content outline: Client Consultation",
+        "PSI California manicurist outline: Client Consultation and Nail Analysis",
+        "CDC: Diabetes and your feet",
+        "MedlinePlus: Paronychia"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_liquid_powder_basics",
+      "rev": 1,
+      "status": "active",
+      "domain": "enhancements",
+      "topicGroup": "acrylic",
+      "order": 80,
+      "isFree": true,
+      "title": {
+        "en": "Liquid and powder basics",
+        "vi": "Cơ bản về bột và nước (acrylic)"
+      },
+      "body": {
+        "en": "Liquid and powder enhancements, often called acrylic nails, are made by mixing a liquid **monomer** with a powder **polymer**. The monomer units join into long chains and the product hardens on the nail.\n\nMost nail liquids today use ethyl methacrylate, or EMA. Methyl methacrylate, or **MMA**, was linked to nail damage and skin reactions, and many states, including Texas, ban MMA liquid monomer.\n\nThe **mix ratio** is the amount of liquid compared with powder in each bead.\n\n- A bead that is too wet is weaker and more likely to irritate the skin.\n- A bead that is too dry looks grainy and may not stick well.\n\nAn acid primer helps the product stick to the natural nail. Use a small amount on the nail plate only, because it can burn the skin.\n\nBuild the **apex**, the highest point, over the stress area, where the nail bends most. Keep the product thin at the cuticle area and sidewalls, and never let it touch the skin.\n\nProtect yourself while you work. Use a ventilated table that exhausts air outdoors, keep bottles closed, and pour out only the liquid you need. A surgical mask does not block vapors.",
+        "vi": "Móng bột và nước, thường gọi là móng bột (acrylic), được làm bằng cách trộn nước **monomer** với bột **polymer**. Các phân tử monomer nối lại thành chuỗi dài và sản phẩm cứng lại trên móng.\n\nHầu hết nước đắp móng hiện nay dùng ethyl methacrylate, gọi tắt là EMA. Methyl methacrylate, gọi tắt là **MMA**, từng gây hư móng và phản ứng da, và nhiều tiểu bang, trong đó có Texas, cấm nước monomer MMA.\n\n**Tỷ lệ nước và bột (mix ratio)** là lượng nước so với lượng bột trong mỗi viên bột.\n\n- Viên bột quá ướt làm móng yếu và dễ gây kích ứng da.\n- Viên bột quá khô bị sần và có thể bám không chắc.\n\nPrimer gốc acid giúp bột bám vào móng thật. Chỉ quét một ít lên mặt móng, vì primer có thể gây bỏng da.\n\nĐắp **apex** (điểm cao nhất) ngay trên vùng chịu lực, nơi móng bị uốn nhiều nhất. Giữ lớp bột mỏng ở vùng gốc móng và hai thành móng, và không bao giờ để bột dính da.\n\nHãy tự bảo vệ khi làm việc. Dùng bàn có hút gió thải ra ngoài trời, đậy kín chai và chỉ rót lượng nước vừa đủ. Khẩu trang y tế không chặn được hơi hóa chất."
+      },
+      "keyPoints": {
+        "en": [
+          "Liquid is the monomer; powder is the polymer.",
+          "MMA liquid monomer is banned in many states; EMA is the common monomer.",
+          "Keep the mix ratio balanced: not too wet, not too dry.",
+          "Build the apex over the stress area and keep product off the skin.",
+          "Use local exhaust ventilation and keep containers closed."
+        ],
+        "vi": [
+          "Nước là monomer; bột là polymer.",
+          "Nước monomer MMA bị cấm ở nhiều tiểu bang; EMA là monomer thường dùng.",
+          "Giữ tỷ lệ nước và bột cân bằng: không quá ướt, không quá khô.",
+          "Đắp apex trên vùng chịu lực và không để sản phẩm dính da.",
+          "Dùng hút gió tại chỗ và đậy kín chai lọ."
+        ]
+      },
+      "commonMistake": {
+        "en": "Using a very wet bead to make the product easier to spread. Extra liquid weakens the nail and raises the chance of an allergic skin reaction.",
+        "vi": "Lấy viên bột thật ướt cho dễ dàn. Dư nước làm móng yếu và tăng nguy cơ dị ứng da."
+      },
+      "examTip": {
+        "en": "Remember: liquid is the monomer, powder is the polymer, and the apex goes over the stress area.",
+        "vi": "Nhớ: nước là monomer, bột là polymer, và apex nằm trên vùng chịu lực."
+      },
+      "glossaryTermIds": [
+        "term_mix_ratio",
+        "term_acrylic_bead",
+        "term_apex",
+        "term_stress_area"
+      ],
+      "image": null,
+      "diagram": null,
+      "sourceRefs": [
+        "FDA: Nail care products (artificial nails, methyl methacrylate, nail primers)",
+        "NIOSH: Controlling chemical hazards during the application of artificial fingernails (DHHS 99-112)",
+        "OSHA: Health Hazards in Nail Salons, chemical hazards and ventilation",
+        "16 TAC §83.112(a) (TX prohibited products), checked 2026-11-02",
+        "NIC Nail Technology Theory content outline: Nail Enhancements (liquid and powder)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_disinfection",
+      "rev": 1,
+      "status": "active",
+      "domain": "infection_control_safety",
+      "topicGroup": "disinfection",
+      "order": 10,
+      "isFree": true,
+      "title": {
+        "en": "Cleaning, disinfecting and sterilizing",
+        "vi": "Làm sạch, khử trùng và tiệt trùng"
+      },
+      "body": {
+        "en": "Infection control in the salon uses three different levels. Knowing which one does what is one of the most tested ideas on every nail exam.\n\n**Cleaning** removes visible dirt, dust and product with soap or detergent and water. It does not reliably kill germs, but it always comes first. Debris left on a tool can shield germs from the disinfectant.\n\n**Disinfection** uses a chemical to destroy most disease-causing microorganisms on implements and hard surfaces. It does not necessarily kill bacterial spores. Disinfectants are made for tools and surfaces, never for skin. Products for skin are called antiseptics.\n\n**Sterilization** destroys all microbial life, including spores. In a salon this usually means a steam autoclave, which uses steam under pressure.\n\nWhen you disinfect, follow the label of an EPA-registered disinfectant:\n- Clean the implement first, then rinse and dry it.\n- Mix the product exactly as the label says. Stronger is not better.\n- Fully immerse implements, or keep surfaces visibly wet, for the whole contact time on the label.\n- Store disinfected tools in a clean, covered place, away from used ones.\n\nItems that are porous, such as emery boards, pumice stones and foam toe separators, cannot be disinfected. Throw them away after one client.",
+        "vi": "Kiểm soát nhiễm khuẩn trong tiệm có ba mức độ khác nhau. Hiểu rõ mỗi mức làm được gì là một trong những ý được hỏi nhiều nhất trong mọi bài thi nail.\n\n**Làm sạch (cleaning)** loại bỏ bụi bẩn, bụi móng và sản phẩm nhìn thấy được bằng xà phòng hoặc chất tẩy rửa với nước. Bước này không chắc diệt được vi trùng, nhưng luôn phải làm trước. Mảnh vụn còn dính trên dụng cụ có thể che chắn vi trùng khỏi thuốc khử trùng.\n\n**Khử trùng (disinfection)** dùng hóa chất để diệt hầu hết vi sinh vật gây bệnh trên dụng cụ và bề mặt cứng. Khử trùng không chắc diệt được bào tử vi khuẩn. Thuốc khử trùng chỉ dùng cho dụng cụ và bề mặt, không bao giờ dùng trên da. Sản phẩm dùng cho da gọi là thuốc sát trùng da (antiseptic).\n\n**Tiệt trùng (sterilization)** diệt toàn bộ vi sinh vật, kể cả bào tử. Trong tiệm, việc này thường dùng nồi hấp (autoclave), hoạt động bằng hơi nước dưới áp suất.\n\nKhi khử trùng, hãy làm theo nhãn của thuốc khử trùng đăng ký EPA:\n- Làm sạch dụng cụ trước, rồi xả nước và lau khô.\n- Pha đúng tỷ lệ ghi trên nhãn. Pha đậm hơn không tốt hơn.\n- Ngâm ngập hoàn toàn dụng cụ, hoặc giữ bề mặt luôn ướt, trong suốt thời gian tiếp xúc (contact time) ghi trên nhãn.\n- Cất dụng cụ đã khử trùng ở nơi sạch, có nắp đậy, tách riêng với đồ đã dùng.\n\nĐồ xốp như dũa giấy (emery board), đá chà gót (pumice stone) và miếng tách ngón chân bằng xốp không thể khử trùng. Hãy bỏ đi sau mỗi khách."
+      },
+      "keyPoints": {
+        "en": [
+          "Clean first, then disinfect or sterilize.",
+          "Disinfection kills most pathogens but not necessarily spores; sterilization kills all microbial life.",
+          "Follow the EPA-registered label: correct dilution and full contact time.",
+          "Disinfectants are for implements and surfaces; antiseptics are for skin.",
+          "Porous, single-use items are thrown away after one client."
+        ],
+        "vi": [
+          "Làm sạch trước, rồi mới khử trùng hoặc tiệt trùng.",
+          "Khử trùng diệt hầu hết mầm bệnh nhưng không chắc diệt bào tử; tiệt trùng diệt toàn bộ vi sinh vật.",
+          "Làm theo nhãn thuốc đăng ký EPA: pha đúng tỷ lệ và đủ thời gian tiếp xúc.",
+          "Thuốc khử trùng dùng cho dụng cụ và bề mặt; thuốc sát trùng da (antiseptic) dùng cho da.",
+          "Đồ xốp, dùng một lần phải bỏ đi sau mỗi khách."
+        ]
+      },
+      "commonMistake": {
+        "en": "Spraying an implement and wiping it dry right away. The disinfectant has not had its full contact time, so the tool is not disinfected.",
+        "vi": "Xịt thuốc lên dụng cụ rồi lau khô ngay. Thuốc khử trùng chưa đủ thời gian tiếp xúc, nên dụng cụ chưa được khử trùng."
+      },
+      "examTip": {
+        "en": "If a question mentions spores, the answer is sterilization. If it mentions skin, the answer is antiseptic.",
+        "vi": "Nếu câu hỏi nhắc đến bào tử (spores), đáp án là tiệt trùng. Nếu nhắc đến da, đáp án là thuốc sát trùng da (antiseptic)."
+      },
+      "glossaryTermIds": [
+        "term_cleaning",
+        "term_disinfection",
+        "term_sterilization",
+        "term_antiseptic",
+        "term_epa_registration_number",
+        "term_contact_time",
+        "term_autoclave"
+      ],
+      "image": null,
+      "diagram": null,
+      "sourceRefs": [
+        "CDC Guideline for Disinfection and Sterilization in Healthcare Facilities (2008), Glossary and Executive Summary",
+        "EPA: Selected EPA-registered disinfectants, reading the label",
+        "FIFRA §12(a)(2)(G), 7 U.S.C. 136j",
+        "16 CCR §979 and §981 (California), checked 2026-11-02",
+        "16 TAC §83.102 (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_foot_spa_cleaning",
+      "rev": 1,
+      "status": "active",
+      "domain": "manicure_pedicure",
+      "topicGroup": "foot_spa",
+      "order": 70,
+      "isFree": true,
+      "title": {
+        "en": "Cleaning foot spas and basins",
+        "vi": "Vệ sinh bồn ngâm chân"
+      },
+      "body": {
+        "en": "A foot spa holds warm water, skin and debris, which is exactly where bacteria grow. That is why state rules spell out how and when every basin is cleaned, and why each cleaning is written in a log.\n\nThe basic idea is always the same: **clean first, then disinfect**. Disinfectant cannot work through debris, so the basin is drained, the walls are scrubbed with a brush, soap and water, and removable parts such as the screen or footplate are taken out and scrubbed.\n\n**California** sets three levels:\n- After each client: scrub, rinse, then circulate an EPA-registered hospital disinfectant for at least ten minutes.\n- End of day: also circulate detergent for at least ten minutes before the disinfectant, and let the basin dry completely.\n- Weekly: leave the disinfectant standing in the switched-off unit for at least six hours.\n\n**Texas** also cleans and disinfects after each client and at the end of each day. Every other week, the basin is filled with disinfecting solution, flushed, and left to stand for six to ten hours. Texas records are kept for at least sixty days.\n\nDisposable liners are used once and thrown away. They are never disinfected or reused, and the basin is still cleaned afterwards.",
+        "vi": "Bồn ngâm chân chứa nước ấm, da chết và cặn bẩn, đúng là nơi vi khuẩn dễ phát triển. Vì vậy quy định tiểu bang ghi rõ cách và thời điểm vệ sinh từng bồn, và mỗi lần vệ sinh đều phải ghi vào sổ (cleaning log).\n\nNguyên tắc luôn giống nhau: **làm sạch trước, rồi mới khử trùng**. Dung dịch khử trùng không tác dụng xuyên qua cặn bẩn, nên phải xả nước, chà thành bồn bằng bàn chải, xà phòng và nước, và tháo các bộ phận như lưới lọc (screen) hoặc tấm để chân (footplate) ra chà rửa.\n\n**California** có ba mức:\n- Sau mỗi khách: chà, xả, rồi chạy dung dịch khử trùng bệnh viện đăng ký EPA ít nhất mười phút.\n- Cuối ngày: chạy thêm nước xà phòng (detergent) ít nhất mười phút trước khi khử trùng, và để bồn khô hoàn toàn.\n- Hàng tuần: để dung dịch khử trùng nằm yên trong bồn đã tắt máy ít nhất sáu tiếng.\n\n**Texas** cũng làm sạch và khử trùng sau mỗi khách và cuối mỗi ngày. Hai tuần một lần, đổ đầy dung dịch khử trùng, chạy tuần hoàn, rồi để yên sáu đến mười tiếng. Hồ sơ ở Texas phải lưu ít nhất sáu mươi ngày.\n\nTúi lót dùng một lần (liner) chỉ dùng một lần rồi bỏ. Không bao giờ khử trùng hay dùng lại, và bồn vẫn phải được vệ sinh sau đó."
+      },
+      "keyPoints": {
+        "en": [
+          "Always clean first, then disinfect: debris blocks the disinfectant.",
+          "Take out and scrub the screen, footplate and other removable parts.",
+          "California: at least ten minutes of disinfectant after each client, and a six-hour soak every week.",
+          "Texas: a six- to ten-hour soak every other week, and records kept at least sixty days.",
+          "Log every cleaning and show the log to a client or inspector on request."
+        ],
+        "vi": [
+          "Luôn làm sạch trước rồi mới khử trùng: cặn bẩn cản dung dịch khử trùng.",
+          "Tháo và chà rửa lưới lọc, tấm để chân và các bộ phận tháo rời được.",
+          "California: chạy dung dịch khử trùng ít nhất mười phút sau mỗi khách, và ngâm sáu tiếng mỗi tuần.",
+          "Texas: ngâm sáu đến mười tiếng hai tuần một lần, và lưu hồ sơ ít nhất sáu mươi ngày.",
+          "Ghi sổ mỗi lần vệ sinh và cho khách hoặc thanh tra xem khi được yêu cầu."
+        ]
+      },
+      "commonMistake": {
+        "en": "Pouring disinfectant into a basin that still has debris behind the screen. The disinfectant cannot reach what is under the debris, so scrub the parts first.",
+        "vi": "Đổ dung dịch khử trùng vào bồn khi phía sau lưới lọc vẫn còn cặn bẩn. Dung dịch không thể tới được chỗ bị cặn che, nên phải chà rửa các bộ phận trước."
+      },
+      "examTip": {
+        "en": "Know your own state's schedule: California's long soak is weekly, Texas's is every other week.",
+        "vi": "Hãy nhớ lịch của tiểu bang mình: California ngâm lâu hàng tuần, Texas thì hai tuần một lần."
+      },
+      "glossaryTermIds": [
+        "term_whirlpool_foot_spa",
+        "term_pipeless_foot_spa",
+        "term_foot_spa_liner",
+        "term_pedicure_cleaning_log"
+      ],
+      "image": null,
+      "diagram": null,
+      "sourceRefs": [
+        "16 CCR §980.1, §980.3, §980.4 (California), checked 2026-11-02",
+        "16 TAC §83.108 (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_service_setup_cleanup",
+      "rev": 1,
+      "status": "active",
+      "domain": "service_prep_post",
+      "topicGroup": "prep",
+      "order": 60,
+      "isFree": true,
+      "title": {
+        "en": "Before and after every service",
+        "vi": "Trước và sau mỗi dịch vụ"
+      },
+      "body": {
+        "en": "Every service starts and ends the same way. The routine protects the client, protects you, and is what the exam expects.\n\n**Before the service**, clean your hands immediately before each client. With soap and running water, lather the backs of the hands, between the fingers and under the nails, scrub for at least 20 seconds, rinse, and dry with a clean towel or air dryer.\n\nThen set up the station:\n- A work surface disinfected before the client sits down\n- A clean towel for this client only\n- Implements that were cleaned, disinfected and kept in clean storage\n- New single-use items such as files and buffers\n\n**After the service**, finish the paperwork and the cleanup before the next client:\n- Throw away single-use items used on this client\n- Put used implements in the soiled container, then clean and disinfect them before they are used again\n- Remove the used towel and disinfect the work surface\n- Wash your hands after taking off gloves\n\nFinally, update the client record with what you did and what you noticed, suggest suitable home care, and offer to book the next visit before the client leaves. If you notice a possible nail or skin condition, write down what you saw and refer the client to a physician.",
+        "vi": "Mỗi dịch vụ đều bắt đầu và kết thúc theo cùng một cách. Thói quen này bảo vệ khách, bảo vệ bạn, và là điều bài thi muốn bạn biết.\n\n**Trước dịch vụ**, làm sạch tay ngay trước mỗi khách. Với xà phòng và nước chảy, xoa xà phòng lên mu bàn tay, kẽ ngón và dưới móng, chà ít nhất 20 giây, xả sạch và lau khô bằng khăn sạch hoặc máy sấy tay.\n\nSau đó chuẩn bị bàn:\n- Mặt bàn được khử trùng trước khi khách ngồi xuống\n- Khăn sạch chỉ dùng cho khách này\n- Dụng cụ đã làm sạch, khử trùng và cất ở chỗ sạch\n- Đồ dùng một lần (single-use) còn mới như dũa và cục chà (buffer)\n\n**Sau dịch vụ**, làm xong giấy tờ và dọn dẹp trước khi nhận khách kế:\n- Bỏ các đồ dùng một lần đã dùng cho khách này\n- Bỏ dụng cụ đã dùng vào hộp đồ dơ (soiled container), rồi làm sạch và khử trùng trước khi dùng lại\n- Dọn khăn đã dùng và khử trùng mặt bàn\n- Rửa tay sau khi tháo găng tay\n\nCuối cùng, ghi vào hồ sơ khách (client record) những gì bạn đã làm và đã thấy, hướng dẫn chăm sóc tại nhà phù hợp, và mời khách đặt hẹn lần sau trước khi về. Nếu thấy dấu hiệu bất thường ở móng hay da, ghi lại điều bạn thấy và khuyên khách đi gặp bác sĩ."
+      },
+      "keyPoints": {
+        "en": [
+          "Clean your hands immediately before each client and after removing gloves.",
+          "Scrub with soap for at least 20 seconds, including the backs of the hands, between the fingers and under the nails.",
+          "Set out only disinfected implements and new single-use items, on a disinfected surface with a clean towel.",
+          "After the service, discard single-use items and clean and disinfect multi-use implements before reuse.",
+          "Record the service, suggest home care and rebook before the client leaves."
+        ],
+        "vi": [
+          "Làm sạch tay ngay trước mỗi khách và sau khi tháo găng tay.",
+          "Chà tay với xà phòng ít nhất 20 giây, kể cả mu bàn tay, kẽ ngón và dưới móng.",
+          "Chỉ bày dụng cụ đã khử trùng và đồ dùng một lần còn mới, trên mặt bàn đã khử trùng với khăn sạch.",
+          "Sau dịch vụ, bỏ đồ dùng một lần; làm sạch và khử trùng dụng cụ dùng nhiều lần trước khi dùng lại.",
+          "Ghi hồ sơ, hướng dẫn chăm sóc tại nhà và hẹn lịch lần sau trước khi khách về."
+        ]
+      },
+      "commonMistake": {
+        "en": "Washing a used metal pusher with soap and water and putting it straight back in the clean drawer. Washing only cleans it. It still has to be fully immersed in an EPA-registered disinfectant for the label's contact time before it is stored as disinfected.",
+        "vi": "Rửa cây sủi da (pusher) kim loại đã dùng bằng xà phòng rồi cất ngay vào ngăn đồ sạch. Rửa chỉ là làm sạch. Dụng cụ vẫn phải được ngâm ngập hoàn toàn trong dung dịch khử trùng đăng ký EPA đủ thời gian tiếp xúc (contact time) ghi trên nhãn rồi mới được cất như đồ đã khử trùng."
+      },
+      "examTip": {
+        "en": "If an item cannot be disinfected, it is single-use: it goes in the trash after one client.",
+        "vi": "Món nào không khử trùng được thì là đồ dùng một lần: dùng cho một khách rồi bỏ vào thùng rác."
+      },
+      "glossaryTermIds": [
+        "term_service_setup",
+        "term_hand_hygiene",
+        "term_disinfected_storage",
+        "term_soiled_container",
+        "term_post_service_cleanup",
+        "term_rebooking",
+        "term_home_care"
+      ],
+      "image": null,
+      "diagram": null,
+      "sourceRefs": [
+        "NIC Nail Technology Theory content outline: Service Preparation / Post-Service",
+        "CDC: Clean Hands – handwashing steps",
+        "OSHA Bloodborne Pathogens Standard, 29 CFR 1910.1030(d)(2)(v)",
+        "16 CCR §979–§981 (California), checked 2026-11-02",
+        "16 TAC §83.102 (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_skin_layers",
+      "rev": 1,
+      "status": "active",
+      "domain": "skin_care",
+      "topicGroup": "structure",
+      "order": 90,
+      "isFree": true,
+      "title": {
+        "en": "The layers of the skin",
+        "vi": "Các lớp của da"
+      },
+      "body": {
+        "en": "Skin has three main layers. Knowing them helps you understand why some services are safe and why bleeding means you went too deep.\n\n**Epidermis.** The outermost layer. It has no blood vessels. Its top layer, the **stratum corneum**, is made of flat, dead cells filled with keratin that shed all the time. This is the layer that exfoliation removes. Its deepest layer, the **stratum basale**, makes new skin cells and holds the melanocytes that produce **melanin**, the pigment that colours skin and helps protect it from ultraviolet light. Thick skin on the palms and soles has an extra clear layer, the stratum lucidum.\n\n**Dermis.** The thick layer under the epidermis. It holds:\n- blood vessels and nerves\n- sweat glands and oil (sebaceous) glands\n- hair follicles\n- collagen and elastin fibres that give strength and stretch\n\n**Subcutaneous layer.** The fatty layer under the dermis. It cushions the body, stores energy and helps keep in heat.\n\nThe skin protects the body, helps control temperature through sweat, senses touch and pain, and makes vitamin D with sunlight. Palms and soles have many sweat glands but no oil glands, which is one reason hands and feet dry out easily.",
+        "vi": "Da có ba lớp chính. Hiểu rõ các lớp này giúp bạn biết vì sao một số dịch vụ an toàn và vì sao chảy máu nghĩa là đã làm quá sâu.\n\n**Biểu bì (epidermis).** Lớp ngoài cùng, không có mạch máu. Lớp trên cùng của nó là **lớp sừng (stratum corneum)**, gồm các tế bào chết dẹt chứa keratin, bong ra liên tục. Đây là lớp được lấy đi khi tẩy tế bào chết. Lớp sâu nhất là **lớp đáy (stratum basale)**, nơi tạo tế bào da mới và có các melanocyte tạo ra **melanin**, sắc tố tạo màu da và giúp bảo vệ da khỏi tia cực tím. Da dày ở lòng bàn tay và lòng bàn chân có thêm một lớp trong suốt là stratum lucidum.\n\n**Chân bì (dermis).** Lớp da dày nằm dưới biểu bì. Lớp này chứa:\n- mạch máu và dây thần kinh\n- tuyến mồ hôi và tuyến dầu (sebaceous gland)\n- nang lông\n- sợi collagen và elastin giúp da chắc và đàn hồi\n\n**Lớp dưới da (subcutaneous layer).** Lớp mỡ dưới chân bì. Lớp này đệm che chở cơ thể, dự trữ năng lượng và giúp giữ nhiệt.\n\nDa bảo vệ cơ thể, giúp điều hòa thân nhiệt bằng mồ hôi, cảm nhận xúc giác và cơn đau, và tạo vitamin D nhờ ánh nắng. Lòng bàn tay và lòng bàn chân có nhiều tuyến mồ hôi nhưng không có tuyến dầu, nên da tay chân dễ bị khô."
+      },
+      "keyPoints": {
+        "en": [
+          "From the outside in: epidermis, dermis, subcutaneous layer.",
+          "The epidermis has no blood vessels; bleeding means the dermis was reached.",
+          "Exfoliation removes dead cells from the stratum corneum only.",
+          "Melanocytes in the stratum basale make melanin.",
+          "Palms and soles have many sweat glands but no oil glands."
+        ],
+        "vi": [
+          "Từ ngoài vào trong: biểu bì (epidermis), chân bì (dermis), lớp dưới da (subcutaneous layer).",
+          "Biểu bì không có mạch máu; chảy máu nghĩa là đã chạm tới chân bì.",
+          "Tẩy tế bào chết chỉ lấy đi tế bào chết ở lớp sừng (stratum corneum).",
+          "Melanocyte ở lớp đáy (stratum basale) tạo ra melanin.",
+          "Lòng bàn tay và lòng bàn chân có nhiều tuyến mồ hôi nhưng không có tuyến dầu."
+        ]
+      },
+      "commonMistake": {
+        "en": "Mixing up the stratum corneum and the stratum basale. Corneum is the dead top layer that sheds; basale is the living bottom layer where new cells and melanin are made.",
+        "vi": "Nhầm lẫn lớp sừng (stratum corneum) với lớp đáy (stratum basale). Lớp sừng là lớp chết ở trên cùng và bong ra; lớp đáy là lớp sống ở dưới cùng, nơi tạo tế bào mới và melanin."
+      },
+      "examTip": {
+        "en": "If a question mentions blood vessels, nerves or glands, the answer is usually the dermis, not the epidermis.",
+        "vi": "Nếu câu hỏi nhắc đến mạch máu, dây thần kinh hoặc tuyến, đáp án thường là chân bì (dermis), không phải biểu bì."
+      },
+      "glossaryTermIds": [
+        "term_epidermis",
+        "term_dermis",
+        "term_subcutaneous_layer",
+        "term_stratum_corneum",
+        "term_stratum_basale",
+        "term_melanin",
+        "term_sebaceous_gland",
+        "term_eccrine_gland"
+      ],
+      "image": null,
+      "diagram": null,
+      "sourceRefs": [
+        "NIH StatPearls: Anatomy, Skin (Integument)",
+        "NIH StatPearls: Anatomy, Skin (Integument), Epidermis",
+        "NIH StatPearls: Physiology, Sweat Gland",
+        "MedlinePlus: Skin layers",
+        "NIH Office of Dietary Supplements: Vitamin D fact sheet"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_implements_care",
+      "rev": 1,
+      "status": "active",
+      "domain": "tools_equipment",
+      "topicGroup": "implements",
+      "order": 50,
+      "isFree": false,
+      "title": {
+        "en": "Caring for implements",
+        "vi": "Chăm sóc dụng cụ cầm tay"
+      },
+      "body": {
+        "en": "Implements are the hand tools you use on every client, such as nippers, pushers, files and buffers. How you care for each one depends on what it is made of.\n\n**Nonporous** implements, like stainless steel nippers and pushers, have a hard, sealed surface. They can be cleaned and then disinfected or sterilized, so they are reused.\n\n**Porous** items, like orangewood sticks, foam buffers, emery boards and cotton, absorb liquid and trap debris. Most are single-use and go in the trash after one client.\n\nFor a reusable metal implement, follow this order:\n- Remove all visible debris and clean it with soap or detergent and water.\n- Dry it with a clean paper towel.\n- Fully immerse it in an EPA-registered disinfectant for the contact time on the label.\n- Remove it with gloves or tongs and store it in a clean, covered container.\n\nKeep used tools in a container labeled for soiled items, apart from clean ones. Change the disinfectant as the label directs, or sooner if it turns cloudy.\n\nState rules differ. California requires buffers, pumice stones and emery boards to be thrown away after one client. Texas lets some porous items be reused after they are cleaned and sprayed with disinfectant, unless they touched broken or unhealthy skin or nails. Texas also requires metal implements and e-file bits to be sterilized or sanitized after disinfection.",
+        "vi": "Dụng cụ cầm tay là những dụng cụ dùng cho mỗi khách, như kềm, cây đẩy da, dũa và cục buffer. Cách chăm sóc tùy vào chất liệu của từng món.\n\nDụng cụ **không xốp (nonporous)**, như kềm và cây đẩy da bằng thép không gỉ, có bề mặt cứng và kín. Có thể làm sạch rồi khử trùng hoặc tiệt trùng, nên được dùng lại.\n\nĐồ **xốp (porous)**, như cây gỗ cam, cục buffer bằng mút, dũa giấy và bông gòn, thấm nước và giữ cặn bẩn. Phần lớn là đồ dùng một lần, phải bỏ vào thùng rác sau một khách.\n\nVới dụng cụ kim loại dùng lại, làm theo thứ tự sau:\n- Làm sạch hết cặn bẩn nhìn thấy được, rửa bằng xà phòng hoặc chất tẩy rửa và nước.\n- Lau khô bằng khăn giấy sạch.\n- Ngâm ngập hoàn toàn trong dung dịch khử trùng đăng ký EPA đủ thời gian tiếp xúc ghi trên nhãn.\n- Lấy ra bằng găng tay hoặc kẹp gắp, cất trong hộp sạch có nắp đậy.\n\nĐể dụng cụ đã dùng trong hộp dán nhãn đồ dơ, riêng với đồ sạch. Thay dung dịch khử trùng theo hướng dẫn trên nhãn, hoặc sớm hơn nếu bị đục.\n\nQuy định mỗi tiểu bang khác nhau. California bắt buộc bỏ cục buffer, đá chà gót và dũa giấy sau một khách. Texas cho dùng lại một số đồ xốp sau khi làm sạch và xịt dung dịch khử trùng, trừ khi đã dùng trên da hoặc móng bị trầy hay không khỏe. Texas cũng yêu cầu dụng cụ kim loại và đầu mũi máy dũa phải được tiệt trùng hoặc vệ sinh (sanitize) sau khi khử trùng."
+      },
+      "keyPoints": {
+        "en": [
+          "Nonporous metal implements are cleaned, disinfected and reused.",
+          "Porous items such as wood, foam and cotton are usually single-use.",
+          "Always clean before you disinfect: debris blocks the disinfectant.",
+          "Disinfect by full immersion for the label's contact time.",
+          "Store clean tools covered and apart from used ones."
+        ],
+        "vi": [
+          "Dụng cụ kim loại không xốp được làm sạch, khử trùng và dùng lại.",
+          "Đồ xốp như gỗ, mút và bông gòn thường chỉ dùng một lần.",
+          "Luôn làm sạch trước khi khử trùng: cặn bẩn cản dung dịch khử trùng.",
+          "Khử trùng bằng cách ngâm ngập hoàn toàn đủ thời gian ghi trên nhãn.",
+          "Cất dụng cụ sạch có nắp đậy, để riêng với đồ đã dùng."
+        ]
+      },
+      "commonMistake": {
+        "en": "Dropping a nipper straight into the disinfectant without scrubbing it first. Skin and debris left on the jaws can protect germs, so the tool is not truly disinfected.",
+        "vi": "Bỏ kềm thẳng vào dung dịch khử trùng mà không chà rửa trước. Da và cặn bẩn còn dính trên lưỡi kềm có thể che chắn vi trùng, nên dụng cụ không thật sự được khử trùng."
+      },
+      "examTip": {
+        "en": "If an answer says to wipe a metal tool quickly instead of cleaning and fully immersing it, it is wrong.",
+        "vi": "Nếu đáp án bảo chỉ lau sơ dụng cụ kim loại thay vì làm sạch và ngâm ngập hoàn toàn, thì đó là đáp án sai."
+      },
+      "glossaryTermIds": [
+        "term_cuticle_nipper",
+        "term_cuticle_pusher",
+        "term_nonporous_tool",
+        "term_porous_tool",
+        "term_single_use_item",
+        "term_buffer_block"
+      ],
+      "image": null,
+      "diagram": null,
+      "sourceRefs": [
+        "NIC Nail Technology Theory content outline: Tools, Equipment and Supplies",
+        "CDC Guideline for Disinfection and Sterilization in Healthcare Facilities (2008)",
+        "16 CCR §979 and §981 (California), checked 2026-11-02",
+        "16 TAC §83.106 and §83.107 (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_texas_rules_overview",
+      "rev": 1,
+      "status": "active",
+      "domain": "tx_law",
+      "topicGroup": "licensing",
+      "order": 100,
+      "isFree": false,
+      "title": {
+        "en": "Texas licensing basics for manicurists",
+        "vi": "Kiến thức cơ bản về license cho thợ nail ở Texas"
+      },
+      "body": {
+        "en": "In Texas, nail services are regulated by **TDLR**, the Texas Department of Licensing and Regulation. The law is Occupations Code Chapter 1603 and the rules are in Chapter 83 of Title 16 of the Texas Administrative Code.\n\nA **manicurist license** covers treating nails, such as cutting, trimming, polishing, coloring, manicuring, pedicuring and attaching false nails, plus massaging, cleansing and beautifying the hands and feet. It does not cover facials, waxing or eyelash extensions.\n\nTo get a practitioner license, an applicant must be at least 17, finish the required hours at a licensed school, and pass a written and a practical exam.\n\nOnce licensed:\n- The license lasts **two years** and cannot be transferred to anyone else.\n- Display it near your work station, or keep it at the reception desk, with a current photo attached.\n- Work only in a **licensed facility**, meaning a licensed establishment or school. Narrow exceptions exist for a client who is ill or for a special event such as a wedding, and the appointment must be booked through a licensed facility.\n- Tell TDLR within 30 days if your name or address changes.\n- Before renewing, complete at least **4 hours** of approved continuing education, including 1 hour of sanitation and, for renewals on or after 1 September 2025, 1 hour of human trafficking prevention.\n\nThe salon itself also needs its own **establishment license**.",
+        "vi": "Ở Texas, dịch vụ làm móng do **TDLR** (Texas Department of Licensing and Regulation, Sở Cấp phép và Quản lý Texas) quản lý. Luật là Occupations Code Chapter 1603, quy định là 16 TAC Chapter 83.\n\n**Manicurist license** cho phép làm móng, như cắt, tỉa, sơn, manicure, pedicure và gắn móng giả, cùng với xoa bóp và làm đẹp bàn tay, bàn chân. License này không bao gồm làm mặt (facial), wax lông hay gắn mi (eyelash extensions).\n\nĐể được cấp license, người nộp đơn phải từ 17 tuổi, học đủ giờ tại trường có giấy phép, và đậu cả thi viết lẫn thi thực hành.\n\nSau khi có license:\n- License có hạn **hai năm** và không được chuyển nhượng cho người khác.\n- Treo license gần bàn làm việc, hoặc để ở quầy tiếp tân, có dán hình hiện tại của mình.\n- Chỉ làm việc trong **licensed facility**, tức là tiệm hoặc trường có giấy phép. Ngoại lệ: khách bị bệnh hoặc sự kiện đặc biệt như đám cưới, và phải đặt hẹn qua một licensed facility.\n- Báo cho TDLR trong vòng 30 ngày nếu đổi tên hoặc đổi địa chỉ.\n- Trước khi gia hạn, học ít nhất **4 giờ** continuing education (CE) được chấp thuận, gồm 1 giờ về vệ sinh (sanitation) và, với lần gia hạn từ ngày 1 tháng 9 năm 2025, 1 giờ về phòng chống buôn người (human trafficking).\n\nBản thân tiệm cũng phải có **establishment license** riêng."
+      },
+      "keyPoints": {
+        "en": [
+          "TDLR licenses and inspects Texas manicurists and salons.",
+          "A manicurist license covers nails, hands and feet only.",
+          "Licenses last two years and cannot be transferred.",
+          "Work in a licensed establishment or school, with narrow exceptions.",
+          "Renewal needs at least 4 hours of approved continuing education, including sanitation."
+        ],
+        "vi": [
+          "TDLR cấp license và kiểm tra thợ nail cùng các tiệm ở Texas.",
+          "Manicurist license chỉ bao gồm móng, bàn tay và bàn chân.",
+          "License có hạn hai năm và không được chuyển nhượng.",
+          "Làm việc tại tiệm hoặc trường có giấy phép, trừ vài ngoại lệ hẹp.",
+          "Gia hạn cần ít nhất 4 giờ continuing education được chấp thuận, có giờ về vệ sinh."
+        ]
+      },
+      "commonMistake": {
+        "en": "Thinking a friend's license or the salon's establishment license lets you work. Each practitioner needs their own license, and a license can never be transferred.",
+        "vi": "Nghĩ rằng có thể làm việc bằng license của bạn bè hoặc bằng establishment license của tiệm. Mỗi người thợ phải có license riêng, và license không bao giờ được chuyển nhượng."
+      },
+      "examTip": {
+        "en": "Remember two separate licenses: one for you (manicurist) and one for the salon (establishment).",
+        "vi": "Nhớ có hai loại license riêng: một cho bạn (manicurist) và một cho tiệm (establishment)."
+      },
+      "glossaryTermIds": [
+        "term_tdlr",
+        "term_tx_manicurist_license",
+        "term_tx_establishment_license",
+        "term_tx_licensed_facility",
+        "term_tx_continuing_education"
+      ],
+      "image": null,
+      "diagram": null,
+      "sourceRefs": [
+        "Texas Occupations Code §1603.002, checked 2026-11-02",
+        "Texas Occupations Code §1603.2103(a) and §1603.0011(a)(7)-(8), checked 2026-11-02",
+        "Texas Occupations Code §1603.2106, §1603.2107, §1603.2108, §1603.2109, checked 2026-11-02",
+        "Texas Occupations Code §1603.2201(a) and §1603.3001(a), checked 2026-11-02",
+        "16 TAC §83.200 (Texas), checked 2026-11-02",
+        "16 TAC §83.31(a) and §83.70(e)-(h) (Texas), checked 2026-11-02",
+        "16 TAC §83.25(b) (Texas), checked 2026-11-02"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "R1",
+        "date": "2026-11-03"
+      }
+    }
+  ]
+}
