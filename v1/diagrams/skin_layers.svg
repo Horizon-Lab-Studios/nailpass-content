@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 340" width="520" height="340">
+  <!-- NailPass original diagram: skin cross-section (epidermis, dermis, subcutaneous layer, glands). No text: labels come from the glossary. -->
+  <g stroke-linejoin="round" stroke-linecap="round">
+    <rect id="part_subcutaneous_layer" x="0" y="232" width="520" height="108" fill="#F7EBC9" stroke="#C9B27A" stroke-width="2"/>
+    <g id="part_fat" fill="#FBF3DA" stroke="#D6C08A" stroke-width="2"><ellipse cx="40" cy="262" rx="30" ry="20"/><ellipse cx="105" cy="290" rx="32" ry="22"/><ellipse cx="170" cy="258" rx="30" ry="19"/><ellipse cx="240" cy="292" rx="34" ry="22"/><ellipse cx="300" cy="256" rx="26" ry="18"/><ellipse cx="450" cy="262" rx="34" ry="20"/><ellipse cx="500" cy="300" rx="22" ry="18"/><ellipse cx="60" cy="312" rx="26" ry="14"/><ellipse cx="170" cy="312" rx="30" ry="14"/><ellipse cx="330" cy="306" rx="28" ry="16"/><ellipse cx="430" cy="306" rx="26" ry="14"/></g>
+    <path id="part_dermis" d="M0 104 C10 113 20 113 30 104 C40 95 50 95 60 104 C70 113 80 113 90 104 C100 95 110 95 120 104 C130 113 140 113 150 104 C160 95 170 95 180 104 C190 113 200 113 210 104 C220 95 230 95 240 104 C250 113 260 113 270 104 C280 95 290 95 300 104 C310 113 320 113 330 104 C340 95 350 95 360 104 C370 113 380 113 390 104 C400 95 410 95 420 104 C430 113 440 113 450 104 C460 95 470 95 480 104 C490 113 500 113 510 104 C520 95 510 95 520 104 L520 232 L0 232 Z" fill="#F2C9BE" stroke="#C48A80" stroke-width="2"/>
+    <path id="part_epidermis" d="M0 40 L520 40 L520 104 C510 95 520 95 510 104 C500 113 490 113 480 104 C470 95 460 95 450 104 C440 113 430 113 420 104 C410 95 400 95 390 104 C380 113 370 113 360 104 C350 95 340 95 330 104 C320 113 310 113 300 104 C290 95 280 95 270 104 C260 113 250 113 240 104 C230 95 220 95 210 104 C200 113 190 113 180 104 C170 95 160 95 150 104 C140 113 130 113 120 104 C110 95 100 95 90 104 C80 113 70 113 60 104 C50 95 40 95 30 104 C20 113 10 113 0 104 Z" fill="#F6DCCF" stroke="#B98A78" stroke-width="2"/>
+    <path id="part_stratum_basale" d="M0 104 C10 113 20 113 30 104 C40 95 50 95 60 104 C70 113 80 113 90 104 C100 95 110 95 120 104 C130 113 140 113 150 104 C160 95 170 95 180 104 C190 113 200 113 210 104 C220 95 230 95 240 104 C250 113 260 113 270 104 C280 95 290 95 300 104 C310 113 320 113 330 104 C340 95 350 95 360 104 C370 113 380 113 390 104 C400 95 410 95 420 104 C430 113 440 113 450 104 C460 95 470 95 480 104 C490 113 500 113 510 104 C520 95 510 95 520 104 L520 113 C510 104 520 104 510 113 C500 122 490 122 480 113 C470 104 460 104 450 113 C440 122 430 122 420 113 C410 104 400 104 390 113 C380 122 370 122 360 113 C350 104 340 104 330 113 C320 122 310 122 300 113 C290 104 280 104 270 113 C260 122 250 122 240 113 C230 104 220 104 210 113 C200 122 190 122 180 113 C170 104 160 104 150 113 C140 122 130 122 120 113 C110 104 100 104 90 113 C80 122 70 122 60 113 C50 104 40 104 30 113 C20 122 10 122 0 113 Z" fill="#C99A86" stroke="none"/>
+    <path id="part_stratum_corneum" d="M0 40 L520 40 L520 50 L0 50 Z" fill="#FBF1EA" stroke="#B98A78" stroke-width="2"/>
+    <path id="part_hair" d="M150 230 C140 170 128 90 110 4" fill="none" stroke="#6E4B3E" stroke-width="4"/>
+    <path id="part_hair_follicle" d="M138 40 C142 110 150 180 160 222 C164 236 148 244 140 234 C132 186 124 110 120 40" fill="#EBC3B2" fill-opacity="0.6" stroke="#9C6B5E" stroke-width="2"/>
+    <path id="part_sebaceous_gland" d="M140 120 C160 108 186 112 188 128 C192 146 172 156 160 150 C150 160 136 150 142 138 Z" fill="#F4E3A6" stroke="#B59A50" stroke-width="2"/>
+    <path id="part_eccrine_duct" d="M380 40 C384 80 376 120 382 160 C386 190 378 210 382 226" fill="none" stroke="#7FA3B8" stroke-width="3"/>
+    <path id="part_eccrine_gland" d="M382 226 C352 222 350 252 374 252 C396 252 400 230 380 232 C364 234 364 248 382 246 C406 244 410 264 386 268 C360 272 352 252 368 246" fill="none" stroke="#7FA3B8" stroke-width="4"/>
+  </g>
+  <g class="hotspots" fill="#C85A70" fill-opacity="0" stroke="none">
+    <circle class="hotspot" id="stratum_corneum" cx="260" cy="45" r="12"/>
+    <circle class="hotspot" id="epidermis" cx="260" cy="76" r="16"/>
+    <circle class="hotspot" id="stratum_basale" cx="280" cy="108" r="11"/>
+    <circle class="hotspot" id="dermis" cx="260" cy="170" r="26"/>
+    <circle class="hotspot" id="sebaceous_gland" cx="172" cy="132" r="16"/>
+    <circle class="hotspot" id="eccrine_gland" cx="380" cy="248" r="20"/>
+    <circle class="hotspot" id="subcutaneous_layer" cx="210" cy="300" r="24"/>
+  </g>
+</svg>

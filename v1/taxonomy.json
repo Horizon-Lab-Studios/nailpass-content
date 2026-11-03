@@ -412,10 +412,38 @@
       }
     },
     {
+      "asset": "diagrams/skin_layers.svg",
+      "title": {
+        "en": "Layers of the skin",
+        "vi": "Các lớp da"
+      }
+    },
+    {
+      "asset": "diagrams/hand_bones.svg",
+      "title": {
+        "en": "Bones of the hand and wrist",
+        "vi": "Xương bàn tay và cổ tay"
+      }
+    },
+    {
+      "asset": "diagrams/foot_bones.svg",
+      "title": {
+        "en": "Bones of the foot",
+        "vi": "Xương bàn chân"
+      }
+    },
+    {
       "asset": "diagrams/nail_shapes.svg",
       "title": {
         "en": "Nail shapes",
         "vi": "Các kiểu dáng móng"
+      }
+    },
+    {
+      "asset": "diagrams/efile_bits.svg",
+      "title": {
+        "en": "E-file sanding band on a mandrel",
+        "vi": "Băng nhám (sanding band) gắn trên mandrel của máy mài"
       }
     }
   ]

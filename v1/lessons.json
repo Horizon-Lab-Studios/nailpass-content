@@ -66,7 +66,201 @@
       ],
       "review": {
         "status": "approved",
-        "reviewer": "R1",
+        "reviewer": "AI fact-check",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_nail_disorders",
+      "rev": 1,
+      "status": "active",
+      "domain": "anatomy_disorders",
+      "topicGroup": "disorders",
+      "order": 21,
+      "isFree": false,
+      "title": {
+        "en": "Nail disorders and when to refer",
+        "vi": "Bệnh móng và khi nào cần giới thiệu đi khám"
+      },
+      "body": {
+        "en": "Nail disorders are changes in how a nail looks, grows or attaches. As a nail technician you **notice and refer**. You never diagnose or treat.\n\nSome changes are not infections. **Beau's lines** are grooves across the nail that show growth slowed for a while, for example after a fever. **Koilonychia** is a thin, spoon-shaped nail linked to iron deficiency. **Pitting** means tiny dents in the nail surface. **Onycholysis** is a nail lifting from the nail bed, sometimes after cleaning too hard under the free edge.\n\nSome changes are infections. **Paronychia** is a red, swollen, painful nail fold. **Onychomycosis** is nail fungus, most often in toenails, with thick, yellow, crumbly nails.\n\nSome changes need a physician soon:\n- A new or changing **dark streak**, especially with darker skin beside the nail.\n- **Splinter hemorrhages**, thin red streaks in the nail bed.\n- **Clubbing**, with nails curving down over swollen fingertips.\n- Red streaks spreading from an infected nail, or fever.\n\nWhen you see an infection or a change you can't explain, don't work on that area. Tell the client what you see, write it on the service record, and refer the client to a physician.",
+        "vi": "Bệnh móng là những thay đổi về hình dạng, cách mọc hoặc độ bám của móng. Là thợ nail, bạn **nhận biết và giới thiệu đi khám**. Bạn không bao giờ chẩn đoán hay điều trị.\n\nMột số thay đổi không phải nhiễm trùng. **Beau's lines** là rãnh ngang trên móng, cho thấy móng đã mọc chậm lại một thời gian, ví dụ sau khi sốt. **Koilonychia** (móng lõm) là móng mỏng hình muỗng, liên quan đến thiếu sắt. **Pitting** (móng rỗ) là những vết lõm nhỏ trên mặt móng. **Onycholysis** là móng tách khỏi giường móng, đôi khi do làm sạch quá mạnh dưới đầu móng.\n\nMột số thay đổi là nhiễm trùng. **Paronychia** là nếp da quanh móng bị đỏ, sưng, đau. **Onychomycosis** là nấm móng, thường gặp ở móng chân, làm móng dày, vàng, dễ vụn.\n\nMột số thay đổi cần đi bác sĩ sớm:\n- **Vệt sẫm** mới xuất hiện hoặc đang thay đổi, nhất là khi da cạnh móng cũng sẫm màu.\n- **Splinter hemorrhages**, những vệt đỏ mảnh ở giường móng.\n- **Clubbing** (ngón tay dùi trống), móng cong xuống ôm đầu ngón tay bị phình.\n- Vệt đỏ lan ra từ móng bị nhiễm trùng, hoặc bị sốt.\n\nKhi thấy nhiễm trùng hoặc thay đổi không rõ nguyên nhân, không làm vào vùng đó. Cho khách biết điều bạn thấy, ghi vào hồ sơ dịch vụ, và giới thiệu khách đến bác sĩ."
+      },
+      "keyPoints": {
+        "en": [
+          "A nail technician notices and refers, but never diagnoses or treats.",
+          "Beau's lines, koilonychia and pitting are not infections, but they can point to a health problem.",
+          "Paronychia and onychomycosis are infections: don't work on the affected area.",
+          "A new dark streak, splinter hemorrhages or clubbing need a physician soon."
+        ],
+        "vi": [
+          "Thợ nail nhận biết và giới thiệu đi khám, không bao giờ chẩn đoán hay điều trị.",
+          "Beau's lines, koilonychia và móng rỗ không phải nhiễm trùng, nhưng có thể cho thấy vấn đề sức khỏe.",
+          "Paronychia và onychomycosis là nhiễm trùng: không làm vào vùng bị bệnh.",
+          "Vệt sẫm mới, splinter hemorrhages hoặc clubbing cần đi bác sĩ sớm."
+        ]
+      },
+      "commonMistake": {
+        "en": "Trying to fix a problem nail yourself, such as filing down a thick fungal nail or covering a dark streak with polish. This can hide a serious condition. Note it, skip the area and refer the client to a physician.",
+        "vi": "Tự xử lý móng có vấn đề, ví dụ dũa mỏng móng dày do nấm hoặc sơn phủ lên vệt sẫm. Làm vậy có thể che giấu bệnh nặng. Hãy ghi lại, bỏ qua vùng đó và giới thiệu khách đến bác sĩ."
+      },
+      "examTip": {
+        "en": "If an answer choice has the technician treating or diagnosing a nail disorder, it is wrong. The best answer refers the client to a physician.",
+        "vi": "Nếu đáp án có thợ nail điều trị hoặc chẩn đoán bệnh móng thì đó là đáp án sai. Đáp án đúng nhất là giới thiệu khách đến bác sĩ."
+      },
+      "glossaryTermIds": [
+        "term_beaus_lines",
+        "term_koilonychia",
+        "term_nail_pitting",
+        "term_onycholysis",
+        "term_paronychia",
+        "term_onychomycosis",
+        "term_melanoma",
+        "term_splinter_hemorrhages",
+        "term_clubbing",
+        "term_physician_referral"
+      ],
+      "image": null,
+      "diagram": null,
+      "sourceRefs": [
+        "American Academy of Dermatology: 12 nail changes a dermatologist should examine",
+        "MedlinePlus Medical Encyclopedia: Nail abnormalities",
+        "MedlinePlus Medical Encyclopedia: Paronychia",
+        "MedlinePlus Medical Encyclopedia: Fungal nail infection",
+        "American Academy of Dermatology: How to check your nails for melanoma",
+        "NIC National Nail Technology Theory CIB (eff. 1 Jul 2020) content outline: Anatomy and Physiology"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "AI fact-check",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_hand_arm_bones_muscles",
+      "rev": 1,
+      "status": "active",
+      "domain": "anatomy_disorders",
+      "topicGroup": "bones_muscles",
+      "order": 22,
+      "isFree": false,
+      "title": {
+        "en": "Bones and muscles of the hand and arm",
+        "vi": "Xương và cơ của bàn tay và cánh tay"
+      },
+      "body": {
+        "en": "Hand and arm massage is part of every manicure, so it helps to know the bones and muscles you are working on.\n\nThe **humerus** is the single bone of the upper arm. The forearm has two bones. The **radius** is on the thumb side, and the **ulna** is on the little-finger side. The tip of the elbow is part of the ulna.\n\nThe hand and wrist have three groups of bones:\n- The **carpals** are eight small wrist bones in two rows of four.\n- The **metacarpals** are five long bones in the palm, numbered from the thumb.\n- The **phalanges** are the finger bones. The thumb has two, and each finger has three.\n\nIn the upper arm, the **biceps brachii** on the front bends the elbow, and the **triceps brachii** on the back straightens it. The **deltoid** covers the shoulder and lifts the arm to the side.\n\nIn the forearm, the **flexors** on the palm side bend the wrist and fingers, and the **extensors** on the back straighten them. The **pronators** turn the palm down. In the palm, the **thenar** muscles at the base of the thumb move the thumb, and the **hypothenar** muscles move the little finger.",
+        "vi": "Xoa bóp tay và cánh tay là một phần của mỗi lần làm móng tay, nên biết rõ xương và cơ mình đang xoa bóp sẽ rất có ích.\n\n**Humerus** (xương cánh tay trên) là xương duy nhất của cánh tay trên. Cẳng tay có hai xương. **Radius** (xương quay) ở phía ngón cái, còn **ulna** (xương trụ) ở phía ngón út. Đầu khuỷu tay là một phần của xương trụ.\n\nBàn tay và cổ tay có ba nhóm xương:\n- **Carpals** (xương cổ tay) là tám xương nhỏ, xếp thành hai hàng, mỗi hàng bốn xương.\n- **Metacarpals** (xương bàn tay) là năm xương dài ở lòng bàn tay, đánh số từ ngón cái.\n- **Phalanges** (đốt ngón tay) là xương các ngón. Ngón cái có hai đốt, mỗi ngón còn lại có ba đốt.\n\nỞ cánh tay trên, **biceps brachii** (cơ nhị đầu) ở mặt trước giúp gập khuỷu, còn **triceps brachii** (cơ tam đầu) ở mặt sau giúp duỗi thẳng. **Deltoid** (cơ delta) bao phủ vai và nâng cánh tay sang ngang.\n\nỞ cẳng tay, các **cơ gấp** (flexors) ở mặt lòng bàn tay giúp gập cổ tay và ngón tay, còn các **cơ duỗi** (extensors) ở mặt sau giúp duỗi thẳng. Các **cơ sấp** (pronators) xoay lòng bàn tay úp xuống. Trong lòng bàn tay, nhóm cơ **thenar** ở gốc ngón cái cử động ngón cái, còn nhóm cơ **hypothenar** cử động ngón út."
+      },
+      "keyPoints": {
+        "en": [
+          "The humerus is in the upper arm; the radius is on the thumb side and the ulna on the little-finger side.",
+          "The wrist has eight carpals, the palm five metacarpals and the fingers fourteen phalanges.",
+          "The biceps bends the elbow; the triceps straightens it.",
+          "Flexors on the palm side bend the fingers; extensors on the back straighten them."
+        ],
+        "vi": [
+          "Humerus ở cánh tay trên; radius ở phía ngón cái, ulna ở phía ngón út.",
+          "Cổ tay có tám xương carpals, lòng bàn tay năm xương metacarpals và các ngón có mười bốn đốt phalanges.",
+          "Cơ nhị đầu (biceps) gập khuỷu; cơ tam đầu (triceps) duỗi khuỷu.",
+          "Cơ gấp ở mặt lòng bàn tay gập ngón; cơ duỗi ở mặt sau duỗi ngón."
+        ]
+      },
+      "commonMistake": {
+        "en": "Mixing up the radius and the ulna. Remember: the radius is on the thumb side. The ulna is on the little-finger side and forms the point of the elbow.",
+        "vi": "Nhầm lẫn giữa radius và ulna. Hãy nhớ: radius ở phía ngón cái. Ulna ở phía ngón út và tạo thành đầu nhọn của khuỷu tay."
+      },
+      "examTip": {
+        "en": "Carpals are in the wrist and metacarpals are in the palm. Do not confuse them with tarsals and metatarsals, which are in the foot.",
+        "vi": "Carpals ở cổ tay, metacarpals ở lòng bàn tay. Đừng nhầm với tarsals và metatarsals, là xương ở bàn chân."
+      },
+      "glossaryTermIds": [
+        "term_humerus",
+        "term_radius",
+        "term_ulna",
+        "term_carpals",
+        "term_metacarpals",
+        "term_phalanges",
+        "term_biceps_brachii",
+        "term_triceps_brachii",
+        "term_deltoid",
+        "term_thenar_eminence",
+        "term_hypothenar_eminence"
+      ],
+      "image": null,
+      "diagram": null,
+      "sourceRefs": [
+        "OpenStax Anatomy and Physiology 2e, 8.2 Bones of the Upper Limb",
+        "OpenStax Anatomy and Physiology 2e, 11.5 Muscles of the Pectoral Girdle and Upper Limbs",
+        "NIC National Nail Technology Theory CIB (eff. 1 Jul 2020) content outline: Anatomy and Physiology"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "AI fact-check",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_foot_leg_bones_muscles",
+      "rev": 1,
+      "status": "active",
+      "domain": "anatomy_disorders",
+      "topicGroup": "bones_muscles",
+      "order": 23,
+      "isFree": false,
+      "title": {
+        "en": "Bones and muscles of the foot and leg",
+        "vi": "Xương và cơ của bàn chân và chân"
+      },
+      "body": {
+        "en": "During a pedicure you massage the feet and lower legs, so learn the main bones and muscles of this area.\n\nThe **femur** is the thigh bone, the longest and strongest bone in the body. The **patella** is the kneecap. The lower leg has two bones. The **tibia**, or shin bone, is on the inner side and carries the body's weight. The **fibula** is the slender bone on the outer side. The bumps on each side of the ankle are the lower ends of these two bones.\n\nThe foot has three groups of bones:\n- The **tarsals** are seven bones at the back of the foot. The **talus** forms the ankle joint, and the **calcaneus** is the heel bone.\n- The **metatarsals** are five long bones in the middle of the foot, numbered from the big toe.\n- The **phalanges** are the toe bones. The big toe has two, and each other toe has three.\n\nThe calf has two main muscles. The **gastrocnemius** is the large one you can see, and the **soleus** lies under it. Both join the **Achilles tendon** at the heel and point the foot down. On the front of the shin, the **tibialis anterior** lifts the foot up. Small muscles inside the foot support the arch.",
+        "vi": "Khi làm pedicure, bạn xoa bóp bàn chân và cẳng chân, vì vậy hãy nắm rõ các xương và cơ chính của vùng này.\n\n**Femur** (xương đùi) là xương dài nhất và chắc nhất cơ thể. **Patella** là xương bánh chè. Cẳng chân có hai xương. **Tibia** (xương chày, xương ống quyển) nằm ở phía trong và chịu sức nặng cơ thể. **Fibula** (xương mác) là xương mảnh ở phía ngoài. Chỗ nhô ở hai bên mắt cá chân là đầu dưới của hai xương này.\n\nBàn chân có ba nhóm xương:\n- **Tarsals** (xương cổ chân) là bảy xương ở phần sau bàn chân. **Talus** (xương sên) tạo thành khớp cổ chân, còn **calcaneus** là xương gót.\n- **Metatarsals** (xương bàn chân) là năm xương dài ở giữa bàn chân, đánh số từ ngón cái.\n- **Phalanges** (đốt ngón chân) là xương các ngón chân. Ngón cái có hai đốt, mỗi ngón còn lại có ba đốt.\n\nBắp chân có hai cơ chính. **Gastrocnemius** (cơ bụng chân) là cơ lớn nhìn thấy được, còn **soleus** (cơ dép) nằm bên dưới. Cả hai nối vào **gân Achilles** ở gót và giúp duỗi bàn chân xuống. Ở mặt trước ống quyển, **tibialis anterior** (cơ chày trước) nâng bàn chân lên. Các cơ nhỏ trong bàn chân giúp nâng đỡ vòm bàn chân."
+      },
+      "keyPoints": {
+        "en": [
+          "The tibia is the weight-bearing shin bone; the fibula is the slender outer bone.",
+          "The foot has seven tarsals, five metatarsals and fourteen phalanges.",
+          "The talus forms the ankle joint and the calcaneus is the heel bone.",
+          "The gastrocnemius and soleus point the foot down; the tibialis anterior lifts it."
+        ],
+        "vi": [
+          "Tibia là xương ống quyển chịu sức nặng; fibula là xương mảnh ở phía ngoài.",
+          "Bàn chân có bảy xương tarsals, năm xương metatarsals và mười bốn đốt phalanges.",
+          "Talus tạo thành khớp cổ chân, còn calcaneus là xương gót.",
+          "Gastrocnemius và soleus duỗi bàn chân xuống; tibialis anterior nâng bàn chân lên."
+        ]
+      },
+      "commonMistake": {
+        "en": "Thinking the fibula carries the body's weight. The tibia is the weight-bearing bone; the fibula mainly anchors muscles.",
+        "vi": "Nghĩ rằng xương mác (fibula) chịu sức nặng cơ thể. Xương chày (tibia) mới là xương chịu sức nặng; xương mác chủ yếu là chỗ bám cho cơ."
+      },
+      "examTip": {
+        "en": "Tarsals and metatarsals are in the foot. The heel bone is the calcaneus, and the calf muscles attach to it through the Achilles tendon.",
+        "vi": "Tarsals và metatarsals ở bàn chân. Xương gót là calcaneus, và cơ bắp chân bám vào nó qua gân Achilles."
+      },
+      "glossaryTermIds": [
+        "term_femur",
+        "term_tibia",
+        "term_fibula",
+        "term_tarsals",
+        "term_talus",
+        "term_calcaneus",
+        "term_metatarsals",
+        "term_phalanges",
+        "term_gastrocnemius",
+        "term_soleus",
+        "term_tibialis_anterior"
+      ],
+      "image": null,
+      "diagram": null,
+      "sourceRefs": [
+        "OpenStax Anatomy and Physiology 2e, 8.4 Bones of the Lower Limb",
+        "OpenStax Anatomy and Physiology 2e, 11.6 Appendicular Muscles of the Pelvic Girdle and Lower Limbs",
+        "NIC National Nail Technology Theory CIB (eff. 1 Jul 2020) content outline: Anatomy and Physiology"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "AI fact-check",
         "date": "2026-11-03"
       }
     },
@@ -129,7 +323,153 @@
       ],
       "review": {
         "status": "approved",
-        "reviewer": "R1",
+        "reviewer": "AI fact-check",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_chemistry_basics",
+      "rev": 1,
+      "status": "active",
+      "domain": "chemistry",
+      "topicGroup": "basics",
+      "order": 31,
+      "isFree": false,
+      "title": {
+        "en": "Chemistry basics: pH, solutions and reactions",
+        "vi": "Hóa học cơ bản: pH, dung dịch và phản ứng"
+      },
+      "body": {
+        "en": "Everything in the salon is **matter**, built from atoms. An atom has positive protons and neutral neutrons in its nucleus, with negative electrons around it. An atom that gains or loses electrons becomes a charged **ion**.\n\nThe **pH scale** runs from 0 to 14 and tells how acidic or alkaline a water-based solution is:\n- Below 7 is acidic, 7 is neutral, above 7 is alkaline.\n- Each step is ten times stronger, so pH 3 is about one thousand times more acidic than pH 6.\n- When an acid and a base react, they **neutralize** each other and usually make a salt and water.\n\nIn a **solution**, the **solute** is what dissolves and the **solvent** does the dissolving. Like dissolves like: water dissolves water-loving substances, while oils need an oil-friendly solvent. Liquids that mix completely, such as acetone and water, are **miscible**.\n\nIn a **redox** reaction, one substance loses electrons (oxidation) while another gains them (reduction). Burning is a fast redox reaction that gives off heat. Reactions and processes that give off heat are exothermic; ones that take in heat, like evaporation, are **endothermic**.\n\nLiquids with a high **vapor pressure** evaporate quickly, and warmth makes them evaporate faster still.",
+        "vi": "Mọi thứ trong tiệm đều là **vật chất (matter)**, được tạo từ nguyên tử. Nguyên tử có proton mang điện dương và neutron không mang điện trong hạt nhân, cùng electron mang điện âm quanh hạt nhân. Nguyên tử nhận thêm hoặc mất electron sẽ thành **ion** mang điện.\n\n**Thang pH** đi từ 0 đến 14, cho biết dung dịch gốc nước có tính axit hay kiềm:\n- Dưới 7 là axit, 7 là trung tính, trên 7 là kiềm.\n- Mỗi bậc mạnh gấp mười lần, nên pH 3 có tính axit mạnh hơn pH 6 khoảng một nghìn lần.\n- Khi axit và bazơ phản ứng, chúng **trung hòa (neutralize)** nhau và thường tạo ra muối và nước.\n\nTrong **dung dịch (solution)**, **chất tan (solute)** là chất được hòa tan, còn **dung môi (solvent)** là chất hòa tan nó. Chất giống nhau thì hòa tan nhau: nước hòa tan chất ưa nước, còn dầu cần dung môi hợp với dầu. Chất lỏng trộn lẫn hoàn toàn như acetone và nước gọi là **miscible**.\n\nTrong phản ứng **oxy hóa - khử (redox)**, một chất mất electron (oxy hóa) trong khi chất khác nhận electron (khử). Sự cháy là phản ứng redox nhanh, tỏa nhiệt. Phản ứng tỏa nhiệt gọi là exothermic; quá trình hút nhiệt như sự bay hơi gọi là **thu nhiệt (endothermic)**.\n\nChất lỏng có **áp suất hơi (vapor pressure)** cao bay hơi nhanh, và càng ấm thì càng bay hơi nhanh hơn."
+      },
+      "keyPoints": {
+        "en": [
+          "pH below 7 is acidic, 7 is neutral, and above 7 is alkaline.",
+          "Each pH step is a tenfold change, not a doubling.",
+          "Acid plus base gives a salt and water in a neutralization reaction.",
+          "The solute dissolves; the solvent does the dissolving; like dissolves like.",
+          "High vapor pressure means fast evaporation and more vapor in the air."
+        ],
+        "vi": [
+          "pH dưới 7 là axit, 7 là trung tính, trên 7 là kiềm.",
+          "Mỗi bậc pH là thay đổi mười lần, không phải gấp đôi.",
+          "Axit cộng bazơ cho ra muối và nước trong phản ứng trung hòa.",
+          "Chất tan được hòa tan; dung môi hòa tan nó; chất giống nhau thì hòa tan nhau.",
+          "Áp suất hơi cao nghĩa là bay hơi nhanh và nhiều hơi trong không khí hơn."
+        ]
+      },
+      "commonMistake": {
+        "en": "Reading the pH scale as if each step doubles the strength. One step is ten times, two steps is one hundred times, and three steps is one thousand times.",
+        "vi": "Hiểu thang pH như thể mỗi bậc chỉ mạnh gấp đôi. Một bậc là mười lần, hai bậc là một trăm lần, ba bậc là một nghìn lần."
+      },
+      "examTip": {
+        "en": "Remember 7 is the middle: lower is acidic, higher is alkaline, and every step counts ten times.",
+        "vi": "Nhớ 7 là ở giữa: thấp hơn là axit, cao hơn là kiềm, và mỗi bậc tính gấp mười lần."
+      },
+      "glossaryTermIds": [
+        "term_matter",
+        "term_ion",
+        "term_ph",
+        "term_acid",
+        "term_alkali",
+        "term_neutralization",
+        "term_solution",
+        "term_solute",
+        "term_solvent",
+        "term_miscible",
+        "term_oxidation",
+        "term_endothermic",
+        "term_vapor_pressure"
+      ],
+      "image": null,
+      "diagram": null,
+      "sourceRefs": [
+        "OpenStax Chemistry 2e (2019), §2.3 Atomic Structure and Symbolism",
+        "OpenStax Chemistry 2e (2019), §14.2 pH and pOH",
+        "EPA CADDIS Volume 2: pH",
+        "OpenStax Chemistry 2e (2019), §4.2 Classifying Chemical Reactions (acid-base reactions, neutralization)",
+        "OpenStax Chemistry 2e (2019), §11.1 The Dissolution Process",
+        "OpenStax Chemistry 2e (2019), §11.3 Solubility",
+        "OpenStax Chemistry 2e (2019), §4.2 Classifying Chemical Reactions (oxidation-reduction reactions, combustion)",
+        "OpenStax Chemistry 2e (2019), §10.3 Phase Transitions (vaporization, vapor pressure)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "AI fact-check",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_chemical_safety",
+      "rev": 1,
+      "status": "active",
+      "domain": "chemistry",
+      "topicGroup": "product_safety",
+      "order": 32,
+      "isFree": false,
+      "title": {
+        "en": "Chemical safety: labels, SDS and clean air",
+        "vi": "An toàn hóa chất: nhãn, SDS và không khí sạch"
+      },
+      "body": {
+        "en": "OSHA's **Hazard Communication Standard (HazCom)** gives you the right to know about the chemicals you use. The employer must keep labels on containers, keep a **Safety Data Sheet (SDS)** for each hazardous product where you can reach it during every shift, and train you when you start and whenever a new hazard arrives.\n\nA HazCom label shows a **signal word**, either Danger for more severe hazards or Warning for less severe ones, plus red-bordered **pictograms** such as the flame for flammable products and corrosion for skin burns.\n\nEvery SDS has 16 sections. Know these:\n- Section 2: hazards, signal word and pictograms.\n- Section 4: first aid.\n- Section 7: safe handling and storage.\n- Section 8: exposure limits and protective equipment.\n- Section 9: properties such as flash point and vapor pressure.\n\nChemicals enter the body by breathing, through the skin and eyes, and by swallowing. Breathing vapors and dust is the biggest concern at the nail table.\n\nNIOSH ranks protections from best to weakest: remove the hazard, **substitute** a safer product, use **engineering controls** such as local exhaust ventilation, change work practices, and finally wear protective equipment. Acetone has a very low **flash point**, so keep it closed and away from heat, sparks and flames.",
+        "vi": "**Tiêu chuẩn truyền đạt thông tin nguy hiểm (HazCom)** của OSHA cho bạn quyền được biết về hóa chất mình dùng. Chủ tiệm phải giữ nhãn trên chai, có **Bảng dữ liệu an toàn (SDS)** cho từng sản phẩm nguy hiểm để bạn lấy xem được trong mọi ca làm, và huấn luyện bạn khi mới vào làm và mỗi khi có mối nguy mới.\n\nNhãn HazCom có **từ cảnh báo (signal word)**: Danger cho mối nguy nặng hơn, Warning cho mối nguy nhẹ hơn, cùng các **biểu tượng (pictogram)** viền đỏ như ngọn lửa cho sản phẩm dễ cháy và ăn mòn cho chất gây bỏng da.\n\nMỗi SDS có 16 mục. Cần nhớ:\n- Mục 2: mối nguy, từ cảnh báo và biểu tượng.\n- Mục 4: sơ cứu.\n- Mục 7: sử dụng và bảo quản an toàn.\n- Mục 8: giới hạn tiếp xúc và đồ bảo hộ.\n- Mục 9: tính chất như điểm chớp cháy và áp suất hơi.\n\nHóa chất vào cơ thể qua đường thở, qua da và mắt, và do nuốt phải. Hít hơi và bụi là mối lo lớn nhất tại bàn làm móng.\n\nNIOSH xếp các cách bảo vệ từ tốt nhất đến yếu nhất: loại bỏ mối nguy, **thay thế** bằng sản phẩm an toàn hơn, dùng **kiểm soát kỹ thuật** như hệ thống hút cục bộ, thay đổi cách làm việc, cuối cùng mới là đồ bảo hộ. Acetone có **điểm chớp cháy (flash point)** rất thấp, nên phải đậy kín và để xa nhiệt, tia lửa và ngọn lửa."
+      },
+      "keyPoints": {
+        "en": [
+          "HazCom means labels, an SDS for each hazardous product, a written program and training.",
+          "Danger is more severe than Warning, and only one appears on a label.",
+          "SDS Section 8 covers protective equipment; Section 9 covers flash point and vapor pressure.",
+          "Ventilation that captures vapors at the table beats relying on masks or gloves.",
+          "A low flash point means the product catches fire easily."
+        ],
+        "vi": [
+          "HazCom gồm nhãn, SDS cho từng sản phẩm nguy hiểm, chương trình bằng văn bản và huấn luyện.",
+          "Danger nghiêm trọng hơn Warning, và nhãn chỉ ghi một trong hai.",
+          "Mục 8 của SDS nói về đồ bảo hộ; Mục 9 nói về điểm chớp cháy và áp suất hơi.",
+          "Hút hơi ngay tại bàn hiệu quả hơn là chỉ dựa vào khẩu trang hay bao tay.",
+          "Điểm chớp cháy thấp nghĩa là sản phẩm rất dễ bắt lửa."
+        ]
+      },
+      "commonMistake": {
+        "en": "Trusting a surgical mask against vapors. It does not stop gases or vapors, and an N95 only filters dust. Good ventilation comes first.",
+        "vi": "Tin rằng khẩu trang y tế chặn được hơi hóa chất. Nó không chặn khí hay hơi, còn khẩu trang N95 chỉ lọc bụi. Thông gió tốt phải được ưu tiên trước."
+      },
+      "examTip": {
+        "en": "Link the SDS section to the question: first aid is 4, spills are 6, gloves and masks are 8, flash point is 9.",
+        "vi": "Gắn mục SDS với câu hỏi: sơ cứu là 4, tràn đổ là 6, bao tay và khẩu trang là 8, điểm chớp cháy là 9."
+      },
+      "glossaryTermIds": [
+        "term_hazard_communication_standard",
+        "term_safety_data_sheet",
+        "term_signal_word",
+        "term_hazard_pictogram",
+        "term_precautionary_statement",
+        "term_flash_point",
+        "term_hierarchy_of_controls",
+        "term_local_exhaust_ventilation",
+        "term_voc",
+        "term_n95_respirator"
+      ],
+      "image": null,
+      "diagram": null,
+      "sourceRefs": [
+        "OSHA Hazard Communication Standard, 29 CFR 1910.1200(c) definitions, checked 2026-11-03",
+        "OSHA Hazard Communication Standard, 29 CFR 1910.1200(h)(1) and (h)(3) (training), checked 2026-11-03",
+        "OSHA Hazard Communication Standard, 29 CFR 1910.1200, Appendix C (label elements, pictograms, precedence), checked 2026-11-03",
+        "OSHA Hazard Communication Standard, 29 CFR 1910.1200, Appendix D (SDS sections), checked 2026-11-03",
+        "OSHA Hazard Communication Standard, 29 CFR 1910.1200, Appendix B.6 (flammable liquids, flash point), checked 2026-11-03",
+        "OSHA: Health Hazards in Nail Salons (chemical hazards) (how chemicals enter the body)",
+        "OSHA: Health Hazards in Nail Salons (chemical hazards) (ventilation)",
+        "OSHA: Health Hazards in Nail Salons (respiratory protection)",
+        "NIOSH: Hierarchy of Controls",
+        "NIOSH: Nail Technicians' Health and Workplace Exposure Control (ventilation; other exposure controls)",
+        "NIOSH Pocket Guide to Chemical Hazards: Acetone (flash point, exposure routes, symptoms)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "AI fact-check",
         "date": "2026-11-03"
       }
     },
@@ -146,13 +486,13 @@
         "vi": "Tư vấn khách hàng"
       },
       "body": {
-        "en": "A **client consultation** happens before every service, even for regular clients. Health, nails and wishes can change between visits.\n\nStart with the **intake form**. It lists contact details, health conditions, medicines, allergies and the services the client wants. If a section is blank, ask the questions in person and write down her answers.\n\nNext, do a **nail analysis**. Remove polish and look at the nails and skin in good light. Then decide:\n\n- **Go ahead** when nails and skin look healthy.\n- **Change the service** when a condition calls for it, for example working extra gently with a client who takes a blood thinner or has diabetes.\n- **Do not service the area** when you see open skin, swelling with pus, or thick, crumbling, discoloured nails. Explain your concern in general terms and refer the client to a physician.\n\nListen, then repeat the request back so the client can correct you. Agree on a length and shape that suit her work and daily life, and be honest about what the service can do.\n\nAfter the service, update the **client service record**: the date, services, products, results and any reactions. Keep records private.\n\nA nail technician never diagnoses or treats a medical condition.",
+        "en": "A **client consultation** happens before every service, even for regular clients. Health, nails and wishes can change between visits.\n\nStart with the **intake form**. It lists contact details, health conditions, medicines, allergies and the services the client wants. If a section is blank, ask the questions in person and write down her answers.\n\nNext, do a **nail analysis**. Remove polish and look at the nails and skin in good light. Then decide:\n\n- **Go ahead** when nails and skin look healthy.\n- **Change the service** when a condition calls for it, for example working extra gently with a client who takes a blood thinner or has diabetes.\n- **Do not service the area** when you see open skin, swelling with pus, or thick, crumbling, discolored nails. Explain your concern in general terms and refer the client to a physician.\n\nListen, then repeat the request back so the client can correct you. Agree on a length and shape that suit her work and daily life, and be honest about what the service can do.\n\nAfter the service, update the **client service record**: the date, services, products, results and any reactions. Keep records private.\n\nA nail technician never diagnoses or treats a medical condition.",
         "vi": "**Tư vấn khách hàng** (client consultation) được thực hiện trước mỗi dịch vụ, kể cả với khách quen. Sức khỏe, tình trạng móng và mong muốn của khách có thể thay đổi giữa các lần làm.\n\nBắt đầu với **phiếu thông tin khách hàng** (intake form). Phiếu ghi thông tin liên lạc, bệnh lý, thuốc đang dùng, dị ứng và dịch vụ khách muốn. Nếu khách bỏ trống phần nào, hãy hỏi trực tiếp và ghi lại câu trả lời.\n\nTiếp theo là **phân tích móng** (nail analysis). Tẩy sơn và quan sát móng, da dưới ánh sáng tốt. Sau đó quyết định:\n\n- **Làm bình thường** khi móng và da khỏe.\n- **Điều chỉnh dịch vụ** khi cần, ví dụ làm thật nhẹ tay với khách dùng thuốc loãng máu hoặc bị tiểu đường.\n- **Không làm trên vùng đó** khi thấy da hở, sưng có mủ, hoặc móng dày, mủn, đổi màu. Giải thích chung chung điều mình lo ngại và giới thiệu khách đến bác sĩ.\n\nLắng nghe, rồi nhắc lại yêu cầu để khách xác nhận. Cùng thống nhất độ dài, dáng móng hợp với công việc và sinh hoạt của khách, và nói thật dịch vụ làm được gì.\n\nSau khi làm xong, cập nhật **hồ sơ dịch vụ của khách** (service record): ngày làm, dịch vụ, sản phẩm, kết quả và phản ứng nếu có. Giữ kín hồ sơ.\n\nThợ nail không bao giờ chẩn đoán hay điều trị bệnh."
       },
       "keyPoints": {
         "en": [
           "Consult before every service, including for returning clients.",
-          "Remove polish and analyse nails and skin in good light.",
+          "Remove polish and analyze nails and skin in good light.",
           "Signs of infection or open skin: do not service the area; refer the client to a physician.",
           "Update the service record after every visit and keep it private."
         ],
@@ -189,7 +529,194 @@
       ],
       "review": {
         "status": "approved",
-        "reviewer": "R1",
+        "reviewer": "AI fact-check",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_client_records",
+      "rev": 1,
+      "status": "active",
+      "domain": "consultation_analysis",
+      "topicGroup": "records",
+      "order": 41,
+      "isFree": false,
+      "title": {
+        "en": "Client records",
+        "vi": "Hồ sơ khách hàng"
+      },
+      "body": {
+        "en": "Good records keep clients safe and help you give the same great result each visit. There are two main records.\n\nThe **intake form** is filled in before the first service. Its **health history** lists health conditions, medicines and allergies. Review it at every visit, because health can change.\n\nThe **service record** is updated after every visit. Write down:\n\n- the date and the services given\n- the exact products used, by name\n- the client's preferred length, shape and color\n- results, any reactions and any home-care advice\n\nMark allergies clearly. A **latex allergy** reaction can begin within minutes, so every technician must see it and use non-latex gloves.\n\nWrite facts, not guesses. Describe what you saw and did, such as \"redness and swelling at the left index nail, not serviced, suggested she see a physician\". Never write a diagnosis.\n\nIf a client reacts to a product, FDA says she should stop using it and see her healthcare provider. The reaction can then be reported to FDA through **MedWatch**. Your record of the product name, its label and the date supports that report.\n\nKeep records **confidential**. Store them securely and share them only with staff who need them.",
+        "vi": "Hồ sơ tốt giúp khách an toàn và giúp thợ làm đẹp như nhau mỗi lần. Có hai loại hồ sơ chính.\n\n**Phiếu thông tin khách hàng** (intake form) được điền trước dịch vụ đầu tiên. Phần **tiền sử sức khỏe** (health history) ghi bệnh lý, thuốc đang dùng và dị ứng. Xem lại mỗi lần khách đến, vì sức khỏe có thể thay đổi.\n\n**Hồ sơ dịch vụ** (service record) được cập nhật sau mỗi lần làm. Ghi lại:\n\n- ngày làm và các dịch vụ đã làm\n- tên chính xác của sản phẩm đã dùng\n- độ dài, dáng móng và màu khách thích\n- kết quả, phản ứng nếu có và lời khuyên chăm sóc tại nhà\n\nĐánh dấu rõ dị ứng. Phản ứng **dị ứng latex** có thể xảy ra trong vài phút, nên thợ nào cũng phải thấy và dùng găng không latex.\n\nGhi sự thật, không ghi phỏng đoán. Mô tả điều mình thấy và đã làm, ví dụ \"ngón trỏ trái đỏ, sưng, không làm, đã khuyên khách đi bác sĩ\". Không bao giờ ghi chẩn đoán bệnh.\n\nNếu khách bị phản ứng với sản phẩm, FDA khuyên ngưng dùng và đi bác sĩ. Sau đó có thể báo phản ứng cho FDA qua **MedWatch**. Hồ sơ ghi tên sản phẩm, nhãn và ngày làm sẽ hỗ trợ bản báo cáo đó.\n\nGiữ **bảo mật** hồ sơ: cất an toàn, chỉ chia sẻ với nhân viên cần dùng."
+      },
+      "keyPoints": {
+        "en": [
+          "The intake form is completed before the first service and reviewed at every visit.",
+          "Update the service record after every visit, including product names and any reactions.",
+          "Mark allergies such as latex allergy clearly on the record.",
+          "Record facts, never a diagnosis, and keep records confidential."
+        ],
+        "vi": [
+          "Phiếu thông tin được điền trước dịch vụ đầu tiên và xem lại mỗi lần khách đến.",
+          "Cập nhật hồ sơ dịch vụ sau mỗi lần làm, ghi cả tên sản phẩm và phản ứng nếu có.",
+          "Đánh dấu rõ các dị ứng như dị ứng latex trong hồ sơ.",
+          "Ghi sự thật, không bao giờ ghi chẩn đoán, và giữ kín hồ sơ."
+        ]
+      },
+      "commonMistake": {
+        "en": "Writing \"nail fungus\" on the record. That is a diagnosis. Describe what you saw, for example \"thick, yellow, crumbling nail, not serviced, suggested she see a physician\".",
+        "vi": "Ghi \"nấm móng\" vào hồ sơ. Đó là chẩn đoán bệnh. Hãy mô tả điều mình thấy, ví dụ \"móng dày, vàng, mủn, không làm móng này, đã khuyên khách đi bác sĩ\"."
+      },
+      "examTip": {
+        "en": "Records are updated after every visit, hold facts rather than diagnoses, and stay private.",
+        "vi": "Hồ sơ được cập nhật sau mỗi lần làm, ghi sự thật chứ không ghi chẩn đoán, và phải giữ kín."
+      },
+      "glossaryTermIds": [
+        "term_intake_form",
+        "term_health_history",
+        "term_service_record",
+        "term_client_confidentiality",
+        "term_latex_allergy",
+        "term_adverse_event_report"
+      ],
+      "image": null,
+      "diagram": null,
+      "sourceRefs": [
+        "NIC Nail Technology Theory content outline: Client Consultation",
+        "PSI California manicurist outline: Client Consultation and Nail Analysis",
+        "MedlinePlus: Latex Allergy",
+        "FDA: How to report a cosmetic product related complaint",
+        "FDA: Nail Care Products (tell your doctor, then tell FDA)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "AI fact-check",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_nail_skin_analysis",
+      "rev": 1,
+      "status": "active",
+      "domain": "consultation_analysis",
+      "topicGroup": "analysis",
+      "order": 42,
+      "isFree": false,
+      "title": {
+        "en": "Nail and skin analysis",
+        "vi": "Phân tích móng và da"
+      },
+      "body": {
+        "en": "**Nail analysis** tells you whether a service is safe and which service suits the client. Remove all polish first and look in good light.\n\nA healthy nail is smooth and unbroken, with a pink nail bed and no redness, swelling or pain in the skin around it.\n\nLook for changes. The AAD says nail changes don't always mean disease, but any new change is worth showing to a dermatologist. Some changes the AAD links with conditions inside the body:\n\n- **blue** nails with low oxygen in the blood\n- **pale** nails with anemia\n- **thick, yellow** nails that have stopped growing with a disease that needs a physician\n\nOther changes come from habits or the salon. Picking at the cuticles can cause ridges and grooves. An overly aggressive manicure or cleaning under the nail with a sharp object can make the nail lift from the nail bed. Yellow staining can come from red polish worn without base coat.\n\nIn clients with darker skin, a bluish color may be easier to see in the nail beds and lips.\n\nThen decide: go ahead, change the service, or do not service the area and refer the client to a physician. You describe what you see; you never name the condition.",
+        "vi": "**Phân tích móng** (nail analysis) cho thợ biết dịch vụ có an toàn không và dịch vụ nào hợp với khách. Tẩy hết sơn trước và quan sát dưới ánh sáng tốt.\n\nMóng khỏe thì trơn, không nứt, giường móng hồng, da quanh móng không đỏ, sưng hay đau.\n\nHãy để ý các thay đổi. AAD cho biết thay đổi ở móng không phải lúc nào cũng là bệnh, nhưng thay đổi mới thì nên cho bác sĩ da liễu xem. Một số thay đổi AAD liên hệ với bệnh bên trong cơ thể:\n\n- móng **xanh tím** với thiếu oxy trong máu\n- móng **nhợt nhạt** với thiếu máu (anemia)\n- móng **dày, vàng** và ngưng mọc với bệnh cần đi bác sĩ\n\nCó những thay đổi do thói quen hoặc do làm móng. Cạy cuticle có thể tạo ra gờ và rãnh. Làm manicure quá mạnh tay hoặc dùng vật nhọn làm sạch dưới móng có thể làm móng tách khỏi giường móng. Móng ố vàng có thể do sơn đỏ không có sơn lót (base coat).\n\nỞ khách da sẫm màu, màu xanh tím có thể dễ thấy hơn ở giường móng và môi.\n\nSau đó quyết định: làm bình thường, điều chỉnh dịch vụ, hoặc không làm vùng đó và giới thiệu khách đến bác sĩ. Thợ mô tả điều mình thấy, không bao giờ nói tên bệnh."
+      },
+      "keyPoints": {
+        "en": [
+          "Remove polish and analyze nails and skin in good light before every service.",
+          "A healthy nail is smooth, with a pink nail bed and calm skin around it.",
+          "Color changes such as blue or pale nails can be linked to health problems: refer, don't diagnose.",
+          "Aggressive manicuring and picking can damage nails, so work gently."
+        ],
+        "vi": [
+          "Tẩy sơn và phân tích móng, da dưới ánh sáng tốt trước mỗi dịch vụ.",
+          "Móng khỏe thì trơn, giường móng hồng và da quanh móng bình thường.",
+          "Thay đổi màu như móng xanh tím hay nhợt nhạt có thể liên quan đến bệnh: giới thiệu đi bác sĩ, không chẩn đoán.",
+          "Làm móng mạnh tay và cạy móng có thể làm hại móng, nên làm nhẹ nhàng."
+        ]
+      },
+      "commonMistake": {
+        "en": "Telling a client with pale nails that she is anemic. The technician only describes the change and suggests she see a physician.",
+        "vi": "Nói với khách có móng nhợt nhạt rằng khách bị thiếu máu. Thợ chỉ mô tả thay đổi và gợi ý khách đi bác sĩ."
+      },
+      "examTip": {
+        "en": "When an answer pairs a nail change with a diagnosis by the technician, it is wrong. Choose the answer that describes the change and refers.",
+        "vi": "Đáp án nào cho thợ chẩn đoán bệnh từ thay đổi ở móng là sai. Hãy chọn đáp án mô tả thay đổi và giới thiệu khách đến bác sĩ."
+      },
+      "glossaryTermIds": [
+        "term_nail_analysis",
+        "term_nail_bed",
+        "term_onycholysis",
+        "term_cyanosis",
+        "term_physician_referral"
+      ],
+      "image": null,
+      "diagram": {
+        "asset": "diagrams/nail_top.svg"
+      },
+      "sourceRefs": [
+        "NIC Nail Technology Theory content outline: Client Consultation",
+        "PSI California manicurist outline: Client Consultation and Nail Analysis",
+        "AAD: Nail changes a dermatologist should examine",
+        "MedlinePlus: Skin discoloration - bluish"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "AI fact-check",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_contraindications_referrals",
+      "rev": 1,
+      "status": "active",
+      "domain": "consultation_analysis",
+      "topicGroup": "contraindications",
+      "order": 43,
+      "isFree": false,
+      "title": {
+        "en": "Contraindications and referrals",
+        "vi": "Chống chỉ định và giới thiệu đến bác sĩ"
+      },
+      "body": {
+        "en": "A **contraindication** is a condition that means a service or product should not be used, or must be changed, for a client.\n\n**Do not service the area** when you see signs of infection, such as redness, swelling and pus, or skin that is inflamed or broken. A client with a condition that can spread by touch or tools is referred to a physician. Bloodborne diseases are handled with **universal precautions** for every client.\n\n**Change the service** for clients with health conditions:\n\n- **Diabetes** can cause nerve damage, so check the water temperature yourself and never cut the skin.\n- **Poor circulation**, such as **peripheral artery disease**, makes injuries heal slowly. Watch for cool, pale skin and sores.\n- **Blood thinners** make bleeding more likely. Work extra gently.\n- During **cancer treatment**, the client should check with her care team first.\n\n**Allergies** can get worse over time. Stop using a product that causes a reaction and suggest the client see a physician. If a client has facial swelling or wheezing, call 911 right away.\n\nWhen you refer, explain your concern in general terms, record it, and stay firm even if the client insists. A nail technician never diagnoses or treats.",
+        "vi": "**Chống chỉ định** (contraindication) là tình trạng khiến một dịch vụ hay sản phẩm không được dùng, hoặc phải điều chỉnh, cho một khách hàng.\n\n**Không làm trên vùng đó** khi thấy dấu hiệu nhiễm trùng như đỏ, sưng, có mủ, hoặc da bị viêm hay bị hở. Khách có bệnh có thể lây qua tiếp xúc hay dụng cụ thì được giới thiệu đến bác sĩ. Bệnh lây qua máu được phòng ngừa bằng **biện pháp phòng ngừa phổ quát** (universal precautions) với mọi khách.\n\n**Điều chỉnh dịch vụ** cho khách có bệnh lý:\n\n- **Tiểu đường** có thể làm tổn thương dây thần kinh, nên thợ tự kiểm tra nhiệt độ nước và không bao giờ cắt da.\n- **Tuần hoàn kém**, như **bệnh động mạch ngoại biên** (PAD), làm vết thương lâu lành. Để ý da lạnh, nhợt và vết loét.\n- **Thuốc loãng máu** làm dễ chảy máu hơn. Làm thật nhẹ tay.\n- Trong thời gian **điều trị ung thư**, khách nên hỏi đội ngũ bác sĩ điều trị trước.\n\n**Dị ứng** có thể nặng hơn theo thời gian. Ngưng dùng sản phẩm gây phản ứng và gợi ý khách đi bác sĩ. Nếu khách bị sưng mặt hoặc thở khò khè, gọi 911 ngay.\n\nKhi giới thiệu khách đi bác sĩ, hãy giải thích chung chung điều mình lo ngại, ghi vào hồ sơ, và giữ quyết định dù khách nài nỉ. Thợ nail không bao giờ chẩn đoán hay điều trị bệnh."
+      },
+      "keyPoints": {
+        "en": [
+          "Signs of infection or broken skin: do not service the area; refer the client to a physician.",
+          "Diabetes, poor circulation and blood thinners call for gentle work and no cutting.",
+          "Stop any product that causes a reaction; call 911 for facial swelling or wheezing.",
+          "Explain the concern in general terms, record it, and keep to the decision."
+        ],
+        "vi": [
+          "Có dấu hiệu nhiễm trùng hoặc da hở: không làm trên vùng đó, giới thiệu khách đến bác sĩ.",
+          "Khách bị tiểu đường, tuần hoàn kém hoặc dùng thuốc loãng máu thì phải làm nhẹ tay và không cắt da.",
+          "Ngưng sản phẩm gây phản ứng; gọi 911 nếu khách sưng mặt hoặc thở khò khè.",
+          "Giải thích chung chung điều lo ngại, ghi vào hồ sơ và giữ quyết định."
+        ]
+      },
+      "commonMistake": {
+        "en": "Servicing an infected nail because the client says she doesn't mind. Her permission doesn't make the service safe; skip that nail and refer her to a physician.",
+        "vi": "Làm móng bị nhiễm trùng vì khách nói không sao. Khách cho phép không làm dịch vụ an toàn hơn; hãy bỏ qua móng đó và giới thiệu khách đến bác sĩ."
+      },
+      "examTip": {
+        "en": "The safe answer stops or changes the service and refers to a physician. It never names a disease or suggests a medicine.",
+        "vi": "Đáp án an toàn là ngưng hoặc điều chỉnh dịch vụ và giới thiệu đến bác sĩ, không bao giờ nói tên bệnh hay khuyên dùng thuốc."
+      },
+      "glossaryTermIds": [
+        "term_contraindication",
+        "term_physician_referral",
+        "term_contagious_condition",
+        "term_peripheral_neuropathy",
+        "term_peripheral_artery_disease",
+        "term_blood_thinner",
+        "term_anaphylaxis"
+      ],
+      "image": null,
+      "diagram": null,
+      "sourceRefs": [
+        "NIC Nail Technology Theory content outline: Client Consultation",
+        "PSI California manicurist outline: Client Consultation and Nail Analysis",
+        "CDC: Diabetes and your feet",
+        "MedlinePlus: Peripheral artery disease - legs (symptoms; risk factors)",
+        "MedlinePlus: Blood Thinners",
+        "NCI: Skin and Nail Changes during Cancer Treatment (nail care tips)",
+        "FDA: Allergens in cosmetics (sensitivity can become more severe over time; anaphylaxis)",
+        "MedlinePlus: Paronychia"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "AI fact-check",
         "date": "2026-11-03"
       }
     },
@@ -250,7 +777,311 @@
       ],
       "review": {
         "status": "approved",
-        "reviewer": "R1",
+        "reviewer": "AI fact-check",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_nail_tips_basics",
+      "rev": 1,
+      "status": "active",
+      "domain": "enhancements",
+      "topicGroup": "tips",
+      "order": 81,
+      "isFree": false,
+      "title": {
+        "en": "Nail tips basics",
+        "vi": "Cơ bản về móng típ"
+      },
+      "body": {
+        "en": "A **nail tip** is a ready-made plastic nail glued to the free edge to add length. On its own it is thin and breaks easily, so it is almost always covered with an **overlay** of gel, liquid and powder, or a wrap.\n\nThe **well** is the thinner part that is glued to the natural nail. The **position stop** is the edge of the well, where the natural free edge rests.\n\n**Choose the right size.** The tip should cover the nail from sidewall to sidewall and match its curve. A tip that is too narrow leaves the sides unsupported, and one that is too flat is under tension, so both can crack or pop off.\n\n**Apply it in order:**\n\n- Clean the nail and buff off the shine.\n- Shorten and shape the free edge so it fits the well.\n- Use a thin, even layer of adhesive and set the tip at an angle, then rock it down to push out air.\n- Hold it until it sets, cut it to length with a **tip cutter**, then blend the seam.\n\nWhen blending, file only the tip, never the natural nail plate. Keep adhesive off the skin. OSHA lists toluene in some nail glues, so close bottles tightly and keep the ventilation on.",
+        "vi": "**Móng típ (nail tip)** là móng nhựa làm sẵn, gắn bằng keo vào đầu móng để làm móng dài ra. Móng típ một mình thì mỏng và dễ gãy, nên hầu như luôn được phủ một lớp **overlay** bằng gel, bột và nước, hoặc bọc vải.\n\n**Well** là phần mỏng hơn được gắn vào móng thật. **Position stop** là mép của phần well, nơi đầu móng thật tựa vào.\n\n**Chọn đúng cỡ.** Móng típ phải phủ từ thành móng bên này sang bên kia và vừa với độ cong của móng. Móng típ quá hẹp để hai bên không được đỡ, còn móng típ quá phẳng thì bị căng, nên cả hai đều dễ nứt hoặc bật ra.\n\n**Gắn theo thứ tự:**\n\n- Làm sạch móng và chà mất bóng.\n- Cắt ngắn và dũa dáng đầu móng cho vừa phần well.\n- Quét một lớp keo mỏng, đều, đặt móng típ nghiêng rồi hạ từ từ xuống để đẩy hết không khí ra.\n- Giữ đến khi keo khô, cắt độ dài bằng **kềm cắt típ (tip cutter)**, rồi dũa mờ đường nối.\n\nKhi dũa mờ, chỉ dũa trên móng típ, không bao giờ dũa vào mặt móng thật. Không để keo dính da. OSHA liệt kê toluene trong một số loại keo dán móng, nên hãy đậy chặt chai và luôn bật hút gió."
+      },
+      "keyPoints": {
+        "en": [
+          "A tip adds length; an overlay adds strength.",
+          "The free edge rests against the position stop at the edge of the well.",
+          "Fit the tip from sidewall to sidewall and match the nail's curve.",
+          "Rock the tip down to push out air, then cut and blend.",
+          "Blend only the tip, never the natural nail."
+        ],
+        "vi": [
+          "Móng típ làm móng dài; overlay làm móng chắc.",
+          "Đầu móng thật tựa vào position stop ở mép phần well.",
+          "Chọn móng típ vừa từ thành móng bên này sang bên kia và hợp độ cong móng.",
+          "Hạ móng típ từ từ để đẩy không khí ra, rồi cắt và dũa mờ.",
+          "Chỉ dũa mờ trên móng típ, không dũa vào móng thật."
+        ]
+      },
+      "commonMistake": {
+        "en": "Filing the seam until the natural nail under it is thin. This weakens the nail plate. Only the tip should be filed when blending.",
+        "vi": "Dũa đường nối đến khi móng thật bên dưới bị mỏng. Việc này làm yếu mặt móng. Khi dũa mờ chỉ được dũa trên móng típ."
+      },
+      "examTip": {
+        "en": "Remember: well, position stop, then overlay. A tip without an overlay is weak.",
+        "vi": "Nhớ: well, position stop, rồi overlay. Móng típ không có overlay thì yếu."
+      },
+      "glossaryTermIds": [
+        "term_nail_tip",
+        "term_tip_well",
+        "term_position_stop",
+        "term_overlay",
+        "term_tip_cutter",
+        "term_nail_adhesive"
+      ],
+      "image": null,
+      "diagram": null,
+      "sourceRefs": [
+        "NIC Nail Technology Theory content outline: Nail Enhancements (nail tips)",
+        "OSHA: Health Hazards in Nail Salons, chemical hazards (chemicals in nail products and health effects)",
+        "OSHA: Health Hazards in Nail Salons, chemical hazards (work practices)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "AI fact-check",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_nail_wraps_basics",
+      "rev": 1,
+      "status": "active",
+      "domain": "enhancements",
+      "topicGroup": "wraps",
+      "order": 82,
+      "isFree": false,
+      "title": {
+        "en": "Nail wraps basics",
+        "vi": "Cơ bản về bọc móng"
+      },
+      "body": {
+        "en": "A **nail wrap** is a thin layer of fabric bonded to the nail with resin. Wraps strengthen weak natural nails, mend small splits, and can be used as an overlay over tips.\n\n**Common fabrics:**\n\n- **Silk** is thin and light and turns almost clear with resin, so it looks natural.\n- **Fiberglass** is a synthetic mesh with a loose weave that lets resin soak through.\n- **Linen** is heavier and strong, but it stays visible, so it is usually covered with colored polish.\n\n**Wrap resin** soaks into the fabric and bonds it to the nail. A **resin accelerator**, sprayed, brushed or dropped on, speeds up hardening. Use it at the distance the label directs, never toward anyone's face, and with the ventilation on.\n\nCut the fabric so it stops just short of the cuticle area and sidewalls. Fabric or resin on the skin causes lifting and irritation. Seal the very tip of the free edge with resin so the fabric does not fray.\n\nFor a crack across the stress area, a small **stress strip** of fabric sealed with resin adds strength. When smoothing, buff the hardened resin only. Filing into the fabric cuts the fibers and weakens the wrap.\n\nWraps are removed by soaking until the resin softens, never by peeling.",
+        "vi": "**Bọc móng (nail wrap)** là một lớp vải mỏng được gắn vào móng bằng resin. Bọc móng giúp móng thật yếu chắc hơn, vá các vết nứt nhỏ, và có thể dùng làm lớp overlay phủ lên móng típ.\n\n**Các loại vải thường dùng:**\n\n- **Lụa (silk)** mỏng, nhẹ và gần như trong suốt khi thấm resin, nên trông tự nhiên.\n- **Sợi thủy tinh (fiberglass)** là lưới sợi tổng hợp dệt thưa, giúp resin thấm qua dễ.\n- **Vải lanh (linen)** dày và chắc nhưng vẫn thấy rõ, nên thường được sơn màu phủ lên.\n\n**Wrap resin** thấm vào vải và gắn vải vào móng. **Chất xúc tác (resin accelerator)** dạng xịt, quét hoặc nhỏ giọt giúp resin cứng nhanh hơn. Dùng đúng khoảng cách trên nhãn, không bao giờ hướng về mặt người khác, và luôn bật hút gió.\n\nCắt vải sao cho cách da gốc móng và hai bên thành móng một chút. Vải hoặc resin dính da sẽ làm móng bị hở và gây kích ứng. Quét resin bịt kín mép đầu móng để vải không bị tưa.\n\nVới vết nứt ngang vùng chịu lực, một miếng **stress strip** nhỏ quét resin bịt kín sẽ giúp móng chắc hơn. Khi dũa láng, chỉ dũa lớp resin đã cứng. Dũa vào vải sẽ làm đứt sợi và làm yếu lớp bọc.\n\nBọc móng được tháo bằng cách ngâm đến khi resin mềm, không bao giờ lột ra."
+      },
+      "keyPoints": {
+        "en": [
+          "Silk looks natural, fiberglass has a loose weave, linen is strong but visible.",
+          "Resin bonds the fabric; accelerator speeds up hardening.",
+          "Keep fabric and resin just short of the skin and seal the free edge.",
+          "Use a stress strip to reinforce a crack across the stress area.",
+          "Never file into the fabric or peel a wrap off."
+        ],
+        "vi": [
+          "Lụa trông tự nhiên, sợi thủy tinh dệt thưa, vải lanh chắc nhưng thấy rõ.",
+          "Resin gắn vải; chất xúc tác làm resin cứng nhanh hơn.",
+          "Để vải và resin cách da một chút và bịt kín đầu móng.",
+          "Dùng stress strip để gia cố vết nứt ngang vùng chịu lực.",
+          "Không dũa vào vải và không lột lớp bọc ra."
+        ]
+      },
+      "commonMistake": {
+        "en": "Laying the fabric right up to the cuticle so the whole nail is covered. Fabric that touches the skin lifts early and can irritate the client's skin.",
+        "vi": "Đặt vải sát tận da gốc móng cho phủ kín cả móng. Vải chạm da sẽ sớm bị hở và có thể gây kích ứng da khách."
+      },
+      "examTip": {
+        "en": "Remember: silk for a natural look, linen needs color on top, and fabric never touches the skin.",
+        "vi": "Nhớ: lụa cho vẻ tự nhiên, vải lanh cần sơn màu phủ lên, và vải không bao giờ được chạm da."
+      },
+      "glossaryTermIds": [
+        "term_nail_wrap",
+        "term_silk_wrap",
+        "term_fiberglass_wrap",
+        "term_linen_wrap",
+        "term_wrap_resin",
+        "term_resin_accelerator",
+        "term_stress_strip"
+      ],
+      "image": null,
+      "diagram": null,
+      "sourceRefs": [
+        "NIC Nail Technology Theory content outline: Nail Enhancements (wraps)",
+        "OSHA: Health Hazards in Nail Salons, chemical hazards (work practices)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "AI fact-check",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_light_cured_gel_basics",
+      "rev": 1,
+      "status": "active",
+      "domain": "enhancements",
+      "topicGroup": "gel",
+      "order": 83,
+      "isFree": false,
+      "title": {
+        "en": "Light-cured gel basics",
+        "vi": "Cơ bản về gel đèn"
+      },
+      "body": {
+        "en": "Light-cured gel stays soft until it is placed under the right lamp. Ingredients called **photoinitiators** react to the lamp's light and start the hardening. Liquid and powder, by contrast, hardens after the liquid and powder are mixed.\n\n**Types of gel:**\n\n- **Soak-off gel** softens in acetone, so it can be removed by soaking.\n- **Hard gel** does not soften in acetone, so it is filed off.\n- **Builder gel** is thicker and builds strength, length and the apex.\n\nA typical gel overlay goes in this order: prepare the nail, cure a thin base gel, build and cure the builder gel, then cure the top coat. Many gels leave a sticky **inhibition layer**; remove it only if the directions say so.\n\n**Cure it right.** Use the lamp type and time the gel maker recommends, and apply thin layers. Cure thumbs separately so the nail faces the light. Under-cured gel is weaker and more likely to cause skin allergy.\n\nKeep gel off the skin, cap the free edge, and store gel closed and away from light. FDA views curing lamps as low risk when used as labeled, and suggests sunscreen or UV-absorbing gloves. The AAD notes LED lights give off less UV and cure faster.",
+        "vi": "Gel đèn vẫn mềm cho đến khi được hơ dưới đúng loại đèn. Các chất gọi là **photoinitiator** phản ứng với ánh sáng của đèn và làm gel bắt đầu cứng lại. Ngược lại, bột và nước tự cứng lại sau khi trộn nước với bột.\n\n**Các loại gel:**\n\n- **Gel soak-off** mềm ra trong acetone, nên có thể tháo bằng cách ngâm.\n- **Gel cứng (hard gel)** không mềm trong acetone, nên phải dũa ra.\n- **Builder gel** đặc hơn, dùng để tạo độ chắc, độ dài và apex.\n\nMột lớp phủ gel thường làm theo thứ tự: chuẩn bị móng, quét và hơ một lớp gel nền mỏng, đắp và hơ builder gel, rồi quét và hơ top coat. Nhiều loại gel để lại một **lớp dính (inhibition layer)**; chỉ lau đi nếu hướng dẫn yêu cầu.\n\n**Hơ đúng cách.** Dùng đúng loại đèn và thời gian mà nhà sản xuất gel khuyên, và quét từng lớp mỏng. Hơ riêng ngón cái để móng hướng thẳng vào đèn. Gel chưa khô hoàn toàn sẽ yếu hơn và dễ gây dị ứng da hơn.\n\nKhông để gel dính da, bọc kín đầu móng, và cất gel đậy kín, tránh ánh sáng. FDA xem đèn hơ móng là ít rủi ro khi dùng đúng nhãn, và khuyên dùng kem chống nắng hoặc găng chống tia UV. AAD cho biết đèn LED phát ít tia UV hơn và làm khô nhanh hơn."
+      },
+      "keyPoints": {
+        "en": [
+          "Gel hardens only under the right lamp, through photoinitiators.",
+          "Soak-off gel soaks off; hard gel is filed off.",
+          "Base gel bonds, builder gel builds, top coat seals.",
+          "Thin layers, the maker's lamp and time, thumbs cured separately.",
+          "Keep uncured gel off the skin."
+        ],
+        "vi": [
+          "Gel chỉ cứng lại dưới đúng loại đèn, nhờ photoinitiator.",
+          "Gel soak-off tháo bằng cách ngâm; gel cứng phải dũa ra.",
+          "Gel nền giúp bám, builder gel tạo dáng, top coat phủ kín.",
+          "Quét lớp mỏng, đúng đèn và thời gian của nhà sản xuất, hơ riêng ngón cái.",
+          "Không để gel chưa khô dính da."
+        ]
+      },
+      "commonMistake": {
+        "en": "Applying one thick coat to save time. A thick layer may not cure all the way through, leaving uncured gel that can sensitize the skin, and it can cause a sudden burst of heat under the lamp.",
+        "vi": "Quét một lớp thật dày cho nhanh. Lớp dày có thể không khô hết bên trong, để lại gel chưa khô dễ làm da bị dị ứng, và có thể gây nóng rát đột ngột dưới đèn."
+      },
+      "examTip": {
+        "en": "Remember: hard gel is filed off, soak-off gel is soaked off, and always cure with the maker's lamp.",
+        "vi": "Nhớ: gel cứng phải dũa, gel soak-off thì ngâm, và luôn hơ bằng đèn mà nhà sản xuất khuyên dùng."
+      },
+      "glossaryTermIds": [
+        "term_photoinitiator",
+        "term_soak_off_gel",
+        "term_hard_gel",
+        "term_builder_gel",
+        "term_inhibition_layer",
+        "term_nail_curing_lamp"
+      ],
+      "image": null,
+      "diagram": null,
+      "sourceRefs": [
+        "NIC Nail Technology Theory content outline: Nail Enhancements (light-cured gel)",
+        "FDA: Nail curing lamps (consumer update \"How to Safely Use Nail Care Products\")",
+        "AAD: Artificial nails: Dermatologists' tips for reducing nail damage"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "AI fact-check",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_dip_powder_basics",
+      "rev": 1,
+      "status": "active",
+      "domain": "enhancements",
+      "topicGroup": "dip",
+      "order": 84,
+      "isFree": false,
+      "title": {
+        "en": "Dip powder basics",
+        "vi": "Cơ bản về bột nhúng"
+      },
+      "body": {
+        "en": "A **dip powder** enhancement is built from layers of an adhesive base and fine powder. An **activator** then hardens the layers. Dip powder does not need a curing lamp.\n\n**Main steps:** prepare the nail, brush on the base adhesive, apply the powder, repeat to build thickness, apply activator, then shape and finish with top coat.\n\n**Keep it hygienic.** The AAD warns that dipping into a container other people have dipped into could lead to a serious nail infection or a wart. Instead:\n\n- Pour each client's powder into a disposable container and throw away what is left, or\n- Sprinkle the powder over the nail from the original container.\n\n**Keep the liquids apart.** Never let the activator brush touch the base adhesive or go into the base bottle, because activator can harden the base there. Close bottles between uses.\n\n**Allergy.** The AAD says the adhesives are the main cause of allergic reactions, which may appear hours to days after the service. A client with a skin reaction should have the product removed and be referred to a physician.\n\n**Removal** needs 100 percent acetone, which can thin the nails over time. The AAD suggests waiting one month before the next dip manicure; regular polish is fine in the meantime.",
+        "vi": "Móng **bột nhúng (dip powder)** được làm từ nhiều lớp keo nền và bột mịn. Sau đó **chất kích hoạt (activator)** làm cứng các lớp này. Bột nhúng không cần hơ đèn.\n\n**Các bước chính:** chuẩn bị móng, quét keo nền, phủ bột, lặp lại để tạo độ dày, quét activator, rồi dũa dáng và quét top coat.\n\n**Giữ vệ sinh.** AAD cảnh báo nhúng vào hũ bột mà người khác đã nhúng có thể gây nhiễm trùng móng nặng hoặc mụn cóc. Thay vào đó:\n\n- Đổ bột cho từng khách ra hộp dùng một lần rồi bỏ phần thừa, hoặc\n- Rắc bột từ hũ gốc lên móng.\n\n**Để riêng các loại nước.** Không bao giờ để cọ activator chạm vào keo nền hoặc nhúng vào chai keo nền, vì activator có thể làm keo cứng lại. Đậy chai giữa các lần dùng.\n\n**Dị ứng.** AAD cho biết chất keo là nguyên nhân chính gây dị ứng, và phản ứng có thể xuất hiện vài giờ đến vài ngày sau khi làm. Khách bị phản ứng da nên được tháo sản phẩm và được khuyên đi khám bác sĩ.\n\n**Tháo móng** cần acetone một trăm phần trăm, có thể làm móng mỏng dần. AAD khuyên chờ một tháng rồi mới làm bột nhúng lại; trong thời gian đó vẫn có thể sơn thường."
+      },
+      "keyPoints": {
+        "en": [
+          "Dip powder hardens with activator, not a lamp.",
+          "Never dip clients into a shared jar; pour a single portion or sprinkle.",
+          "Keep the activator brush away from the base adhesive.",
+          "Adhesives are the main allergy trigger; reactions can appear hours to days later.",
+          "Removal uses pure acetone, so allow breaks between services."
+        ],
+        "vi": [
+          "Bột nhúng cứng lại nhờ activator, không cần đèn.",
+          "Không nhúng khách vào hũ bột dùng chung; đổ riêng từng phần hoặc rắc bột.",
+          "Không để cọ activator chạm vào keo nền.",
+          "Chất keo là nguyên nhân chính gây dị ứng; phản ứng có thể xuất hiện sau vài giờ đến vài ngày.",
+          "Tháo móng dùng acetone nguyên chất, nên cần nghỉ giữa các lần làm."
+        ]
+      },
+      "commonMistake": {
+        "en": "Pouring leftover powder from a client's dish back into the main jar to save product. That powder has touched the client's nails and can carry germs to the next client.",
+        "vi": "Đổ phần bột thừa trong hộp của khách trở lại hũ chính cho đỡ tốn. Bột đó đã chạm móng khách và có thể mang vi khuẩn sang khách sau."
+      },
+      "examTip": {
+        "en": "Remember: no lamp for dip, no shared jars, and adhesives cause most allergies.",
+        "vi": "Nhớ: bột nhúng không cần đèn, không dùng chung hũ, và chất keo gây ra phần lớn các ca dị ứng."
+      },
+      "glossaryTermIds": [
+        "term_dip_powder",
+        "term_dip_activator",
+        "term_sensitization",
+        "term_physician_referral"
+      ],
+      "image": null,
+      "diagram": null,
+      "sourceRefs": [
+        "NIC Nail Technology Theory content outline: Nail Enhancements (dip powder)",
+        "AAD: Dip powder manicure: Dermatologists' tips"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "AI fact-check",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_enhancement_maintenance_removal",
+      "rev": 1,
+      "status": "active",
+      "domain": "enhancements",
+      "topicGroup": "maintenance",
+      "order": 85,
+      "isFree": false,
+      "title": {
+        "en": "Maintaining and removing enhancements",
+        "vi": "Bảo trì và tháo móng nhân tạo"
+      },
+      "body": {
+        "en": "As the natural nail grows, a band of new growth appears at the cuticle area and the **apex** moves forward. A **fill** covers the new growth and rebalances the nail. On a pink-and-white set, a **backfill** also files out the grown-out white and rebuilds the smile line.\n\n**Check every nail first.** If you see **lifting**, file the lifted product away; never glue it down, because that traps moisture and debris. If the skin around a nail is painful, red or swollen, or there is pus, do not service that nail and refer the client to a physician. If large areas have lifted or the product is damaged, a new set is better than a fill.\n\n**Safe removal:**\n\n- File down the bulk first so acetone can work faster. Hard gel is filed off, not soaked.\n- Soak until the product softens and slides off with gentle pushing. Never pry or clip it off.\n- Acetone is highly flammable and can cause headaches, dizziness and irritation, so keep it away from heat, keep the ventilation on and wear suitable gloves.\n\nAfter removal, the nails may be thin. Suggest short nails, gentle buffing, moisturizing and a break from artificial nails. Remind clients to use their fingertips, not their nails, as tools.",
+        "vi": "Khi móng thật mọc dài, một khoảng móng mới xuất hiện ở vùng gốc móng và **apex** dịch ra phía trước. **Đổ móng (fill)** là đắp phủ phần móng mới mọc và cân chỉnh lại móng. Với bộ móng hồng trắng, **backfill** còn dũa bỏ phần bột trắng đã mọc dài và đắp lại đường smile line.\n\n**Kiểm tra từng móng trước.** Nếu thấy **móng bị hở (lifting)**, hãy dũa bỏ phần bị hở; không bao giờ dán keo đè lên, vì sẽ giữ hơi ẩm và bụi bẩn bên dưới. Nếu da quanh móng đau, đỏ, sưng, hoặc có mủ, không làm móng đó và khuyên khách đi khám bác sĩ. Nếu nhiều chỗ bị hở hoặc sản phẩm bị hư, làm bộ mới tốt hơn là đổ móng.\n\n**Tháo móng an toàn:**\n\n- Dũa bớt độ dày trước để acetone ngấm nhanh hơn. Gel cứng phải dũa ra, không ngâm.\n- Ngâm đến khi sản phẩm mềm và tuột ra khi đẩy nhẹ. Không bao giờ nạy hoặc cắt ra.\n- Acetone rất dễ cháy và có thể gây nhức đầu, chóng mặt và kích ứng, nên để xa nguồn nhiệt, luôn bật hút gió và đeo găng phù hợp.\n\nSau khi tháo, móng có thể bị mỏng. Hãy khuyên khách để móng ngắn, chà nhẹ, dưỡng ẩm và nghỉ làm móng nhân tạo một thời gian. Nhắc khách dùng đầu ngón tay, không dùng móng, để làm việc."
+      },
+      "keyPoints": {
+        "en": [
+          "A fill covers new growth and moves the apex back over the stress area.",
+          "File away lifted product; never glue over it.",
+          "Painful, red, swollen skin or pus means no service and a physician referral.",
+          "Reduce bulk, soak until soft, and never pry product off.",
+          "Acetone is flammable: no heat, good ventilation, suitable gloves."
+        ],
+        "vi": [
+          "Đổ móng là đắp phần móng mới mọc và đưa apex trở lại vùng chịu lực.",
+          "Dũa bỏ phần bị hở; không dán keo đè lên.",
+          "Da đau, đỏ, sưng hoặc có mủ thì không làm móng và khuyên khách đi khám bác sĩ.",
+          "Dũa bớt độ dày, ngâm đến khi mềm, và không bao giờ nạy sản phẩm ra.",
+          "Acetone dễ cháy: tránh nguồn nhiệt, thông gió tốt, đeo găng phù hợp."
+        ]
+      },
+      "commonMistake": {
+        "en": "Prying off product that has not fully softened to save time. It tears off layers of the natural nail plate. Soak a little longer instead.",
+        "vi": "Nạy sản phẩm ra khi chưa mềm hẳn cho nhanh. Việc này làm bong các lớp của mặt móng thật. Hãy ngâm thêm một chút."
+      },
+      "examTip": {
+        "en": "Remember: fill the new growth, file away lifting, and soak, never pry.",
+        "vi": "Nhớ: đổ phần móng mới mọc, dũa bỏ chỗ hở, và ngâm chứ không nạy."
+      },
+      "glossaryTermIds": [
+        "term_fill",
+        "term_lifting",
+        "term_soak_off",
+        "term_apex",
+        "term_smile_line",
+        "term_physician_referral"
+      ],
+      "image": null,
+      "diagram": null,
+      "sourceRefs": [
+        "NIC Nail Technology Theory content outline: Nail Enhancements (maintenance)",
+        "NIC Nail Technology Theory content outline: Nail Enhancements (removal)",
+        "OSHA: Health Hazards in Nail Salons, chemical hazards (chemicals in nail products and health effects)",
+        "AAD: Artificial nails: Dermatologists' tips for reducing nail damage",
+        "MedlinePlus: Paronychia (symptoms)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "AI fact-check",
         "date": "2026-11-03"
       }
     },
@@ -314,7 +1145,385 @@
       ],
       "review": {
         "status": "approved",
-        "reviewer": "R1",
+        "reviewer": "AI fact-check",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_infection_principles",
+      "rev": 1,
+      "status": "active",
+      "domain": "infection_control_safety",
+      "topicGroup": "principles",
+      "order": 11,
+      "isFree": false,
+      "title": {
+        "en": "How germs spread and how to stop them",
+        "vi": "Mầm bệnh lây như thế nào và cách ngăn chặn"
+      },
+      "body": {
+        "en": "Infection control starts with knowing what you are fighting. A **pathogen** is any microorganism that can cause disease. In the salon the main ones are bacteria, viruses and fungi.\n\n**Bacteria** are single cells. They are named by shape: round **cocci**, rod-shaped **bacilli** and spiral **spirilla**. Cocci in clusters are staphylococci, and cocci in chains are streptococci. Some bacteria form **spores**, a tough resting form that survives drying and most disinfectants.\n\n**Viruses** are not cells at all. They can only reproduce inside a living host cell. Hepatitis B and HIV are viruses carried in blood.\n\n**Fungi** include yeasts and molds. They cause nail fungus and athlete's foot and can spread on tools that were not cleaned and disinfected.\n\nGerms travel in different ways:\n- **Direct contact**, such as touching infected skin.\n- **Indirect contact**, through a dirty file, towel or surface.\n- **Droplets** from a cough or sneeze at close range.\n\nThe CDC's **Standard Precautions** protect you from all of these. Treat all blood and body fluids, except sweat, plus broken skin and mucous membranes as possibly infectious, for every client. Clean your hands before and after each client, wear gloves when you might touch blood, and never serve skin that is inflamed, broken or infected.",
+        "vi": "Kiểm soát nhiễm khuẩn bắt đầu từ việc hiểu mình đang chống lại cái gì. **Mầm bệnh (pathogen)** là bất kỳ vi sinh vật nào có thể gây bệnh. Trong tiệm, chủ yếu là vi khuẩn, virus và nấm.\n\n**Vi khuẩn (bacteria)** là sinh vật đơn bào. Chúng được gọi tên theo hình dạng: hình tròn là **cầu khuẩn (cocci)**, hình que là **trực khuẩn (bacilli)**, hình xoắn là **xoắn khuẩn (spirilla)**. Cầu khuẩn mọc thành chùm là tụ cầu khuẩn (staphylococci), mọc thành chuỗi là liên cầu khuẩn (streptococci). Một số vi khuẩn tạo **bào tử (spores)**, dạng ngủ yên rất bền, chịu được khô hạn và hầu hết thuốc khử trùng.\n\n**Virus** không phải là tế bào. Virus chỉ sinh sản được bên trong tế bào sống của vật chủ. Viêm gan B và HIV là virus có trong máu.\n\n**Nấm (fungi)** gồm nấm men và nấm mốc. Nấm gây nấm móng và nấm chân (athlete's foot), và có thể lây qua dụng cụ chưa được làm sạch và khử trùng.\n\nMầm bệnh lây theo nhiều đường:\n- **Tiếp xúc trực tiếp**, như chạm vào da bị nhiễm trùng.\n- **Tiếp xúc gián tiếp**, qua dũa, khăn hoặc bề mặt dơ.\n- **Giọt bắn (droplets)** khi bị ho hoặc hắt hơi ở khoảng cách gần.\n\n**Biện pháp phòng ngừa chuẩn (Standard Precautions)** của CDC giúp bạn phòng tất cả các đường lây này. Với mọi khách, hãy coi tất cả máu và dịch cơ thể, trừ mồ hôi, cùng với da trầy rách và niêm mạc, đều có thể lây bệnh. Rửa tay trước và sau mỗi khách, đeo găng khi có thể chạm vào máu, và không bao giờ làm trên vùng da bị sưng viêm, trầy rách hoặc nhiễm trùng."
+      },
+      "keyPoints": {
+        "en": [
+          "A pathogen is a microorganism that can cause disease: bacteria, viruses or fungi.",
+          "Bacteria are named by shape: cocci are round, bacilli are rods, spirilla are spirals.",
+          "Viruses reproduce only inside living host cells.",
+          "Some bacteria form spores that resist drying and most disinfectants.",
+          "Standard Precautions treat all blood and body fluids except sweat as possibly infectious."
+        ],
+        "vi": [
+          "Mầm bệnh là vi sinh vật có thể gây bệnh: vi khuẩn, virus hoặc nấm.",
+          "Vi khuẩn được gọi theo hình dạng: cầu khuẩn hình tròn, trực khuẩn hình que, xoắn khuẩn hình xoắn.",
+          "Virus chỉ sinh sản được bên trong tế bào sống của vật chủ.",
+          "Một số vi khuẩn tạo bào tử chịu được khô hạn và hầu hết thuốc khử trùng.",
+          "Phòng ngừa chuẩn coi tất cả máu và dịch cơ thể, trừ mồ hôi, đều có thể lây bệnh."
+        ]
+      },
+      "commonMistake": {
+        "en": "Thinking only clients who look sick can spread germs. A healthy-looking client can still carry a pathogen, so the same precautions are used for everyone.",
+        "vi": "Nghĩ rằng chỉ khách trông có vẻ bệnh mới lây mầm bệnh. Khách trông khỏe mạnh vẫn có thể mang mầm bệnh, nên phải dùng cùng một biện pháp phòng ngừa cho mọi người."
+      },
+      "examTip": {
+        "en": "Staph means clusters, strep means chains. Bacilli are rods.",
+        "vi": "Staph là mọc thành chùm, strep là mọc thành chuỗi. Bacilli là hình que."
+      },
+      "glossaryTermIds": [
+        "term_pathogen",
+        "term_bacteria",
+        "term_cocci",
+        "term_bacilli",
+        "term_virus",
+        "term_fungi",
+        "term_bacterial_spore",
+        "term_standard_precautions",
+        "term_droplet_transmission"
+      ],
+      "image": null,
+      "diagram": null,
+      "sourceRefs": [
+        "OpenStax Microbiology, Section 3.3 Unique Characteristics of Prokaryotic Cells",
+        "OpenStax Microbiology, Section 6.1 Viruses",
+        "CDC Guideline for Isolation Precautions (2007), Part III: Standard Precautions and Transmission-Based Precautions",
+        "OSHA Nail Salons: Biological Hazards",
+        "16 CCR §984(e) (California), checked 2026-11-03"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "AI fact-check",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_sterilization",
+      "rev": 1,
+      "status": "active",
+      "domain": "infection_control_safety",
+      "topicGroup": "sterilization",
+      "order": 12,
+      "isFree": false,
+      "title": {
+        "en": "Sterilization and how to check it",
+        "vi": "Tiệt trùng và cách kiểm tra"
+      },
+      "body": {
+        "en": "**Sterilization** destroys all microbial life, including bacterial spores. Disinfection does not reliably kill spores, which is why the two are not the same.\n\nIn a salon, sterilization usually means a **steam autoclave**, which uses saturated steam under pressure. Some salons also use dry heat sterilizers. Always follow the sterilizer manufacturer's instructions.\n\nGood results depend on the steps before and after the cycle:\n- **Clean first.** Remove debris and wash tools with soap or detergent and water. Steam cannot sterilize what it cannot reach.\n- **Load loosely.** Arrange items so steam can circulate freely around each one.\n- **Store carefully.** Keep packages off the floor, away from outside walls and never under a sink. A package that gets wet or torn is no longer sterile.\n\nThere are three ways to check a sterilizer:\n- **Mechanical monitoring**: reading the time, temperature and pressure for each cycle.\n- **Chemical indicators**: strips or marks that change color. They show the package went through a cycle, but they do not prove it is sterile.\n- **Biological indicators**, or spore tests: highly resistant bacterial spores are run through a cycle. The CDC recommends at least weekly testing. If a test is positive, repeat it. If it is still positive, stop using the sterilizer until it is serviced.",
+        "vi": "**Tiệt trùng (sterilization)** diệt toàn bộ vi sinh vật, kể cả bào tử vi khuẩn. Khử trùng không chắc diệt được bào tử, nên hai việc này không giống nhau.\n\nTrong tiệm, tiệt trùng thường dùng **nồi hấp hơi nước (autoclave)**, hoạt động bằng hơi nước bão hòa dưới áp suất. Một số tiệm còn dùng máy tiệt trùng nhiệt khô. Luôn làm theo hướng dẫn của nhà sản xuất máy.\n\nKết quả tốt tùy vào các bước trước và sau chu trình:\n- **Làm sạch trước.** Lấy hết mảnh vụn và rửa dụng cụ bằng xà phòng hoặc chất tẩy rửa với nước. Hơi nước không chạm tới đâu thì không tiệt trùng được chỗ đó.\n- **Xếp đồ thưa.** Sắp xếp sao cho hơi nước lưu thông tự do quanh từng món.\n- **Cất cẩn thận.** Để các gói cao khỏi sàn, cách xa tường ngoài và không bao giờ để dưới bồn rửa. Gói bị ướt hoặc rách thì không còn vô trùng.\n\nCó ba cách kiểm tra máy tiệt trùng:\n- **Kiểm tra cơ học**: đọc thời gian, nhiệt độ và áp suất của mỗi chu trình.\n- **Chỉ thị hóa học (chemical indicators)**: miếng dán hoặc vạch đổi màu. Chúng cho thấy gói đã qua chu trình, nhưng không chứng minh được gói đã vô trùng.\n- **Chỉ thị sinh học (biological indicators)**, tức thử bào tử: cho bào tử vi khuẩn rất bền chạy qua một chu trình. CDC khuyên thử ít nhất mỗi tuần một lần. Nếu kết quả dương tính, thử lại. Nếu vẫn dương tính, ngưng dùng máy cho tới khi được sửa chữa, bảo trì."
+      },
+      "keyPoints": {
+        "en": [
+          "Sterilization kills all microbial life, including spores.",
+          "Clean tools before sterilizing, and load so steam reaches every item.",
+          "A wet or torn package is considered contaminated.",
+          "Chemical indicators show a cycle happened; spore tests show it worked.",
+          "If a repeat spore test is positive, stop using the sterilizer until it is serviced."
+        ],
+        "vi": [
+          "Tiệt trùng diệt toàn bộ vi sinh vật, kể cả bào tử.",
+          "Làm sạch dụng cụ trước khi tiệt trùng, và xếp đồ sao cho hơi nước tới được từng món.",
+          "Gói bị ướt hoặc rách được xem là đã nhiễm bẩn.",
+          "Chỉ thị hóa học cho biết đã chạy chu trình; thử bào tử cho biết chu trình có hiệu quả.",
+          "Nếu thử lại bào tử vẫn dương tính, ngưng dùng máy cho tới khi được sửa chữa, bảo trì."
+        ]
+      },
+      "commonMistake": {
+        "en": "Trusting a color-changed strip as proof of sterility. The strip only shows the package was exposed to the process. Only a spore test checks that the cycle killed resistant microbes.",
+        "vi": "Tin rằng miếng chỉ thị đổi màu là bằng chứng đã vô trùng. Miếng chỉ thị chỉ cho thấy gói đã qua quy trình. Chỉ có thử bào tử mới kiểm tra được chu trình đã diệt các vi sinh vật khó diệt."
+      },
+      "examTip": {
+        "en": "Spores mean sterilization. Spore test means biological indicator.",
+        "vi": "Bào tử là tiệt trùng. Thử bào tử là chỉ thị sinh học."
+      },
+      "glossaryTermIds": [
+        "term_sterilization",
+        "term_autoclave",
+        "term_biological_indicator",
+        "term_chemical_indicator",
+        "term_bacterial_spore",
+        "term_cleaning"
+      ],
+      "image": null,
+      "diagram": null,
+      "sourceRefs": [
+        "CDC Guideline for Disinfection and Sterilization in Healthcare Facilities (2008), Sterilizing Practices",
+        "CDC Guideline for Disinfection and Sterilization in Healthcare Facilities (2008), Glossary",
+        "CDC Guideline for Disinfection and Sterilization in Healthcare Facilities (2008), Recommendations: Sterilizer monitoring"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "AI fact-check",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_bloodborne_pathogens",
+      "rev": 1,
+      "status": "active",
+      "domain": "infection_control_safety",
+      "topicGroup": "exposure",
+      "order": 13,
+      "isFree": false,
+      "title": {
+        "en": "Blood exposure and bloodborne pathogens",
+        "vi": "Phơi nhiễm máu và mầm bệnh qua đường máu"
+      },
+      "body": {
+        "en": "**Bloodborne pathogens** are germs carried in blood that can cause disease. The main ones are **hepatitis B**, **hepatitis C** and **HIV**. They spread when infected blood enters the body, for example through a cut or a splash into the eyes or mouth, even in amounts too small to see. They do not spread by sharing utensils or hugging.\n\nA vaccine can prevent hepatitis B. There is no vaccine for hepatitis C.\n\nOSHA's **Bloodborne Pathogens Standard** sets duties for employers whose workers may contact blood:\n- A written **exposure control plan**, reviewed at least once a year.\n- Training when a worker starts such tasks and at least once a year after that.\n- The hepatitis B vaccine offered at no cost within 10 working days of starting.\n- Gloves and other protective equipment at no cost.\n- Sharps containers that are closable, puncture-resistant, leakproof and labeled, replaced before they overfill.\n\nIf a client bleeds, put on gloves before touching anything with blood on it. Clean and disinfect surfaces the blood touched. If blood gets into a cut, wash it with soap and water. If it splashes into an eye, flush it with clean water. Report the exposure right away so the employer can arrange a confidential medical evaluation.",
+        "vi": "**Mầm bệnh qua đường máu (bloodborne pathogens)** là vi trùng có trong máu, có thể gây bệnh. Chủ yếu là **viêm gan B**, **viêm gan C** và **HIV**. Chúng lây khi máu nhiễm bệnh đi vào cơ thể, ví dụ qua vết cắt hoặc bị bắn vào mắt hay miệng, dù chỉ một lượng nhỏ không thấy được. Chúng không lây qua dùng chung muỗng nĩa hay ôm nhau.\n\nViêm gan B có vắc-xin ngừa. Viêm gan C thì không có vắc-xin.\n\n**Tiêu chuẩn Mầm bệnh qua Đường máu** của OSHA quy định trách nhiệm của chủ khi nhân viên có thể tiếp xúc với máu:\n- Có **kế hoạch kiểm soát phơi nhiễm (exposure control plan)** bằng văn bản, xem lại ít nhất mỗi năm một lần.\n- Huấn luyện khi nhân viên bắt đầu làm việc có nguy cơ và sau đó ít nhất mỗi năm một lần.\n- Cung cấp vắc-xin viêm gan B miễn phí trong vòng 10 ngày làm việc kể từ khi bắt đầu.\n- Cung cấp găng tay và đồ bảo hộ khác miễn phí.\n- Hộp đựng vật sắc nhọn đóng kín được, chống đâm thủng, không rò rỉ, có nhãn, và được thay trước khi đầy tràn.\n\nNếu khách chảy máu, đeo găng trước khi chạm vào bất cứ thứ gì dính máu. Làm sạch và khử trùng bề mặt có dính máu. Nếu máu dính vào vết cắt, rửa bằng xà phòng và nước. Nếu máu bắn vào mắt, xối mắt bằng nước sạch. Báo ngay việc phơi nhiễm để chủ sắp xếp khám và theo dõi y tế bảo mật."
+      },
+      "keyPoints": {
+        "en": [
+          "Hepatitis B, hepatitis C and HIV are the main bloodborne pathogens.",
+          "Hepatitis B has a vaccine; hepatitis C does not.",
+          "Employers offer the hepatitis B vaccine free within 10 working days of starting.",
+          "The exposure control plan and training are both renewed at least once a year.",
+          "Biohazard labels are fluorescent orange or orange-red."
+        ],
+        "vi": [
+          "Viêm gan B, viêm gan C và HIV là các mầm bệnh qua đường máu chính.",
+          "Viêm gan B có vắc-xin; viêm gan C thì không.",
+          "Chủ cung cấp vắc-xin viêm gan B miễn phí trong vòng 10 ngày làm việc kể từ khi bắt đầu.",
+          "Kế hoạch kiểm soát phơi nhiễm và việc huấn luyện đều được làm lại ít nhất mỗi năm một lần.",
+          "Nhãn biohazard có màu cam dạ quang hoặc đỏ cam."
+        ]
+      },
+      "commonMistake": {
+        "en": "Wiping up a small spot of blood with bare hands because the client looks healthy. Treat all blood as infectious, and always glove up first.",
+        "vi": "Lau vết máu nhỏ bằng tay không vì thấy khách trông khỏe mạnh. Hãy coi mọi vết máu đều có thể lây bệnh, và luôn đeo găng trước."
+      },
+      "examTip": {
+        "en": "Remember the number 10: working days to offer the hepatitis B vaccine. Plans and training are yearly.",
+        "vi": "Nhớ con số 10: số ngày làm việc để cung cấp vắc-xin viêm gan B. Kế hoạch và huấn luyện làm hằng năm."
+      },
+      "glossaryTermIds": [
+        "term_bloodborne_pathogens",
+        "term_hepatitis_b",
+        "term_hepatitis_c",
+        "term_hiv",
+        "term_exposure_control_plan",
+        "term_exposure_incident",
+        "term_sharps_container",
+        "term_biohazard_label",
+        "term_opim"
+      ],
+      "image": null,
+      "diagram": null,
+      "sourceRefs": [
+        "OSHA Bloodborne Pathogens Standard, 29 CFR 1910.1030(c), (d), (f) and (g), checked 2026-11-03",
+        "CDC: Hepatitis B Basics",
+        "CDC: Hepatitis C Basics",
+        "OSHA Nail Salons: Biological Hazards"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "AI fact-check",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_hazard_communication",
+      "rev": 1,
+      "status": "active",
+      "domain": "infection_control_safety",
+      "topicGroup": "chemical_safety",
+      "order": 14,
+      "isFree": false,
+      "title": {
+        "en": "Chemical safety: labels and SDSs",
+        "vi": "An toàn hóa chất: nhãn và SDS"
+      },
+      "body": {
+        "en": "Nail products can be flammable, irritating or harmful to breathe. OSHA's **Hazard Communication Standard**, often called HazCom, makes sure workers know about these hazards.\n\nUnder HazCom, the employer must:\n- Keep a written hazard communication program.\n- Keep a **Safety Data Sheet (SDS)** for each hazardous chemical, readily available during every shift.\n- Train workers when they start and whenever a new chemical hazard is brought in.\n\nThe label on a hazardous chemical shows a **signal word**, hazard statements, **pictograms** and precautionary statements. \"Danger\" means a more severe hazard than \"Warning\". Common pictograms include:\n- **Flame**: flammable, like acetone.\n- **Exclamation mark**: irritant or skin sensitizer.\n- **Health hazard**, a person with a starburst: cancer or breathing sensitization.\n- **Corrosion**: can burn skin or damage eyes.\n\nAn SDS always has 16 sections in the same order. Know these:\n- Section 2: hazards.\n- Section 4: first aid.\n- Section 7: handling and storage.\n- Section 8: exposure controls and protective equipment, such as gloves.\n- Section 9: physical properties, including flash point.\n\nNever mix chemicals unless the label says to. The CDC warns that bleach mixed with ammonia or acid releases toxic chlorine gas.",
+        "vi": "Sản phẩm làm móng có thể dễ cháy, gây kích ứng hoặc có hại khi hít vào. **Tiêu chuẩn Thông tin Nguy hiểm (HazCom)** của OSHA bảo đảm người lao động biết về các mối nguy này.\n\nTheo HazCom, chủ phải:\n- Có chương trình thông tin nguy hiểm bằng văn bản.\n- Có **bảng chỉ dẫn an toàn hóa chất (SDS)** cho từng hóa chất nguy hiểm, để sẵn cho nhân viên xem trong mọi ca làm.\n- Huấn luyện nhân viên khi mới vào làm và mỗi khi có mối nguy hóa chất mới được đưa vào.\n\nNhãn của hóa chất nguy hiểm có **từ cảnh báo (signal word)**, câu mô tả nguy hiểm, **biểu tượng nguy hiểm (pictograms)** và câu phòng ngừa. \"Danger\" nghĩa là mối nguy nặng hơn \"Warning\". Các biểu tượng thường gặp:\n- **Ngọn lửa**: dễ cháy, như acetone.\n- **Dấu chấm than**: gây kích ứng hoặc gây dị ứng da.\n- **Nguy hại sức khỏe**, hình người có ngôi sao nổ: gây ung thư hoặc gây dị ứng đường hô hấp.\n- **Ăn mòn**: có thể làm bỏng da hoặc hại mắt.\n\nSDS luôn có 16 phần theo cùng một thứ tự. Hãy nhớ:\n- Phần 2: các mối nguy.\n- Phần 4: sơ cứu.\n- Phần 7: cách xử lý và bảo quản.\n- Phần 8: kiểm soát phơi nhiễm và đồ bảo hộ, như găng tay.\n- Phần 9: tính chất vật lý, kể cả điểm chớp cháy (flash point).\n\nKhông bao giờ trộn hóa chất trừ khi nhãn hướng dẫn. CDC cảnh báo thuốc tẩy trộn với amoniac hoặc axit sẽ sinh ra khí clo độc."
+      },
+      "keyPoints": {
+        "en": [
+          "Employers keep a written HazCom program, an SDS for each hazardous chemical, and train workers.",
+          "\"Danger\" is more severe than \"Warning\".",
+          "Flame means flammable; health hazard means cancer or breathing sensitization.",
+          "SDS Section 4 is first aid, Section 7 storage, Section 8 protective equipment.",
+          "Never mix bleach with ammonia or acid."
+        ],
+        "vi": [
+          "Chủ phải có chương trình HazCom bằng văn bản, SDS cho từng hóa chất nguy hiểm, và huấn luyện nhân viên.",
+          "\"Danger\" nặng hơn \"Warning\".",
+          "Ngọn lửa là dễ cháy; nguy hại sức khỏe là gây ung thư hoặc dị ứng hô hấp.",
+          "SDS Phần 4 là sơ cứu, Phần 7 là bảo quản, Phần 8 là đồ bảo hộ.",
+          "Không bao giờ trộn thuốc tẩy với amoniac hoặc axit."
+        ]
+      },
+      "commonMistake": {
+        "en": "Pouring product into a small bottle and leaving it unlabeled. Anyone who picks it up later has no way to know the hazards.",
+        "vi": "Đổ sản phẩm sang chai nhỏ rồi để không dán nhãn. Người khác cầm lên sau này sẽ không biết sản phẩm có nguy hiểm gì."
+      },
+      "examTip": {
+        "en": "First aid is Section 4. Gloves and goggles are Section 8.",
+        "vi": "Sơ cứu là Phần 4. Găng tay và kính bảo hộ là Phần 8."
+      },
+      "glossaryTermIds": [
+        "term_hazard_communication_standard",
+        "term_safety_data_sheet",
+        "term_hazard_pictogram",
+        "term_signal_word",
+        "term_precautionary_statement",
+        "term_sodium_hypochlorite"
+      ],
+      "image": null,
+      "diagram": null,
+      "sourceRefs": [
+        "OSHA Hazard Communication Standard, 29 CFR 1910.1200(e), (f), (g) and (h), checked 2026-11-03",
+        "OSHA Hazard Communication Standard, 29 CFR 1910.1200 Appendix C, Figure C.1, and Appendix D, Table D.1, checked 2026-11-03",
+        "CDC Guideline for Disinfection and Sterilization in Healthcare Facilities (2008), Chemical Disinfectants: Chlorine and chlorine compounds"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "AI fact-check",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_salon_ventilation",
+      "rev": 1,
+      "status": "active",
+      "domain": "infection_control_safety",
+      "topicGroup": "ventilation",
+      "order": 15,
+      "isFree": false,
+      "title": {
+        "en": "Ventilation and breathing safely",
+        "vi": "Thông gió và bảo vệ hô hấp"
+      },
+      "body": {
+        "en": "Vapors from polish, removers and acrylic liquid, and dust from filing, can cause headaches, dizziness and irritated eyes, nose and throat. Good air in the salon protects everyone.\n\nNIOSH ranks ways to control a hazard from most to least effective:\n- **Elimination**: stop using the hazardous product.\n- **Substitution**: switch to a less hazardous one.\n- **Engineering controls**: change the workplace, such as a ventilated table or an exhaust fan that vents outdoors.\n- **Administrative controls**: change how work is done, such as limiting time on a task.\n- **Personal protective equipment**, such as gloves or a respirator.\n\nOSHA's respiratory protection rule also puts engineering controls first. Respirators are for when those are not enough.\n\nSimple daily habits help: keep the exhaust system on, close bottles tightly and keep the HVAC fan set to \"on\" during work hours if the salon has no separate exhaust.\n\nA surgical mask does not protect against vapors or fine dust. An N95 respirator filters dust but not vapors. If the salon requires a tight-fitting respirator, the employer must first provide a medical evaluation, a fit test and training, and repeat the fit test at least once a year.",
+        "vi": "Hơi từ sơn, nước tẩy và nước acrylic, cùng bụi khi dũa móng, có thể gây nhức đầu, chóng mặt và kích ứng mắt, mũi, họng. Không khí trong tiệm tốt sẽ bảo vệ mọi người.\n\nNIOSH xếp các cách kiểm soát mối nguy từ hiệu quả nhất tới kém nhất:\n- **Loại bỏ (elimination)**: không dùng sản phẩm độc hại nữa.\n- **Thay thế (substitution)**: đổi sang sản phẩm ít độc hơn.\n- **Biện pháp kỹ thuật (engineering controls)**: thay đổi nơi làm việc, như bàn có hút gió hoặc quạt hút thổi ra ngoài trời.\n- **Biện pháp hành chính (administrative controls)**: thay đổi cách làm việc, như giới hạn thời gian làm một việc.\n- **Đồ bảo hộ cá nhân (PPE)**, như găng tay hoặc khẩu trang phòng độc.\n\nQuy định bảo vệ hô hấp của OSHA cũng đặt biện pháp kỹ thuật lên trước. Khẩu trang phòng độc chỉ dùng khi các biện pháp đó chưa đủ.\n\nThói quen hằng ngày đơn giản cũng giúp ích: luôn mở hệ thống hút gió, đậy chặt nắp chai, và để quạt máy lạnh (HVAC) ở chế độ \"on\" trong giờ làm nếu tiệm không có hệ thống hút riêng.\n\nKhẩu trang y tế không chống được hơi hóa chất hay bụi mịn. Khẩu trang N95 lọc được bụi nhưng không lọc được hơi. Nếu tiệm bắt buộc đeo khẩu trang phòng độc ôm sát mặt, chủ phải cho khám đánh giá sức khỏe, thử độ kín (fit test) và huấn luyện trước, rồi thử độ kín lại ít nhất mỗi năm một lần."
+      },
+      "keyPoints": {
+        "en": [
+          "Elimination and substitution work best; PPE is the last line of defense.",
+          "Ventilated tables and outdoor exhaust are engineering controls.",
+          "Surgical masks do not stop vapors; N95s filter dust, not vapors.",
+          "A required tight-fitting respirator needs a medical evaluation, fit test and training."
+        ],
+        "vi": [
+          "Loại bỏ và thay thế hiệu quả nhất; PPE là lớp bảo vệ sau cùng.",
+          "Bàn có hút gió và quạt hút ra ngoài trời là biện pháp kỹ thuật.",
+          "Khẩu trang y tế không chặn được hơi; N95 lọc bụi, không lọc hơi.",
+          "Khẩu trang phòng độc ôm sát bắt buộc phải có khám sức khỏe, thử độ kín và huấn luyện."
+        ]
+      },
+      "commonMistake": {
+        "en": "Turning the ventilated table off when the salon is busy because of the noise. That is when vapors are highest and the table is needed most.",
+        "vi": "Tắt bàn hút gió khi tiệm đông khách vì ồn. Đó lại là lúc hơi hóa chất nhiều nhất và cần bàn hút nhất."
+      },
+      "examTip": {
+        "en": "If a question asks for the most effective control, look for removing or replacing the hazard. PPE is the least effective.",
+        "vi": "Nếu câu hỏi hỏi biện pháp hiệu quả nhất, hãy tìm đáp án loại bỏ hoặc thay thế mối nguy. PPE là kém hiệu quả nhất."
+      },
+      "glossaryTermIds": [
+        "term_hierarchy_of_controls",
+        "term_engineering_controls",
+        "term_vented_table",
+        "term_n95_respirator",
+        "term_fit_test",
+        "term_ppe"
+      ],
+      "image": null,
+      "diagram": null,
+      "sourceRefs": [
+        "NIOSH: About Hierarchy of Controls",
+        "OSHA Respiratory Protection Standard, 29 CFR 1910.134(a)(1), (e), (f) and (k), checked 2026-11-03",
+        "OSHA Nail Salons: Chemical Hazards",
+        "OSHA: Stay Healthy and Safe While Giving Manicures and Pedicures (OSHA 3542)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "AI fact-check",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_workplace_safety",
+      "rev": 1,
+      "status": "active",
+      "domain": "infection_control_safety",
+      "topicGroup": "workplace_safety",
+      "order": 16,
+      "isFree": false,
+      "title": {
+        "en": "A safe salon workplace",
+        "vi": "Nơi làm việc an toàn trong tiệm"
+      },
+      "body": {
+        "en": "Beyond germs and chemicals, everyday hazards in the salon cause real injuries. OSHA rules cover many of them.\n\n**Fire.** Acetone and polish remover are flammable. A fire involving flammable liquids is a **Class B fire**. Keep soaked cotton in a metal trash can with a self-closing lid, and know where the extinguisher is.\n\n**Exits.** Exit routes must stay free and unobstructed. Do not stack boxes in them, even for a short time. Each exit is marked with an \"Exit\" sign.\n\n**Electricity.** Look over cords and plugs on tools such as electric files before use. Take any tool with a damaged cord out of service until it is repaired. Dry your hands before plugging or unplugging equipment.\n\n**Floors.** Keep floors clean and, as far as possible, dry. Wipe up water from foot baths right away.\n\n**Eyes and first aid.** Where corrosive products could splash into the eyes, OSHA requires a place in the work area to flush the eyes and body quickly. The SDS gives first aid steps.\n\n**Protective equipment and strain.** Employers generally provide required protective equipment, such as goggles, at no cost to workers. OSHA has no specific ergonomics standard, but the General Duty Clause covers ergonomic hazards, so padding table edges, adjustable chairs and short breaks all matter.",
+        "vi": "Ngoài vi trùng và hóa chất, những mối nguy thường ngày trong tiệm cũng gây thương tích thật. Quy định của OSHA bao gồm nhiều mối nguy này.\n\n**Cháy.** Acetone và nước tẩy sơn dễ cháy. Đám cháy liên quan tới chất lỏng dễ cháy là **đám cháy loại B (Class B fire)**. Bỏ bông gòn thấm hóa chất vào thùng rác kim loại có nắp tự đóng, và biết chỗ để bình chữa cháy.\n\n**Lối thoát hiểm.** Lối thoát hiểm phải luôn thông thoáng, không bị cản trở. Không chất thùng hàng trên đó, dù chỉ một lúc. Mỗi lối ra có bảng chữ \"Exit\".\n\n**Điện.** Kiểm tra dây và phích cắm của dụng cụ như máy dũa điện trước khi dùng. Ngưng dùng dụng cụ có dây bị hư cho tới khi được sửa. Lau khô tay trước khi cắm hoặc rút phích.\n\n**Sàn nhà.** Giữ sàn sạch và khô ráo trong khả năng có thể. Lau ngay nước từ bồn ngâm chân.\n\n**Mắt và sơ cứu.** Ở nơi sản phẩm ăn mòn có thể bắn vào mắt, OSHA yêu cầu có chỗ xối rửa mắt và cơ thể nhanh ngay trong khu vực làm việc. SDS có các bước sơ cứu.\n\n**Đồ bảo hộ và căng cơ.** Chủ thường phải cung cấp miễn phí đồ bảo hộ bắt buộc, như kính bảo hộ. OSHA không có tiêu chuẩn riêng về công thái học, nhưng Điều khoản Nghĩa vụ Chung (General Duty Clause) áp dụng cho mối nguy công thái học, nên lót mép bàn, ghế chỉnh được và nghỉ ngắn đều quan trọng."
+      },
+      "keyPoints": {
+        "en": [
+          "A fire involving flammable liquids such as acetone is a Class B fire.",
+          "Exit routes stay clear at all times.",
+          "Inspect cords before use and remove damaged tools from service.",
+          "Provide a quick eye-flushing station where corrosives are used.",
+          "Required PPE is generally provided by the employer at no cost."
+        ],
+        "vi": [
+          "Đám cháy liên quan tới chất lỏng dễ cháy như acetone là đám cháy loại B.",
+          "Lối thoát hiểm lúc nào cũng phải thông thoáng.",
+          "Kiểm tra dây điện trước khi dùng và ngưng dùng dụng cụ bị hư.",
+          "Có chỗ xối rửa mắt nhanh ở nơi dùng chất ăn mòn.",
+          "Đồ bảo hộ bắt buộc thường do chủ cung cấp miễn phí."
+        ]
+      },
+      "commonMistake": {
+        "en": "Wrapping tape around a frayed e-file cord and going on working. A damaged cord must be taken out of service until it is properly repaired.",
+        "vi": "Quấn băng keo quanh chỗ dây máy dũa bị sờn rồi tiếp tục làm. Dây bị hư phải ngưng dùng cho tới khi được sửa đúng cách."
+      },
+      "examTip": {
+        "en": "B is for burning liquids: acetone fires are Class B.",
+        "vi": "Chữ B nhớ là chất lỏng cháy: cháy acetone là loại B."
+      },
+      "glossaryTermIds": [
+        "term_class_b_fire",
+        "term_eyewash_station",
+        "term_ppe",
+        "term_electric_file",
+        "term_safety_data_sheet"
+      ],
+      "image": null,
+      "diagram": null,
+      "sourceRefs": [
+        "OSHA 29 CFR 1910.155(c)(9), checked 2026-11-03",
+        "OSHA 29 CFR 1910.37(a)(3) and (b), checked 2026-11-03",
+        "OSHA 29 CFR 1910.334(a)(2) and (a)(5), checked 2026-11-03",
+        "OSHA 29 CFR 1910.22(a), checked 2026-11-03",
+        "OSHA 29 CFR 1910.151(c), checked 2026-11-03",
+        "OSHA 29 CFR 1910.132(h)(1), checked 2026-11-03",
+        "OSHA Nail Salons: OSHA Standards",
+        "OSHA: Stay Healthy and Safe While Giving Manicures and Pedicures (OSHA 3542)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "AI fact-check",
         "date": "2026-11-03"
       }
     },
@@ -372,7 +1581,306 @@
       ],
       "review": {
         "status": "approved",
-        "reviewer": "R1",
+        "reviewer": "AI fact-check",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_basic_manicure",
+      "rev": 1,
+      "status": "active",
+      "domain": "manicure_pedicure",
+      "topicGroup": "manicure",
+      "order": 71,
+      "isFree": false,
+      "title": {
+        "en": "The basic manicure",
+        "vi": "Manicure cơ bản"
+      },
+      "body": {
+        "en": "A basic manicure cares for the natural nails and the skin around them. Every step has a reason, and most mistakes come from doing the steps out of order.\n\n**Start dry.** Remove the old polish, check the nails, then shape them while they are dry. Wet nails are softer and split more easily under a file. File from each side toward the center in one direction, then lightly smooth the underside of the free edge.\n\n**Agree on the shape.** Square has a straight edge and sharp corners, and squoval softens those corners. Round follows the fingertip, oval tapers a little, almond tapers more, and stiletto ends in a point.\n\n**Then soak and care for the cuticle.** A finger bowl of warm, soapy water softens the cuticle. Gently push back only the dead cuticle tissue. The eponychium is living skin and is never cut, and a loose hangnail is clipped, never torn.\n\n**Finish in this order:**\n- Massage the hands and arms with lotion.\n- Clean the oil off the nail plates.\n- Apply base coat, two thin color coats and top coat.\n\nFor dry, brittle nails, a warm oil manicure helps. Home care is simple: moisturize after trimming and washing, file in one direction, and leave the cuticles alone.",
+        "vi": "Manicure cơ bản chăm sóc móng tay thật và vùng da quanh móng. Mỗi bước đều có lý do, và phần lớn lỗi xảy ra khi làm sai thứ tự.\n\n**Bắt đầu khi móng còn khô.** Tẩy sơn cũ, kiểm tra móng, rồi dũa dáng khi móng còn khô. Móng ướt mềm hơn và dễ tách lớp khi dũa. Dũa từ mỗi bên vào giữa theo một chiều, rồi vuốt nhẹ mặt dưới đầu móng (free edge) cho mịn.\n\n**Thống nhất dáng móng với khách.** Móng vuông (square) có đầu thẳng và góc sắc, còn squoval thì bo mềm hai góc. Móng tròn (round) theo dáng đầu ngón tay, oval thon nhẹ, almond thon nhiều hơn, và stiletto nhọn ở đầu.\n\n**Sau đó ngâm và chăm sóc da (cuticle).** Chén ngâm (finger bowl) có nước ấm pha xà phòng giúp mềm cuticle. Chỉ đẩy nhẹ phần da chết. Eponychium là da sống, không bao giờ được cắt, và mẩu xước măng rô (hangnail) bị lỏng thì cắt gọn, không được giật.\n\n**Hoàn tất theo thứ tự này:**\n- Xoa bóp bàn tay và cánh tay với kem.\n- Làm sạch dầu trên mặt móng.\n- Sơn base coat, hai lớp màu mỏng và top coat.\n\nVới móng khô, giòn, manicure dầu ấm (oil manicure) rất có ích. Chăm sóc tại nhà rất đơn giản: thoa dưỡng ẩm sau khi cắt móng và rửa tay, dũa theo một chiều, và để yên phần cuticle."
+      },
+      "keyPoints": {
+        "en": [
+          "Shape the nails while they are dry, filing in one direction.",
+          "Soak to soften the cuticle; never cut the living eponychium.",
+          "Massage first, then clean the oil off the nail plates before base coat.",
+          "Polish order: base coat, two thin color coats, then top coat."
+        ],
+        "vi": [
+          "Dũa dáng khi móng còn khô, dũa theo một chiều.",
+          "Ngâm để làm mềm cuticle; không bao giờ cắt phần eponychium là da sống.",
+          "Xoa bóp trước, rồi làm sạch dầu trên mặt móng trước khi sơn base coat.",
+          "Thứ tự sơn: base coat, hai lớp màu mỏng, rồi top coat."
+        ]
+      },
+      "commonMistake": {
+        "en": "Polishing straight after the massage. Lotion left on the nail plate stops the polish from gripping, so it peels early. Clean the nail plates first.",
+        "vi": "Sơn ngay sau khi xoa bóp. Kem còn dính trên mặt móng làm sơn không bám nên mau bong. Hãy làm sạch mặt móng trước."
+      },
+      "examTip": {
+        "en": "Remember the order: remove, shape dry, soak, cuticle, massage, clean, polish.",
+        "vi": "Nhớ thứ tự: tẩy sơn, dũa khô, ngâm, cuticle, xoa bóp, làm sạch, sơn."
+      },
+      "glossaryTermIds": [
+        "term_basic_manicure",
+        "term_shape_squoval",
+        "term_finger_bowl",
+        "term_eponychium",
+        "term_beveling",
+        "term_oil_manicure"
+      ],
+      "image": null,
+      "diagram": null,
+      "sourceRefs": [
+        "NIC National Nail Technology Theory CIB, content outline: Manicure and Pedicure Services (basic manicure procedure; trim and shape nails)",
+        "AAD: How to trim your nails (trim, file in one direction, moisturize, leave cuticles alone)",
+        "MedlinePlus: Nail abnormalities (keep hangnails clipped)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "AI fact-check",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_basic_pedicure",
+      "rev": 1,
+      "status": "active",
+      "domain": "manicure_pedicure",
+      "topicGroup": "pedicure",
+      "order": 72,
+      "isFree": false,
+      "title": {
+        "en": "The basic pedicure",
+        "vi": "Pedicure cơ bản"
+      },
+      "body": {
+        "en": "A pedicure cares for the feet, toenails and lower legs. Feet carry more risk than hands: they spend the day in shoes, and some clients cannot feel a cut or hot water.\n\n**Before the soak**, check the water. It should be warm, not hot. People with diabetes may have nerve damage and may not notice a burn, so take extra care and use gentle pressure.\n\n**Toenails** are trimmed straight across with a toenail clipper, then the edges are smoothed with a file. Cutting down into the corners, or too short, can lead to ingrown toenails. Thick nails are easier to trim after soaking, if soaking is right for that client.\n\n**Calluses** are smoothed with a foot file or pumice, never cut. California bans razor-edged callus tools in salons, and Texas bans razor-type callus shavers.\n\n**After the soak**, dry the feet well, including between the toes, because bacteria and fungi grow in moisture. Toe separators keep the toes apart for polish, and open-toed sandals keep fresh polish from smudging on the way home.\n\nDo not work on a toe that is red, swollen or has pus, and do not cut corns. Refer the client to a physician.",
+        "vi": "Pedicure chăm sóc bàn chân, móng chân và cẳng chân. Bàn chân có nhiều rủi ro hơn bàn tay: chân mang giày cả ngày, và một số khách không cảm thấy vết cắt hay nước nóng.\n\n**Trước khi ngâm**, kiểm tra nước. Nước phải ấm, không nóng. Người bị tiểu đường có thể bị tổn thương thần kinh và không nhận ra mình bị bỏng, nên phải hết sức cẩn thận và dùng lực nhẹ.\n\n**Móng chân** được cắt thẳng ngang bằng đồ bấm móng chân, rồi dũa mịn cạnh. Cắt khoét vào góc hoặc cắt quá ngắn có thể gây móng mọc ngược (ingrown toenail). Móng dày dễ cắt hơn sau khi ngâm, nếu khách đó ngâm chân được.\n\n**Chai chân (callus)** được chà mịn bằng dũa chà chân hoặc đá pumice, không bao giờ cắt. California cấm tiệm dùng dụng cụ lấy chai có lưỡi dao cạo, và Texas cấm dao cạo chai.\n\n**Sau khi ngâm**, lau khô chân thật kỹ, kể cả kẽ ngón, vì vi khuẩn và nấm phát triển ở nơi ẩm. Miếng tách ngón (toe separator) giữ các ngón tách ra khi sơn, và dép hở mũi giúp sơn mới không bị lem trên đường về.\n\nKhông làm trên ngón chân bị đỏ, sưng hoặc có mủ, và không cắt cục chai có nhân (corn). Hãy khuyên khách đi khám bác sĩ."
+      },
+      "keyPoints": {
+        "en": [
+          "Warm, not hot, water, and extra care for clients with diabetes.",
+          "Trim toenails straight across with a toenail clipper.",
+          "Smooth calluses; razor callus tools are banned in California and Texas.",
+          "Dry well between the toes before polish.",
+          "Refer a red, swollen or infected toe to a physician."
+        ],
+        "vi": [
+          "Nước ấm, không nóng, và hết sức cẩn thận với khách bị tiểu đường.",
+          "Cắt móng chân thẳng ngang bằng đồ bấm móng chân.",
+          "Chà mịn chai chân; dụng cụ lấy chai có lưỡi dao cạo bị cấm ở California và Texas.",
+          "Lau khô kỹ kẽ ngón chân trước khi sơn.",
+          "Ngón chân đỏ, sưng hoặc nhiễm trùng thì khuyên khách đi khám bác sĩ."
+        ]
+      },
+      "commonMistake": {
+        "en": "Rounding the toenail deep into the corners to make it look neat. This can lead to an ingrown toenail. Cut straight across and only smooth the edge.",
+        "vi": "Cắt bo tròn khoét sâu vào góc móng chân cho đẹp. Cách này có thể gây móng mọc ngược. Hãy cắt thẳng ngang và chỉ dũa mịn cạnh."
+      },
+      "examTip": {
+        "en": "Straight across for toenails; smooth calluses, never cut them.",
+        "vi": "Móng chân cắt thẳng ngang; chai chân chỉ chà mịn, không bao giờ cắt."
+      },
+      "glossaryTermIds": [
+        "term_basic_pedicure",
+        "term_toe_separator",
+        "term_callus",
+        "term_peripheral_neuropathy",
+        "term_physician_referral"
+      ],
+      "image": null,
+      "diagram": null,
+      "sourceRefs": [
+        "NIC National Nail Technology Theory CIB, content outline: Manicure and Pedicure Services (basic pedicure procedure)",
+        "CDC: Diabetes and your feet (nerve damage; warm, not hot, water; toenails; corns and calluses)",
+        "AAD: How to trim your nails (trim toenails straight across; use a toenail clipper)",
+        "AAD: 11 dermatologists' tips for healthy nails (keep nails clean and dry; ingrown toenails)",
+        "16 CCR §993(a) (California), checked 2026-11-03",
+        "16 TAC §83.112(a) (Texas), checked 2026-11-03"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "AI fact-check",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_hand_foot_massage",
+      "rev": 1,
+      "status": "active",
+      "domain": "manicure_pedicure",
+      "topicGroup": "massage",
+      "order": 73,
+      "isFree": false,
+      "title": {
+        "en": "Hand and foot massage",
+        "vi": "Xoa bóp tay và chân"
+      },
+      "body": {
+        "en": "Massage is part of most manicures and pedicures. It relaxes the client and increases blood circulation in the hands, arms, feet and lower legs. Lotion or oil lets your hands glide without dragging the skin.\n\nLearn the basic movements by what your hands do:\n- **Effleurage:** a light, gliding stroke used to begin and end the massage.\n- **Petrissage:** kneading that lifts, squeezes and presses the muscle.\n- **Friction:** deep rubbing, often in small circles, that moves one layer of tissue over another.\n- **Tapotement:** light, quick tapping with the fingertips.\n- **Vibration:** rapid shaking with the hands kept on the skin.\n- **Joint movement:** gently rotating the wrist or ankle while the limb is supported.\n\n**Stay within your scope.** In California, nail care covers massage from the elbow to the fingertips and from the knee to the toes.\n\n**Keep it comfortable.** If the client says it hurts, lighten the pressure or skip that movement. Do not massage over a red, swollen or painful area, and suggest the client see a physician.\n\nMassage comes after cuticle care. Clean the lotion off the nail plates afterwards, before polish.",
+        "vi": "Xoa bóp là một phần của hầu hết các dịch vụ manicure và pedicure. Xoa bóp giúp khách thư giãn và tăng tuần hoàn máu ở bàn tay, cánh tay, bàn chân và cẳng chân. Kem hoặc dầu giúp tay bạn lướt nhẹ mà không kéo da.\n\nHãy nhớ các động tác cơ bản theo cách bàn tay di chuyển:\n- **Effleurage (vuốt nhẹ):** động tác lướt nhẹ, dùng để bắt đầu và kết thúc xoa bóp.\n- **Petrissage (nhào bóp):** nâng, bóp và ấn cơ.\n- **Friction (ma sát):** chà sâu, thường theo vòng tròn nhỏ, làm một lớp mô chuyển động trên lớp khác.\n- **Tapotement (vỗ gõ):** gõ nhẹ, nhanh bằng đầu ngón tay.\n- **Vibration (rung):** rung nhanh trong khi tay vẫn đặt trên da.\n- **Joint movement (vận động khớp):** xoay nhẹ cổ tay hoặc cổ chân trong khi đỡ chắc tay hoặc chân.\n\n**Làm đúng phạm vi hành nghề.** Ở California, chăm sóc móng bao gồm xoa bóp từ khuỷu tay đến đầu ngón tay và từ đầu gối đến ngón chân.\n\n**Giữ cho khách dễ chịu.** Nếu khách nói bị đau, giảm lực ấn hoặc bỏ qua động tác đó. Không xoa bóp lên vùng bị đỏ, sưng hoặc đau, và khuyên khách đi khám bác sĩ.\n\nXoa bóp làm sau bước chăm sóc cuticle. Sau đó lau sạch kem trên mặt móng rồi mới sơn."
+      },
+      "keyPoints": {
+        "en": [
+          "Effleurage glides, petrissage kneads, and friction rubs deeply.",
+          "Tapotement taps, vibration shakes, and joint movements rotate a supported joint.",
+          "In California, nail care covers the elbow to the fingertips and the knee to the toes.",
+          "Avoid red, swollen or painful areas and refer the client to a physician."
+        ],
+        "vi": [
+          "Effleurage là vuốt lướt, petrissage là nhào bóp, friction là chà sâu.",
+          "Tapotement là gõ, vibration là rung, joint movement là xoay khớp được đỡ chắc.",
+          "Ở California, chăm sóc móng bao gồm từ khuỷu tay đến đầu ngón tay và từ đầu gối đến ngón chân.",
+          "Tránh vùng bị đỏ, sưng hoặc đau và khuyên khách đi khám bác sĩ."
+        ]
+      },
+      "commonMistake": {
+        "en": "Mixing up friction and tapotement. Friction stays on the skin and rubs deeply in small circles; tapotement lifts off the skin to tap.",
+        "vi": "Nhầm friction với tapotement. Friction giữ tay trên da và chà sâu theo vòng tròn nhỏ; tapotement nhấc tay khỏi da để gõ."
+      },
+      "examTip": {
+        "en": "If the hands lift off to tap, it is tapotement; if they glide, it is effleurage.",
+        "vi": "Tay nhấc lên để gõ là tapotement; tay lướt nhẹ là effleurage."
+      },
+      "glossaryTermIds": [
+        "term_effleurage",
+        "term_petrissage",
+        "term_friction_massage",
+        "term_tapotement",
+        "term_vibration_massage",
+        "term_joint_movement",
+        "term_ca_nail_care"
+      ],
+      "image": null,
+      "diagram": null,
+      "sourceRefs": [
+        "NIC National Nail Technology Theory CIB, content outline: Manicure and Pedicure Services (hand and foot massage)",
+        "California Business and Professions Code §7316(d), checked 2026-11-03"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "AI fact-check",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_spa_add_ons",
+      "rev": 1,
+      "status": "active",
+      "domain": "manicure_pedicure",
+      "topicGroup": "spa",
+      "order": 74,
+      "isFree": false,
+      "title": {
+        "en": "Spa add-ons and paraffin",
+        "vi": "Dịch vụ spa thêm và sáp paraffin"
+      },
+      "body": {
+        "en": "A spa manicure or pedicure adds extra skin treatments to the basic service, such as an exfoliating scrub, a mask, a longer massage or paraffin. These add-ons pamper the skin; they do not treat medical problems.\n\n**Exfoliating scrubs** use gentle grains to lift dead skin cells from the surface and leave the skin smoother. Skip the scrub on any broken, cut or irritated skin.\n\n**Paraffin** is warm wax that coats the hands or feet. It traps heat and moisture, which softens dry skin. After dipping, the hands or feet are wrapped in plastic and placed in mitts or a towel to hold the heat in. Paraffin is not applied over open cuts, sores or irritated skin.\n\n**Calluses** are smoothed during a spa pedicure, never shaved. Razor-type callus tools are banned in California and Texas salons.\n\n**Be honest about products.** The FDA treats most nail products as cosmetics, but a product meant to treat a medical problem, such as nail fungus, is a drug. Never promise that a spa product will cure an infection. Refer the client to a physician instead.",
+        "vi": "Manicure hoặc pedicure spa có thêm các bước chăm sóc da ngoài dịch vụ cơ bản, như tẩy da chết, đắp mặt nạ, xoa bóp lâu hơn hoặc sáp paraffin. Các dịch vụ thêm này giúp chăm sóc da, không dùng để chữa bệnh.\n\n**Tẩy da chết (scrub)** dùng hạt mịn để lấy đi tế bào da chết trên bề mặt, giúp da mịn hơn. Không chà scrub lên da bị trầy, có vết cắt hoặc bị kích ứng.\n\n**Sáp paraffin** là sáp ấm phủ lên bàn tay hoặc bàn chân. Sáp giữ nhiệt và độ ẩm, giúp làm mềm da khô. Sau khi nhúng, bọc tay hoặc chân bằng ni lông rồi cho vào bao tay (mitt) hoặc quấn khăn để giữ nhiệt. Không dùng paraffin trên vết cắt hở, vết loét hoặc da bị kích ứng.\n\n**Chai chân** chỉ được chà mịn khi làm pedicure spa, không bao giờ cạo. Dụng cụ lấy chai có lưỡi dao cạo bị cấm trong tiệm ở California và Texas.\n\n**Nói thật về sản phẩm.** FDA xem phần lớn sản phẩm làm móng là mỹ phẩm, nhưng sản phẩm dùng để chữa một vấn đề y khoa, như nấm móng, là thuốc. Không bao giờ hứa sản phẩm spa sẽ chữa khỏi nhiễm trùng. Thay vào đó, hãy khuyên khách đi khám bác sĩ."
+      },
+      "keyPoints": {
+        "en": [
+          "Spa add-ons include scrubs, masks, a longer massage and paraffin.",
+          "Paraffin holds in heat and moisture to soften dry skin.",
+          "No scrub or paraffin over broken or irritated skin.",
+          "A product that claims to treat a medical problem is a drug, not a cosmetic."
+        ],
+        "vi": [
+          "Dịch vụ spa thêm gồm tẩy da chết, mặt nạ, xoa bóp lâu hơn và sáp paraffin.",
+          "Sáp paraffin giữ nhiệt và độ ẩm giúp làm mềm da khô.",
+          "Không tẩy da chết hay đắp paraffin lên da bị trầy hoặc kích ứng.",
+          "Sản phẩm ghi là chữa một vấn đề y khoa là thuốc, không phải mỹ phẩm."
+        ]
+      },
+      "commonMistake": {
+        "en": "Giving a scrub or paraffin without checking the skin first. Look at both hands or feet before starting and skip any area with a cut or irritation.",
+        "vi": "Tẩy da chết hoặc đắp paraffin mà không kiểm tra da trước. Hãy xem cả hai tay hoặc hai chân trước khi làm và bỏ qua vùng có vết cắt hay bị kích ứng."
+      },
+      "examTip": {
+        "en": "Paraffin softens skin through heat and moisture; it does not disinfect.",
+        "vi": "Paraffin làm mềm da nhờ nhiệt và độ ẩm; paraffin không có tác dụng khử trùng."
+      },
+      "glossaryTermIds": [
+        "term_spa_pedicure",
+        "term_paraffin_wax",
+        "term_exfoliation",
+        "term_callus"
+      ],
+      "image": null,
+      "diagram": null,
+      "sourceRefs": [
+        "NIC National Nail Technology Theory CIB, content outline: Manicure and Pedicure Services (spa treatments)",
+        "FDA: Nail care products (how nail products are regulated)",
+        "16 CCR §993(a) (California), checked 2026-11-03",
+        "16 TAC §83.112(a) (Texas), checked 2026-11-03"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "AI fact-check",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_polish_basics",
+      "rev": 1,
+      "status": "active",
+      "domain": "manicure_pedicure",
+      "topicGroup": "polish",
+      "order": 75,
+      "isFree": false,
+      "title": {
+        "en": "Polish, gel polish and removal",
+        "vi": "Sơn thường, sơn gel và cách tẩy"
+      },
+      "body": {
+        "en": "Good polish starts with a clean, oil-free nail plate. Lotion from the massage stops polish from gripping, so clean the nail plates just before base coat.\n\n**Regular polish, in order:**\n- Base coat helps the color stick and helps prevent staining.\n- Two thin color coats dry more evenly than one thick coat.\n- Top coat seals and protects the color.\n\nRoll the bottle between your palms instead of shaking it, to avoid bubbles. Start with a stroke down the center, then one along each side, leaving a fine gap at the cuticle and sidewalls. Cap the free edge with each coat to reduce chipping. Clean any polish on the skin with a cotton-tipped orangewood stick dipped in remover.\n\n**Gel polish** stays soft until each coat is cured under a UV or LED lamp for the time the maker states. Many gels leave a sticky inhibition layer that is wiped off with the recommended cleanser.\n\n**Removal:** hold a remover-soaked pad on regular polish for a few seconds, then wipe from the base toward the free edge. Soak-off gel is softened with acetone and gently pushed away; never peel or pry it off.\n\nSome nail products can catch fire, so keep them away from heat.",
+        "vi": "Lớp sơn đẹp bắt đầu từ mặt móng sạch, không dính dầu. Kem xoa bóp làm sơn không bám, nên phải làm sạch mặt móng ngay trước khi sơn base coat.\n\n**Sơn thường, theo thứ tự:**\n- Base coat giúp màu bám tốt và giúp tránh ố móng.\n- Hai lớp màu mỏng khô đều hơn một lớp dày.\n- Top coat phủ kín và bảo vệ màu.\n\nLăn chai sơn giữa hai lòng bàn tay thay vì lắc, để tránh bọt khí. Nét đầu tiên quét ở giữa móng, rồi mỗi bên một nét, chừa một khoảng nhỏ ở vùng cuticle và hai bên vách móng. Phủ kín đầu móng (capping) sau mỗi lớp để giảm tróc. Sơn dính lên da thì chùi bằng que gỗ cam quấn bông gòn chấm nước tẩy.\n\n**Sơn gel** vẫn mềm cho đến khi từng lớp được hơ đông cứng (cure) dưới đèn UV hoặc LED theo thời gian nhà sản xuất ghi. Nhiều loại gel để lại lớp dính (inhibition layer), được lau đi bằng dung dịch lau mà hãng khuyên dùng.\n\n**Tẩy sơn:** với sơn thường, giữ miếng bông thấm nước tẩy trên móng vài giây, rồi lau từ gốc móng ra đầu móng. Sơn gel soak-off được làm mềm bằng acetone rồi đẩy nhẹ ra; không bao giờ bóc hay cạy.\n\nMột số sản phẩm làm móng có thể bắt lửa, nên phải để xa nguồn nhiệt."
+      },
+      "keyPoints": {
+        "en": [
+          "Clean the oil off the nail plate before base coat.",
+          "Base coat, two thin color coats, then top coat, capping the free edge.",
+          "Gel polish cures under a UV or LED lamp, one coat at a time.",
+          "Never peel or pry gel polish off the nail."
+        ],
+        "vi": [
+          "Làm sạch dầu trên mặt móng trước khi sơn base coat.",
+          "Base coat, hai lớp màu mỏng, rồi top coat, và phủ kín đầu móng.",
+          "Sơn gel đông cứng dưới đèn UV hoặc LED, từng lớp một.",
+          "Không bao giờ bóc hay cạy sơn gel khỏi móng."
+        ]
+      },
+      "commonMistake": {
+        "en": "Applying one thick color coat to save time. It stays soft longer and smudges or wrinkles. Two thin coats look better and last longer.",
+        "vi": "Sơn một lớp màu dày cho nhanh. Lớp dày lâu khô, dễ lem hoặc nhăn. Hai lớp mỏng đẹp hơn và bền hơn."
+      },
+      "examTip": {
+        "en": "Remember base, color, color, top, and wipe remover from the base toward the free edge.",
+        "vi": "Nhớ: base, màu, màu, top; và lau nước tẩy từ gốc móng ra đầu móng."
+      },
+      "glossaryTermIds": [
+        "term_base_coat",
+        "term_top_coat",
+        "term_nail_polish",
+        "term_gel_polish",
+        "term_capping_free_edge",
+        "term_inhibition_layer",
+        "term_french_manicure"
+      ],
+      "image": null,
+      "diagram": null,
+      "sourceRefs": [
+        "NIC National Nail Technology Theory CIB, content outline: Manicure and Pedicure Services (polish application; polish removal)",
+        "FDA: Nail care products (using nail products safely)",
+        "AAD: Gel manicures: Tips for healthy nails (don't pick gel polish)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "AI fact-check",
         "date": "2026-11-03"
       }
     },
@@ -436,7 +1944,71 @@
       ],
       "review": {
         "status": "approved",
-        "reviewer": "R1",
+        "reviewer": "AI fact-check",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_after_the_service",
+      "rev": 1,
+      "status": "active",
+      "domain": "service_prep_post",
+      "topicGroup": "post",
+      "order": 61,
+      "isFree": false,
+      "title": {
+        "en": "After the client leaves",
+        "vi": "Sau khi khách về"
+      },
+      "body": {
+        "en": "The service is not over when the client stands up. The last steps protect the next client and leave the station ready.\n\n**Towels.** Put used towels straight into the container for soiled towels. Handle them as little as possible and never shake them out, because shaking can send germs into the air. A towel with blood on it is bagged right where it was used, without rinsing or sorting it there.\n\n**Products and trash.**\n- Close disinfectant lids tightly and store them out of reach of children.\n- Do not let trash build up. Empty the cans daily and take the trash outside at the end of the day.\n- Wash your hands after touching garbage.\n\n**Home care.** Before the client goes, share simple advice that matches dermatologist guidance:\n- Trim nails right after a bath or shower, when they are softer.\n- Cut toenails straight across, and slightly round fingernail corners with a file.\n- Do not use nails as tools.\n- Wear shoes that fit well.\n\nIf a client mentions a sore, red or swollen nail, do not suggest a home treatment. Write down what you saw and refer the client to a physician.",
+        "vi": "Dịch vụ chưa xong khi khách đứng dậy. Những bước cuối bảo vệ khách kế và để bàn sẵn sàng.\n\n**Khăn.** Bỏ khăn đã dùng thẳng vào thùng đựng khăn dơ. Cầm khăn càng ít càng tốt và đừng bao giờ giũ khăn, vì giũ có thể làm vi trùng bay vào không khí. Khăn dính máu phải cho vào bao ngay nơi dùng, không xả nước hay phân loại tại đó.\n\n**Sản phẩm và rác.**\n- Đậy chặt nắp chất khử trùng và cất xa tầm tay trẻ em.\n- Không để rác tích tụ. Đổ thùng rác hằng ngày và mang rác ra ngoài cuối ngày.\n- Rửa tay sau khi chạm vào rác.\n\n**Chăm sóc tại nhà (home care).** Trước khi khách về, đưa vài lời khuyên đơn giản theo hướng dẫn của bác sĩ da liễu:\n- Cắt móng ngay sau khi tắm, khi móng mềm hơn.\n- Cắt móng chân thẳng ngang, và dũa hơi tròn góc móng tay.\n- Không dùng móng thay dụng cụ.\n- Mang giày vừa chân.\n\nNếu khách kể móng bị đau, đỏ hay sưng, đừng khuyên tự chữa ở nhà. Ghi lại điều bạn thấy và khuyên khách đi gặp bác sĩ."
+      },
+      "keyPoints": {
+        "en": [
+          "Handle used towels as little as possible and never shake them.",
+          "Bag a blood-soiled towel where it was used; do not rinse or sort it there.",
+          "Keep disinfectant lids tightly closed, and do not let trash build up.",
+          "Give simple home-care advice and refer any sore, red or swollen nail to a physician."
+        ],
+        "vi": [
+          "Cầm khăn đã dùng càng ít càng tốt và không bao giờ giũ khăn.",
+          "Khăn dính máu cho vào bao ngay nơi dùng; không xả nước hay phân loại tại đó.",
+          "Đậy chặt nắp chất khử trùng, và không để rác tích tụ.",
+          "Đưa lời khuyên chăm sóc tại nhà đơn giản, và khuyên khách đi bác sĩ nếu móng đau, đỏ hay sưng."
+        ]
+      },
+      "commonMistake": {
+        "en": "Shaking a used towel over the station to get rid of filing dust before putting it in the hamper. Shaking spreads whatever is on the towel into the air and onto the clean surface. Fold it inward and put it straight into the soiled-towel container.",
+        "vi": "Giũ khăn đã dùng trên bàn cho rơi bụi dũa rồi mới bỏ vào thùng. Giũ khăn làm mọi thứ dính trên khăn bay vào không khí và rơi lên mặt bàn sạch. Hãy gấp mặt dơ vào trong và bỏ thẳng vào thùng đựng khăn dơ."
+      },
+      "examTip": {
+        "en": "Used towels: handle as little as possible, never shake, and bag blood-soiled ones where they were used.",
+        "vi": "Khăn đã dùng: cầm càng ít càng tốt, không giũ, và khăn dính máu thì cho vào bao ngay nơi dùng."
+      },
+      "glossaryTermIds": [
+        "term_contaminated_laundry",
+        "term_end_of_day_cleanup",
+        "term_key_handwashing_times",
+        "term_post_service_cleanup",
+        "term_home_care"
+      ],
+      "image": null,
+      "diagram": null,
+      "sourceRefs": [
+        "OSHA Bloodborne Pathogens Standard, 29 CFR 1910.1030(d)(4)(iv)(A)",
+        "CDC: Guidelines for Environmental Infection Control in Health-Care Facilities (2003), Laundry and Bedding",
+        "EPA: 6 Steps for Safe & Effective Disinfectant Use (epa.gov), step 6",
+        "CDC: Clean Hands, About Handwashing – key times to wash hands (cdc.gov/clean-hands)",
+        "16 TAC §83.102(j) and (m) (Texas), checked 2026-11-03",
+        "16 CCR §994 (California), checked 2026-11-03",
+        "OSHA Nail Salons: Chemical Hazards (osha.gov/nail-salons/chemical-hazards), trash cans",
+        "AAD: How to trim your nails (aad.org)",
+        "AAD: 11 dermatologists' tips for healthy nails (aad.org)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "AI fact-check",
         "date": "2026-11-03"
       }
     },
@@ -453,7 +2025,7 @@
         "vi": "Các lớp của da"
       },
       "body": {
-        "en": "Skin has three main layers. Knowing them helps you understand why some services are safe and why bleeding means you went too deep.\n\n**Epidermis.** The outermost layer. It has no blood vessels. Its top layer, the **stratum corneum**, is made of flat, dead cells filled with keratin that shed all the time. This is the layer that exfoliation removes. Its deepest layer, the **stratum basale**, makes new skin cells and holds the melanocytes that produce **melanin**, the pigment that colours skin and helps protect it from ultraviolet light. Thick skin on the palms and soles has an extra clear layer, the stratum lucidum.\n\n**Dermis.** The thick layer under the epidermis. It holds:\n- blood vessels and nerves\n- sweat glands and oil (sebaceous) glands\n- hair follicles\n- collagen and elastin fibres that give strength and stretch\n\n**Subcutaneous layer.** The fatty layer under the dermis. It cushions the body, stores energy and helps keep in heat.\n\nThe skin protects the body, helps control temperature through sweat, senses touch and pain, and makes vitamin D with sunlight. Palms and soles have many sweat glands but no oil glands, which is one reason hands and feet dry out easily.",
+        "en": "Skin has three main layers. Knowing them helps you understand why some services are safe and why bleeding means you went too deep.\n\n**Epidermis.** The outermost layer. It has no blood vessels. Its top layer, the **stratum corneum**, is made of flat, dead cells filled with keratin that shed all the time. This is the layer that exfoliation removes. Its deepest layer, the **stratum basale**, makes new skin cells and holds the melanocytes that produce **melanin**, the pigment that colors skin and helps protect it from ultraviolet light. Thick skin on the palms and soles has an extra clear layer, the stratum lucidum.\n\n**Dermis.** The thick layer under the epidermis. It holds:\n- blood vessels and nerves\n- sweat glands and oil (sebaceous) glands\n- hair follicles\n- collagen and elastin fibers that give strength and stretch\n\n**Subcutaneous layer.** The fatty layer under the dermis. It cushions the body, stores energy and helps keep in heat.\n\nThe skin protects the body, helps control temperature through sweat, senses touch and pain, and makes vitamin D with sunlight. Palms and soles have many sweat glands but no oil glands, which is one reason hands and feet dry out easily.",
         "vi": "Da có ba lớp chính. Hiểu rõ các lớp này giúp bạn biết vì sao một số dịch vụ an toàn và vì sao chảy máu nghĩa là đã làm quá sâu.\n\n**Biểu bì (epidermis).** Lớp ngoài cùng, không có mạch máu. Lớp trên cùng của nó là **lớp sừng (stratum corneum)**, gồm các tế bào chết dẹt chứa keratin, bong ra liên tục. Đây là lớp được lấy đi khi tẩy tế bào chết. Lớp sâu nhất là **lớp đáy (stratum basale)**, nơi tạo tế bào da mới và có các melanocyte tạo ra **melanin**, sắc tố tạo màu da và giúp bảo vệ da khỏi tia cực tím. Da dày ở lòng bàn tay và lòng bàn chân có thêm một lớp trong suốt là stratum lucidum.\n\n**Chân bì (dermis).** Lớp da dày nằm dưới biểu bì. Lớp này chứa:\n- mạch máu và dây thần kinh\n- tuyến mồ hôi và tuyến dầu (sebaceous gland)\n- nang lông\n- sợi collagen và elastin giúp da chắc và đàn hồi\n\n**Lớp dưới da (subcutaneous layer).** Lớp mỡ dưới chân bì. Lớp này đệm che chở cơ thể, dự trữ năng lượng và giúp giữ nhiệt.\n\nDa bảo vệ cơ thể, giúp điều hòa thân nhiệt bằng mồ hôi, cảm nhận xúc giác và cơn đau, và tạo vitamin D nhờ ánh nắng. Lòng bàn tay và lòng bàn chân có nhiều tuyến mồ hôi nhưng không có tuyến dầu, nên da tay chân dễ bị khô."
       },
       "keyPoints": {
@@ -501,7 +2073,144 @@
       ],
       "review": {
         "status": "approved",
-        "reviewer": "R1",
+        "reviewer": "AI fact-check",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_skin_disorders",
+      "rev": 1,
+      "status": "active",
+      "domain": "skin_care",
+      "topicGroup": "disorders",
+      "order": 91,
+      "isFree": false,
+      "title": {
+        "en": "Skin disorders and when to refer",
+        "vi": "Bệnh về da và khi nào giới thiệu đến bác sĩ"
+      },
+      "body": {
+        "en": "A nail tech looks at the skin before every service, but never names or treats a condition. The job is to notice a problem, avoid the area and refer the client to a physician.\n\n**Contagious conditions.** These spread from person to person or by shared surfaces:\n- **Athlete's foot and ringworm**, caused by a fungus\n- **Warts and cold sores**, caused by a virus\n- **Impetigo**, caused by bacteria\n- **Scabies**, caused by a tiny mite, with intense itching that is often worse at night\n\n**Conditions that do not spread.** Psoriasis, eczema, vitiligo, hyperhidrosis and seborrheic keratoses are not contagious. Inflamed or broken skin still should not be serviced.\n\n**Contact dermatitis.** A red, itchy rash where something touched the skin. The **irritant** type is the most common and comes from soaps, solvents and frequent washing. The **allergic** type is an immune reaction and can appear hours or days after contact.\n\n**Skin cancer.** **Basal cell carcinoma** is the most common skin cancer. **Melanoma** is the most deadly. Watch moles for the ABCDE warning signs, and suggest a physician for any new, changing or bleeding spot.",
+        "vi": "Thợ nail quan sát da trước mỗi dịch vụ, nhưng không bao giờ gọi tên hay chữa bệnh. Việc của bạn là nhận ra vấn đề, tránh vùng đó và giới thiệu khách đến bác sĩ.\n\n**Bệnh dễ lây.** Những bệnh này lây từ người sang người hoặc qua bề mặt dùng chung:\n- **Nấm chân (athlete's foot) và nấm da (ringworm)**, do nấm\n- **Mụn cóc và mụn rộp môi**, do virus\n- **Chốc lở (impetigo)**, do vi khuẩn\n- **Ghẻ (scabies)**, do một loại ve rất nhỏ, gây ngứa dữ dội và thường nặng hơn về đêm\n\n**Bệnh không lây.** Vảy nến (psoriasis), chàm (eczema), bạch biến (vitiligo), chứng tăng tiết mồ hôi (hyperhidrosis) và dày sừng tiết bã (seborrheic keratosis) không lây. Dù vậy, vẫn không làm dịch vụ trên da đang viêm hoặc trầy xước.\n\n**Viêm da tiếp xúc (contact dermatitis).** Vùng da đỏ, ngứa ở nơi có chất chạm vào. Loại **kích ứng (irritant)** phổ biến nhất, do xà phòng, dung môi và rửa tay thường xuyên. Loại **dị ứng (allergic)** là phản ứng miễn dịch và có thể xuất hiện vài giờ hoặc vài ngày sau khi tiếp xúc.\n\n**Ung thư da.** **Ung thư biểu mô tế bào đáy (basal cell carcinoma)** phổ biến nhất. **Ung thư hắc tố (melanoma)** nguy hiểm nhất. Để ý các dấu hiệu cảnh báo ABCDE trên nốt ruồi, và khuyên khách đi khám bác sĩ khi có nốt mới, đang thay đổi hoặc chảy máu."
+      },
+      "keyPoints": {
+        "en": [
+          "A nail tech notices, avoids and refers, but never diagnoses or treats.",
+          "Fungus: athlete's foot and ringworm. Virus: warts and cold sores. Bacteria: impetigo. Mite: scabies.",
+          "Psoriasis, eczema and vitiligo are not contagious.",
+          "Irritant contact dermatitis is the most common type.",
+          "Basal cell carcinoma is the most common skin cancer; melanoma is the most deadly."
+        ],
+        "vi": [
+          "Thợ nail nhận ra, tránh vùng đó và giới thiệu, nhưng không bao giờ chẩn đoán hay chữa bệnh.",
+          "Do nấm: nấm chân và nấm da. Do virus: mụn cóc và mụn rộp môi. Do vi khuẩn: chốc lở. Do ve: ghẻ.",
+          "Vảy nến, chàm và bạch biến không lây.",
+          "Viêm da tiếp xúc kích ứng (irritant) là loại phổ biến nhất.",
+          "Ung thư biểu mô tế bào đáy phổ biến nhất; ung thư hắc tố (melanoma) nguy hiểm nhất."
+        ]
+      },
+      "commonMistake": {
+        "en": "Telling a client what condition she has, or offering a cream for it. Even when you are fairly sure, say only that the skin should be checked, skip the area and refer the client to a physician.",
+        "vi": "Nói với khách cô ấy bị bệnh gì, hoặc đưa kem để chữa. Dù khá chắc chắn, chỉ nên nói rằng vùng da đó cần được khám, bỏ qua vùng đó và giới thiệu khách đến bác sĩ."
+      },
+      "examTip": {
+        "en": "When an answer choice diagnoses or treats, it is almost always wrong. Look for the choice that avoids the area and refers to a physician.",
+        "vi": "Lựa chọn nào chẩn đoán hoặc chữa bệnh thì gần như luôn sai. Hãy tìm lựa chọn tránh vùng da đó và giới thiệu khách đến bác sĩ."
+      },
+      "glossaryTermIds": [
+        "term_tinea_pedis",
+        "term_scabies",
+        "term_contact_dermatitis",
+        "term_basal_cell_carcinoma",
+        "term_melanoma",
+        "term_seborrheic_keratosis",
+        "term_hyperhidrosis",
+        "term_physician_referral"
+      ],
+      "image": null,
+      "diagram": null,
+      "sourceRefs": [
+        "CDC: About scabies",
+        "CDC: Athlete's foot (tinea pedis)",
+        "CDC: Ringworm basics",
+        "American Academy of Dermatology: Warts",
+        "MedlinePlus: Cold sores",
+        "American Academy of Dermatology: Impetigo",
+        "American Academy of Dermatology: Psoriasis",
+        "MedlinePlus Medical Encyclopedia: Contact dermatitis",
+        "American Academy of Dermatology: Basal cell carcinoma, overview",
+        "OpenStax Anatomy and Physiology 2e, 5.4 Diseases, Disorders, and Injuries of the Integumentary System",
+        "American Academy of Dermatology: Melanoma, what to look for (ABCDEs)",
+        "American Academy of Dermatology: Seborrheic keratoses, overview",
+        "American Academy of Dermatology: Hyperhidrosis, overview"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "AI fact-check",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_hand_foot_skin_care",
+      "rev": 1,
+      "status": "active",
+      "domain": "skin_care",
+      "topicGroup": "treatments",
+      "order": 92,
+      "isFree": false,
+      "title": {
+        "en": "Hand and foot skin treatments",
+        "vi": "Chăm sóc da tay và chân"
+      },
+      "body": {
+        "en": "Skin treatments in a manicure or pedicure are cosmetic: they clean, smooth, soften and protect healthy, unbroken skin.\n\n**Exfoliation.** It removes dead cells from the surface. **Mechanical** exfoliation uses a scrub, brush or pumice. **Chemical** exfoliation uses acids such as **alpha hydroxy acids (AHAs)**. Work gently in small circles for about thirty seconds, rinse with lukewarm water and moisturize right away. Never exfoliate broken, cut or sunburned skin, and go gently on darker skin tones, which can develop dark spots.\n\n**Moisturizing.** Moisturizers combine three kinds of ingredients:\n- **Humectants**, such as glycerin and urea, draw water into the skin\n- **Occlusives**, such as petrolatum, form a film that slows water loss\n- **Emollients**, such as ceramides, make skin soft and smooth\n\nApply moisturizer right after washing. Creams and ointments add more moisture than lotions, and fragrance-free products are kinder to dry skin.\n\n**Sun protection.** AHAs make skin more sensitive to the sun. Advise a broad-spectrum sunscreen of SPF 15 or higher, put on fifteen minutes before going out and reapplied at least every two hours, even on cloudy days.",
+        "vi": "Chăm sóc da trong dịch vụ làm móng tay và chân là dịch vụ thẩm mỹ: làm sạch, làm mịn, làm mềm và bảo vệ da khỏe, không trầy xước.\n\n**Tẩy tế bào chết (exfoliation).** Lấy đi tế bào chết trên bề mặt. Tẩy **cơ học** dùng hạt chà, bàn chải hoặc đá bọt. Tẩy **hóa học** dùng axit như **axit alpha hydroxy (AHA)**. Chà nhẹ theo vòng tròn nhỏ khoảng ba mươi giây, rửa bằng nước ấm và thoa kem dưỡng ngay. Không bao giờ tẩy trên da trầy, bị cắt hoặc cháy nắng, và làm nhẹ tay với da sẫm màu vì dễ bị thâm.\n\n**Dưỡng ẩm.** Kem dưỡng kết hợp ba loại thành phần:\n- **Chất hút ẩm (humectant)**, như glycerin và urea, kéo nước vào da\n- **Chất khóa ẩm (occlusive)**, như petrolatum, tạo màng giúp giảm mất nước\n- **Chất làm mềm (emollient)**, như ceramide, giúp da mềm mịn\n\nThoa kem dưỡng ngay sau khi rửa tay. Kem và thuốc mỡ cấp ẩm nhiều hơn lotion, và sản phẩm không hương liệu (fragrance-free) dịu nhẹ hơn với da khô.\n\n**Chống nắng.** AHA làm da nhạy cảm hơn với nắng. Khuyên khách dùng kem chống nắng phổ rộng SPF 15 trở lên, thoa mười lăm phút trước khi ra ngoài và thoa lại ít nhất mỗi hai giờ, kể cả ngày nhiều mây."
+      },
+      "keyPoints": {
+        "en": [
+          "Skin treatments are cosmetic and only for healthy, unbroken skin.",
+          "Exfoliate gently, rinse with lukewarm water and moisturize right away.",
+          "Humectants draw water in, occlusives seal it in, emollients soften.",
+          "AHAs raise sun sensitivity, so advise broad-spectrum sunscreen."
+        ],
+        "vi": [
+          "Chăm sóc da là dịch vụ thẩm mỹ và chỉ làm trên da khỏe, không trầy xước.",
+          "Tẩy tế bào chết nhẹ nhàng, rửa bằng nước ấm và thoa kem dưỡng ngay.",
+          "Chất hút ẩm kéo nước vào, chất khóa ẩm giữ nước lại, chất làm mềm làm mịn da.",
+          "AHA làm da nhạy cảm với nắng, nên khuyên khách dùng kem chống nắng phổ rộng."
+        ]
+      },
+      "commonMistake": {
+        "en": "Scrubbing harder or longer to get smoother skin. Over-exfoliating leaves skin red and irritated, and hot water dries it further. Gentle work and a moisturizer give a better result.",
+        "vi": "Chà mạnh hơn hoặc lâu hơn để da mịn hơn. Tẩy quá mức làm da đỏ và kích ứng, còn nước nóng làm da khô thêm. Làm nhẹ tay và thoa kem dưỡng cho kết quả tốt hơn."
+      },
+      "examTip": {
+        "en": "Petrolatum is an occlusive, glycerin is a humectant. If a choice says to exfoliate broken or sunburned skin, it is wrong.",
+        "vi": "Petrolatum là chất khóa ẩm, glycerin là chất hút ẩm. Lựa chọn nào bảo tẩy tế bào chết trên da trầy hoặc cháy nắng là sai."
+      },
+      "glossaryTermIds": [
+        "term_exfoliation",
+        "term_alpha_hydroxy_acid",
+        "term_humectant",
+        "term_occlusive",
+        "term_emollient",
+        "term_broad_spectrum",
+        "term_physical_sunscreen",
+        "term_callus"
+      ],
+      "image": null,
+      "diagram": null,
+      "sourceRefs": [
+        "American Academy of Dermatology: How to safely exfoliate at home",
+        "FDA: Alpha Hydroxy Acids",
+        "Indian Journal of Dermatology (PMC): Moisturizers: The Slippery Road (2016)",
+        "American Academy of Dermatology: Dermatologists' top tips for relieving dry skin",
+        "FDA: Sunscreen: How to Help Protect Your Skin from the Sun",
+        "American Academy of Dermatology: Sunscreen FAQs"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "AI fact-check",
         "date": "2026-11-03"
       }
     },
@@ -563,7 +2272,204 @@
       ],
       "review": {
         "status": "approved",
-        "reviewer": "R1",
+        "reviewer": "AI fact-check",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_salon_equipment",
+      "rev": 1,
+      "status": "active",
+      "domain": "tools_equipment",
+      "topicGroup": "equipment",
+      "order": 51,
+      "isFree": false,
+      "title": {
+        "en": "Salon equipment: clean air and sterilizers",
+        "vi": "Thiết bị tiệm: không khí sạch và máy tiệt trùng"
+      },
+      "body": {
+        "en": "Salon equipment protects you and your clients only when it is switched on, kept clean and used the way its maker directs.\n\n**Ventilation** is the best way to lower chemical dust and vapors. A **vented table**, or an exhaust intake hung above the table, captures them right at the source. Keep it switched on, keep towels off the vents, and change the filters on schedule. Run the heating and air-conditioning system during work hours, but don't rely on it alone, because it exchanges air slowly. Avoid air cleaners that give off ozone.\n\n**Sterilizers** kill all microbial life, including spores:\n- An **autoclave** uses steam under pressure.\n- A **dry heat sterilizer** uses hot, dry air and takes longer.\n- Clean every implement first, and load items so steam or heat reaches every surface.\n- A color-change strip only shows that an item went through a cycle. A spore test shows that the cycle killed spores.\n- Never use a pouch that is torn or wet.\n\nAn **ultrasonic cleaner** shakes debris loose with sound waves. It cleans, but it does not disinfect. A **UV cabinet** is only for storing tools that are already clean and disinfected.\n\nComfort equipment matters too. An adjustable chair with back support, good lighting and a soft pad on hard table edges all reduce strain.",
+        "vi": "Thiết bị trong tiệm chỉ bảo vệ bạn và khách khi được bật lên, giữ sạch và dùng đúng hướng dẫn của nhà sản xuất.\n\n**Thông gió** là cách tốt nhất để giảm bụi và hơi hóa chất. **Bàn có hút (vented table)**, hoặc miệng hút treo phía trên bàn, hút chúng ngay tại chỗ. Luôn bật máy, đừng để khăn che lỗ hút, và thay lọc đúng hạn. Bật hệ thống máy lạnh (HVAC) trong giờ làm, nhưng đừng chỉ trông vào nó, vì nó thay đổi không khí rất chậm. Tránh dùng máy lọc không khí tạo ra ozone.\n\n**Máy tiệt trùng** diệt mọi vi sinh vật, kể cả bào tử:\n- **Autoclave** dùng hơi nước có áp suất.\n- **Máy tiệt trùng nhiệt khô (dry heat sterilizer)** dùng khí nóng khô và cần lâu hơn.\n- Phải làm sạch dụng cụ trước, và xếp sao cho hơi nước hoặc nhiệt tới được mọi bề mặt.\n- Dải đổi màu chỉ cho biết món đồ đã qua máy. Spore test mới cho thấy chu trình đã diệt được bào tử.\n- Không bao giờ dùng túi bị rách hoặc bị ướt.\n\n**Máy rửa siêu âm (ultrasonic cleaner)** dùng sóng âm làm bong cặn bẩn. Máy chỉ làm sạch, không khử trùng. **Tủ UV** chỉ dùng để cất dụng cụ đã làm sạch và khử trùng.\n\nThiết bị giúp làm việc thoải mái cũng quan trọng. Ghế chỉnh được độ cao có tựa lưng, đèn đủ sáng và miếng đệm mềm ở cạnh bàn cứng đều giúp giảm mỏi."
+      },
+      "keyPoints": {
+        "en": [
+          "Ventilation works best at the source: keep vented tables on and their vents clear.",
+          "Clean implements before they go into any sterilizer.",
+          "Only a spore test proves that a sterilizer cycle worked.",
+          "Ultrasonic cleaners and UV cabinets do not disinfect."
+        ],
+        "vi": [
+          "Thông gió hiệu quả nhất khi hút tại chỗ: luôn bật bàn có hút và giữ lỗ hút thông thoáng.",
+          "Làm sạch dụng cụ trước khi cho vào bất kỳ máy tiệt trùng nào.",
+          "Chỉ có spore test mới chứng minh chu trình tiệt trùng có hiệu quả.",
+          "Máy rửa siêu âm và tủ UV không khử trùng."
+        ]
+      },
+      "commonMistake": {
+        "en": "Treating a UV cabinet or an ultrasonic cleaner as the disinfecting step. Both only help: tools still need cleaning and full disinfection, or sterilization.",
+        "vi": "Coi tủ UV hoặc máy rửa siêu âm là bước khử trùng. Cả hai chỉ hỗ trợ: dụng cụ vẫn phải được làm sạch và khử trùng đầy đủ, hoặc tiệt trùng."
+      },
+      "examTip": {
+        "en": "If an answer says a UV cabinet, an ultrasonic cleaner or the air-conditioning system does the whole job alone, it is wrong.",
+        "vi": "Nếu đáp án nói tủ UV, máy rửa siêu âm hoặc máy lạnh tự làm hết mọi việc, thì đó là đáp án sai."
+      },
+      "glossaryTermIds": [
+        "term_vented_table",
+        "term_local_exhaust_ventilation",
+        "term_autoclave",
+        "term_dry_heat_sterilizer",
+        "term_chemical_indicator",
+        "term_biological_indicator",
+        "term_ultrasonic_cleaner",
+        "term_uv_sanitizer"
+      ],
+      "image": null,
+      "diagram": null,
+      "sourceRefs": [
+        "OSHA: Health Hazards in Nail Salons, chemical hazards (ventilation)",
+        "OSHA: Health Hazards in Nail Salons, biological hazards (cleaning and disinfecting tools)",
+        "OSHA: Health Hazards in Nail Salons, awkward positions and repetitive motions",
+        "EPA: Protecting the Health of Nail Salon Workers (EPA 744-F-07-001, 2007), Best Shop Practices: to minimize inhalation",
+        "CDC Guideline for Disinfection and Sterilization in Healthcare Facilities (2008): cleaning",
+        "CDC Guideline for Disinfection and Sterilization in Healthcare Facilities (2008): sterilizing practices",
+        "CDC Guideline for Disinfection and Sterilization in Healthcare Facilities (2008): dry-heat sterilization"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "AI fact-check",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_efile_safety",
+      "rev": 1,
+      "status": "active",
+      "domain": "tools_equipment",
+      "topicGroup": "efiles",
+      "order": 52,
+      "isFree": false,
+      "title": {
+        "en": "Electric file safety",
+        "vi": "An toàn khi dùng máy dũa điện"
+      },
+      "body": {
+        "en": "An **electric file** (e-file) spins interchangeable bits very fast, so it removes product quickly. That speed saves time, but careless use can injure the nail.\n\n**The machine and its bits**\n- Use only machines made for professional nail work. Texas bans craft, hardware and hobby tools.\n- Reusable bits are made of metal, carbide or diamond.\n- A **sanding band** is a porous sleeve that slides onto a **mandrel**.\n\n**Using it safely**\n- Keep coarse bits and sanding bands on enhancement product, not on the natural nail plate.\n- Use light pressure and keep the bit moving. Staying in one spot builds heat from friction.\n- Capture the dust with a vented table or other local exhaust. An N95 mask helps with dust, but it does not stop vapors.\n\n**Between clients**\n- Never soak the handpiece. Remove debris, then wipe or spray it with an EPA-registered disinfectant.\n- In Texas, metal, carbide and diamond bits are cleaned with a brush, an ultrasonic cleaner or a five to ten minute acetone soak, then fully immersed in disinfectant, then sterilized.\n- Texas lets sanding bands and mandrels be brushed and sprayed instead. Some other states make sanding bands single-use, so follow your own state's rule.",
+        "vi": "**Máy dũa điện (e-file)** quay các đầu mũi thay được với tốc độ rất cao, nên mài sản phẩm rất nhanh. Tốc độ đó giúp tiết kiệm thời gian, nhưng dùng ẩu có thể làm tổn thương móng.\n\n**Máy và đầu mũi**\n- Chỉ dùng máy làm riêng cho nghề nail. Texas cấm dùng máy của tiệm đồ thủ công (craft), tiệm đồ sắt (hardware) hay máy dùng cho sở thích (hobby).\n- Đầu mũi dùng lại được làm bằng kim loại, carbide hoặc kim cương.\n- **Đầu nhám (sanding band)** là ống nhám xốp lồng vào **trục (mandrel)**.\n\n**Dùng an toàn**\n- Đầu mũi thô và đầu nhám chỉ dùng trên lớp móng nhân tạo, không dùng trên mặt móng thật.\n- Ấn nhẹ tay và di chuyển đầu mũi liên tục. Giữ yên một chỗ sẽ sinh nhiệt do ma sát.\n- Hút bụi bằng bàn có hút hoặc hệ thống hút tại chỗ. Khẩu trang N95 giúp chắn bụi nhưng không chắn được hơi hóa chất.\n\n**Giữa các khách**\n- Không bao giờ ngâm tay cầm. Làm sạch cặn bẩn rồi lau hoặc xịt dung dịch khử trùng đăng ký EPA.\n- Ở Texas, đầu mũi kim loại, carbide và kim cương được làm sạch bằng bàn chải, máy rửa siêu âm hoặc ngâm acetone từ năm đến mười phút, rồi ngâm ngập trong dung dịch khử trùng, rồi tiệt trùng.\n- Texas cho phép đầu nhám và trục chỉ cần chải sạch rồi xịt khử trùng. Một số tiểu bang khác bắt buộc đầu nhám chỉ dùng một lần, nên hãy theo quy định của tiểu bang mình."
+      },
+      "keyPoints": {
+        "en": [
+          "Use only e-files made for professional nail work.",
+          "Light pressure and a moving bit prevent heat and thinning.",
+          "Coarse bits and sanding bands belong on enhancement product.",
+          "Handpieces are wiped or sprayed; reusable bits are cleaned, immersed and, in Texas, sterilized."
+        ],
+        "vi": [
+          "Chỉ dùng máy dũa làm riêng cho nghề nail.",
+          "Ấn nhẹ và di chuyển đầu mũi liên tục để tránh nóng và mỏng móng.",
+          "Đầu mũi thô và đầu nhám chỉ dùng trên lớp móng nhân tạo.",
+          "Tay cầm thì lau hoặc xịt; đầu mũi dùng lại thì làm sạch, ngâm khử trùng và ở Texas còn phải tiệt trùng."
+        ]
+      },
+      "commonMistake": {
+        "en": "Dropping the whole handpiece into the disinfectant jar. Electrical tools are wiped or sprayed; only the removable bits are immersed.",
+        "vi": "Bỏ nguyên tay cầm máy dũa vào hũ dung dịch khử trùng. Dụng cụ dùng điện chỉ được lau hoặc xịt; chỉ có đầu mũi tháo rời mới được ngâm."
+      },
+      "examTip": {
+        "en": "Remember: bits are immersed, handpieces are wiped or sprayed, and sanding bands are porous.",
+        "vi": "Nhớ: đầu mũi thì ngâm, tay cầm thì lau hoặc xịt, còn đầu nhám là đồ xốp."
+      },
+      "glossaryTermIds": [
+        "term_electric_file",
+        "term_efile_bit",
+        "term_sanding_band",
+        "term_mandrel",
+        "term_electrical_tool",
+        "term_ultrasonic_cleaner",
+        "term_local_exhaust_ventilation",
+        "term_n95_respirator"
+      ],
+      "image": null,
+      "diagram": {
+        "asset": "diagrams/efile_bits.svg"
+      },
+      "sourceRefs": [
+        "NIC Nail Technology Theory content outline: Tools, Equipment and Supplies (electric files)",
+        "16 TAC §83.106(f) (Texas), checked 2026-11-03",
+        "16 TAC §83.107 (Texas), checked 2026-11-03",
+        "16 CCR §977 (California), checked 2026-11-03",
+        "16 CCR §980 (California), checked 2026-11-03",
+        "COMAR 09.22.03.05B(12) and B(16) (Maryland nail technician sanitation rule), checked 2026-11-03",
+        "EPA: Protecting the Health of Nail Salon Workers (EPA 744-F-07-001, 2007), Appendix: factsheet on liquid MMA monomer (heavy filing with coarse abrasives)",
+        "OSHA: Health Hazards in Nail Salons, chemical hazards (ventilation)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "AI fact-check",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_supplies_single_use",
+      "rev": 1,
+      "status": "active",
+      "domain": "tools_equipment",
+      "topicGroup": "supplies",
+      "order": 53,
+      "isFree": false,
+      "title": {
+        "en": "Supplies and single-use items",
+        "vi": "Vật tư và đồ dùng một lần"
+      },
+      "body": {
+        "en": "Supplies are the things you use up, such as files, buffers, cotton, gloves, towels and products. For each one, ask a simple question: **can it be disinfected?**\n\n**Single-use items** are porous or absorbent, such as orangewood sticks, cotton, sponges, toe separators, emery boards and disposable gloves. They go in the trash right after one client. California adds buffers and pumice stones to that list. Texas lets buffer blocks, pedicure files and some other porous items be brushed clean and sprayed with disinfectant instead, but a buffer block or porous file that touched broken or unhealthy skin or nails is thrown away.\n\n**Storing supplies**\n- Keep new supplies in a clean, covered place. California requires the label New.\n- In Texas, keep supplies that are not for cosmetology in separate drawers or locations.\n- Take creams out of a jar with a clean spatula so the rest stays clean.\n\n**Handling products**\n- Keep only small, labeled containers at the table, closed when not in use.\n- Pour from bulk bottles with a funnel or dropper, in a well-ventilated spot.\n- Seal product-soaked cotton and paper towels in a bag, then use a metal trash can with a self-closing lid.\n\nUse a new pair of gloves and a clean towel for every client.",
+        "vi": "Vật tư là những thứ dùng rồi hết, như dũa, buffer, bông gòn, găng tay, khăn và sản phẩm. Với mỗi món, hãy tự hỏi một câu đơn giản: **có khử trùng được không?**\n\n**Đồ dùng một lần** là đồ xốp hoặc thấm hút, như cây gỗ cam, bông gòn, mút, miếng tách ngón chân, dũa giấy và găng tay dùng một lần. Chúng phải bỏ vào thùng rác ngay sau một khách. California còn thêm cục buffer và đá chà gót vào danh sách này. Texas cho phép cục buffer, dũa chân và một số đồ xốp khác được chải sạch rồi xịt dung dịch khử trùng, nhưng cục buffer hoặc dũa xốp đã dùng trên da hay móng bị trầy hoặc không khỏe thì phải bỏ đi.\n\n**Cất giữ vật tư**\n- Cất vật tư mới ở nơi sạch, có nắp đậy. California bắt buộc dán nhãn New.\n- Ở Texas, vật dụng không dùng cho nghề thẩm mỹ phải cất ở ngăn kéo hoặc chỗ riêng.\n- Lấy kem ra khỏi hũ bằng que lấy kem (spatula) sạch để phần còn lại không bị bẩn.\n\n**Xử lý sản phẩm**\n- Chỉ để chai nhỏ có dán nhãn trên bàn, đậy nắp khi không dùng.\n- Chiết từ chai lớn bằng phễu hoặc ống nhỏ giọt, ở chỗ thoáng khí.\n- Cho bông gòn và khăn giấy thấm sản phẩm vào túi kín, rồi bỏ vào thùng rác kim loại có nắp tự đóng.\n\nDùng đôi găng tay mới và khăn sạch cho mỗi khách."
+      },
+      "keyPoints": {
+        "en": [
+          "If an item cannot be disinfected, it is thrown away after one client.",
+          "State rules differ on buffers, files and pumice, so learn your state's list.",
+          "Keep new supplies clean and covered, apart from used items.",
+          "Keep small, labeled, closed containers at the table and seal soaked waste."
+        ],
+        "vi": [
+          "Món nào không khử trùng được thì bỏ đi sau một khách.",
+          "Quy định về buffer, dũa và đá chà gót mỗi tiểu bang mỗi khác, nên hãy học danh sách của tiểu bang mình.",
+          "Cất vật tư mới sạch sẽ, có nắp đậy, để riêng với đồ đã dùng.",
+          "Chỉ để chai nhỏ có nhãn, đậy kín trên bàn, và cho rác thấm sản phẩm vào túi kín."
+        ]
+      },
+      "commonMistake": {
+        "en": "Brushing off a used emery board and putting it back in the drawer. A file that cannot be disinfected is single-use, however clean it looks.",
+        "vi": "Phủi sạch dũa giấy đã dùng rồi cất lại vào ngăn kéo. Dũa không khử trùng được là đồ dùng một lần, dù nhìn có sạch tới đâu."
+      },
+      "examTip": {
+        "en": "Ask one question: can it be disinfected? If not, it goes in the trash after one client.",
+        "vi": "Chỉ cần hỏi: có khử trùng được không? Nếu không, bỏ vào thùng rác sau một khách."
+      },
+      "glossaryTermIds": [
+        "term_single_use_item",
+        "term_porous_tool",
+        "term_emery_board",
+        "term_orangewood_stick",
+        "term_buffer_block",
+        "term_spatula",
+        "term_grit"
+      ],
+      "image": null,
+      "diagram": null,
+      "sourceRefs": [
+        "16 CCR §981 (California), checked 2026-11-03",
+        "16 CCR §988 (California), checked 2026-11-03",
+        "16 TAC §83.102(f) (Texas), checked 2026-11-03",
+        "16 TAC §83.106(e)–(f) (Texas), checked 2026-11-03",
+        "EPA: Protecting the Health of Nail Salon Workers (EPA 744-F-07-001, 2007), Best Shop Practices: to minimize inhalation",
+        "EPA: Protecting the Health of Nail Salon Workers (EPA 744-F-07-001, 2007), Best Shop Practices: to minimize skin exposure",
+        "OSHA: Health Hazards in Nail Salons, chemical hazards (ventilation)"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "AI fact-check",
         "date": "2026-11-03"
       }
     },
@@ -580,8 +2486,8 @@
         "vi": "Kiến thức cơ bản về license cho thợ nail ở Texas"
       },
       "body": {
-        "en": "In Texas, nail services are regulated by **TDLR**, the Texas Department of Licensing and Regulation. The law is Occupations Code Chapter 1603 and the rules are in Chapter 83 of Title 16 of the Texas Administrative Code.\n\nA **manicurist license** covers treating nails, such as cutting, trimming, polishing, coloring, manicuring, pedicuring and attaching false nails, plus massaging, cleansing and beautifying the hands and feet. It does not cover facials, waxing or eyelash extensions.\n\nTo get a practitioner license, an applicant must be at least 17, finish the required hours at a licensed school, and pass a written and a practical exam.\n\nOnce licensed:\n- The license lasts **two years** and cannot be transferred to anyone else.\n- Display it near your work station, or keep it at the reception desk, with a current photo attached.\n- Work only in a **licensed facility**, meaning a licensed establishment or school. Narrow exceptions exist for a client who is ill or for a special event such as a wedding, and the appointment must be booked through a licensed facility.\n- Tell TDLR within 30 days if your name or address changes.\n- Before renewing, complete at least **4 hours** of approved continuing education, including 1 hour of sanitation and, for renewals on or after 1 September 2025, 1 hour of human trafficking prevention.\n\nThe salon itself also needs its own **establishment license**.",
-        "vi": "Ở Texas, dịch vụ làm móng do **TDLR** (Texas Department of Licensing and Regulation, Sở Cấp phép và Quản lý Texas) quản lý. Luật là Occupations Code Chapter 1603, quy định là 16 TAC Chapter 83.\n\n**Manicurist license** cho phép làm móng, như cắt, tỉa, sơn, manicure, pedicure và gắn móng giả, cùng với xoa bóp và làm đẹp bàn tay, bàn chân. License này không bao gồm làm mặt (facial), wax lông hay gắn mi (eyelash extensions).\n\nĐể được cấp license, người nộp đơn phải từ 17 tuổi, học đủ giờ tại trường có giấy phép, và đậu cả thi viết lẫn thi thực hành.\n\nSau khi có license:\n- License có hạn **hai năm** và không được chuyển nhượng cho người khác.\n- Treo license gần bàn làm việc, hoặc để ở quầy tiếp tân, có dán hình hiện tại của mình.\n- Chỉ làm việc trong **licensed facility**, tức là tiệm hoặc trường có giấy phép. Ngoại lệ: khách bị bệnh hoặc sự kiện đặc biệt như đám cưới, và phải đặt hẹn qua một licensed facility.\n- Báo cho TDLR trong vòng 30 ngày nếu đổi tên hoặc đổi địa chỉ.\n- Trước khi gia hạn, học ít nhất **4 giờ** continuing education (CE) được chấp thuận, gồm 1 giờ về vệ sinh (sanitation) và, với lần gia hạn từ ngày 1 tháng 9 năm 2025, 1 giờ về phòng chống buôn người (human trafficking).\n\nBản thân tiệm cũng phải có **establishment license** riêng."
+        "en": "In Texas, nail services are regulated by **TDLR**, the Texas Department of Licensing and Regulation. The law is Occupations Code Chapter 1603 and the rules are in Chapter 83 of Title 16 of the Texas Administrative Code.\n\nA **manicurist license** covers treating nails, such as cutting, trimming, polishing, coloring, manicuring, pedicuring and attaching false nails, plus massaging, cleansing and beautifying the hands and feet. It does not cover facials, waxing or eyelash extensions.\n\nTo get a practitioner license, an applicant must be at least 17, finish the required hours at a licensed school, and pass a written and a practical exam.\n\nOnce licensed:\n- The license lasts **two years** and cannot be transferred to anyone else.\n- Display it near your work station, or keep it at the reception desk, with a current photo attached.\n- Work only in a **licensed facility**, meaning a licensed establishment or school. Narrow exceptions exist for a client who is ill or for a special event such as a wedding, and the appointment must be booked through a licensed facility.\n- Tell TDLR within 30 days if your name or address changes.\n- Before renewing, complete at least **4 hours** of approved continuing education, including 1 hour of sanitation and 1 hour of human trafficking prevention. If you have held a Texas license for more than 15 years, the requirement is 2 hours: sanitation and human trafficking prevention.\n\nThe salon itself also needs its own **establishment license**.",
+        "vi": "Ở Texas, dịch vụ làm móng do **TDLR** (Texas Department of Licensing and Regulation, Sở Cấp phép và Quản lý Texas) quản lý. Luật là Occupations Code Chapter 1603, quy định là 16 TAC Chapter 83.\n\n**Manicurist license** cho phép làm móng, như cắt, tỉa, sơn, manicure, pedicure và gắn móng giả, cùng với xoa bóp và làm đẹp bàn tay, bàn chân. License này không bao gồm làm mặt (facial), wax lông hay gắn mi (eyelash extensions).\n\nĐể được cấp license, người nộp đơn phải từ 17 tuổi, học đủ giờ tại trường có giấy phép, và đậu cả thi viết lẫn thi thực hành.\n\nSau khi có license:\n- License có hạn **hai năm** và không được chuyển nhượng cho người khác.\n- Treo license gần bàn làm việc, hoặc để ở quầy tiếp tân, có dán hình hiện tại của mình.\n- Chỉ làm việc trong **licensed facility**, tức là tiệm hoặc trường có giấy phép. Ngoại lệ: khách bị bệnh hoặc sự kiện đặc biệt như đám cưới, và phải đặt hẹn qua một licensed facility.\n- Báo cho TDLR trong vòng 30 ngày nếu đổi tên hoặc đổi địa chỉ.\n- Trước khi gia hạn, học ít nhất **4 giờ** continuing education (CE) được chấp thuận, gồm 1 giờ về vệ sinh (sanitation) và 1 giờ về phòng chống buôn người (human trafficking). Nếu đã có license Texas hơn 15 năm, chỉ cần 2 giờ: vệ sinh và phòng chống buôn người.\n\nBản thân tiệm cũng phải có **establishment license** riêng."
       },
       "keyPoints": {
         "en": [
@@ -589,14 +2495,14 @@
           "A manicurist license covers nails, hands and feet only.",
           "Licenses last two years and cannot be transferred.",
           "Work in a licensed establishment or school, with narrow exceptions.",
-          "Renewal needs at least 4 hours of approved continuing education, including sanitation."
+          "Renewal needs at least 4 hours of approved continuing education, including sanitation and human trafficking prevention."
         ],
         "vi": [
           "TDLR cấp license và kiểm tra thợ nail cùng các tiệm ở Texas.",
           "Manicurist license chỉ bao gồm móng, bàn tay và bàn chân.",
           "License có hạn hai năm và không được chuyển nhượng.",
           "Làm việc tại tiệm hoặc trường có giấy phép, trừ vài ngoại lệ hẹp.",
-          "Gia hạn cần ít nhất 4 giờ continuing education được chấp thuận, có giờ về vệ sinh."
+          "Gia hạn cần ít nhất 4 giờ continuing education được chấp thuận, gồm giờ về vệ sinh và phòng chống buôn người."
         ]
       },
       "commonMistake": {
@@ -621,13 +2527,219 @@
         "Texas Occupations Code §1603.2103(a) and §1603.0011(a)(7)-(8), checked 2026-11-02",
         "Texas Occupations Code §1603.2106, §1603.2107, §1603.2108, §1603.2109, checked 2026-11-02",
         "Texas Occupations Code §1603.2201(a) and §1603.3001(a), checked 2026-11-02",
-        "16 TAC §83.200 (Texas), checked 2026-11-02",
+        "16 TAC §83.20(a) (Texas, effective 15 Aug 2025; formerly §83.200), checked 2026-11-03",
         "16 TAC §83.31(a) and §83.70(e)-(h) (Texas), checked 2026-11-02",
-        "16 TAC §83.25(b) (Texas), checked 2026-11-02"
+        "16 TAC §83.25(b), (k) (Texas, as amended effective 15 Aug 2025), checked 2026-11-03",
+        "TDLR: Cosmetology continuing education page, checked 2026-11-03"
       ],
       "review": {
         "status": "approved",
-        "reviewer": "R1",
+        "reviewer": "AI fact-check",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_tx_practitioner_duties",
+      "rev": 1,
+      "status": "active",
+      "domain": "tx_law",
+      "topicGroup": "practice",
+      "order": 101,
+      "isFree": false,
+      "title": {
+        "en": "Texas salon and practitioner duties",
+        "vi": "Trách nhiệm của tiệm và thợ ở Texas"
+      },
+      "body": {
+        "en": "In Texas, both the **practitioner** and the **establishment** are responsible for following the rules.\n\n**Where you may work.** A practitioner works in a licensed establishment or school. You may serve a client somewhere else only if the client is too ill to come in, or for a **special event** such as a wedding, quinceañera or prom, and the appointment must be made through a licensed facility. A service booked through a remote service business's app is handled under its own rules.\n\n**What every salon needs:**\n- A sink with hot and cold running water where services are done\n- A sign with the salon's name\n- A wet disinfectant container large enough to fully immerse tools\n- A clean, dry storage area and at least one covered trash container\n- For nail services, an autoclave, dry heat sterilizer or ultraviolet sanitizer\n- For each manicurist working, a manicure station with good light, a chair or stool, and a client chair\n\n**What the salon must display:** its establishment license, the human trafficking sign in English, Spanish and Vietnamese, a notice that its latest inspection report is available on request, and the sanitation rules. Keeping the **law and rules book** where every practitioner can reach it meets the sanitation rules requirement.\n\n**Who may work there.** The owner may not employ or rent space to anyone without a practitioner license, and the salon may not offer services outside its own license.",
+        "vi": "Ở Texas, cả **thợ (practitioner)** lẫn **tiệm (establishment)** đều có trách nhiệm tuân theo quy định.\n\n**Được làm ở đâu.** Thợ làm việc trong tiệm hoặc trường có giấy phép. Chỉ được làm cho khách ở nơi khác khi khách bệnh không đến được, hoặc khi có **special event** như đám cưới, quinceañera hay prom, và phải đặt hẹn qua một licensed facility. Dịch vụ đặt qua app của remote service business có quy định riêng.\n\n**Tiệm nào cũng phải có:**\n- Bồn rửa có nước nóng và lạnh ở khu làm dịch vụ\n- Bảng hiệu có tên tiệm\n- Hộp ngâm dung dịch khử trùng đủ lớn để ngâm ngập dụng cụ\n- Chỗ cất đồ sạch, khô và ít nhất một thùng rác có nắp\n- Nếu làm móng, phải có autoclave, dry heat sterilizer hoặc máy UV (ultraviolet sanitizer)\n- Mỗi thợ nail đang làm phải có một bàn làm móng đủ sáng, một ghế cho thợ và một ghế cho khách\n\n**Tiệm phải trưng bày:** establishment license, bảng thông tin về buôn người bằng tiếng Anh, tiếng Tây Ban Nha và tiếng Việt, thông báo rằng khách có thể xin xem báo cáo kiểm tra gần nhất, và bản quy định vệ sinh. Để cuốn **law and rules book** ở nơi mọi thợ lấy được là đáp ứng yêu cầu về quy định vệ sinh.\n\n**Ai được làm trong tiệm.** Chủ tiệm không được thuê hoặc cho thuê chỗ cho người không có license hành nghề, và tiệm không được làm dịch vụ ngoài phạm vi giấy phép của tiệm."
+      },
+      "keyPoints": {
+        "en": [
+          "Practitioners work in a licensed facility, with narrow exceptions booked through one.",
+          "Every salon needs a hot and cold water sink, a name sign, a disinfectant container, clean storage and a covered trash can.",
+          "Nail salons must have an autoclave, dry heat sterilizer or ultraviolet sanitizer.",
+          "Salons display their license, the human trafficking sign, the inspection report notice and the sanitation rules.",
+          "The owner may not let anyone without a license work or rent space."
+        ],
+        "vi": [
+          "Thợ làm việc trong licensed facility, trừ vài ngoại lệ hẹp và phải đặt hẹn qua licensed facility.",
+          "Tiệm nào cũng phải có bồn rửa nước nóng lạnh, bảng tên, hộp ngâm khử trùng, chỗ cất đồ sạch và thùng rác có nắp.",
+          "Tiệm nail phải có autoclave, dry heat sterilizer hoặc máy UV.",
+          "Tiệm phải treo giấy phép, bảng về buôn người, thông báo về báo cáo kiểm tra và quy định vệ sinh.",
+          "Chủ tiệm không được để người không có license làm việc hoặc thuê chỗ."
+        ]
+      },
+      "commonMistake": {
+        "en": "Thinking a client's home is fine for any appointment if the client asks. Off-site work is only for an ill client or a special event, and it must be booked through a licensed facility.",
+        "vi": "Nghĩ rằng cứ khách yêu cầu là được làm tại nhà khách. Làm ngoài tiệm chỉ được khi khách bệnh hoặc có special event, và phải đặt hẹn qua một licensed facility."
+      },
+      "examTip": {
+        "en": "If a question asks who is responsible for the health and safety rules, the answer is both the practitioner and the establishment.",
+        "vi": "Nếu đề hỏi ai chịu trách nhiệm về quy định vệ sinh an toàn, câu trả lời là cả thợ lẫn tiệm."
+      },
+      "glossaryTermIds": [
+        "term_tx_practitioner",
+        "term_tx_licensed_facility",
+        "term_tx_special_event",
+        "term_tx_law_and_rules_book",
+        "term_tx_establishment_license",
+        "term_tx_independent_contractor"
+      ],
+      "image": null,
+      "diagram": null,
+      "sourceRefs": [
+        "16 TAC §83.70(b)-(c), (j) (Texas), checked 2026-11-03",
+        "16 TAC §83.71(b), (g)-(h), (l)-(o), (q) (Texas), checked 2026-11-03",
+        "16 TAC §83.10(40) (Texas), checked 2026-11-03",
+        "Texas Occupations Code §1603.2109, checked 2026-11-03",
+        "Texas Occupations Code §1603.353(b), checked 2026-11-03",
+        "Texas Occupations Code §1603.355, checked 2026-11-03",
+        "Texas Occupations Code §1603.356, checked 2026-11-03",
+        "Texas Occupations Code §1603.357, checked 2026-11-03",
+        "TDLR Barbering and Cosmetology Inspections Guide, \"What Inspectors Will Look For\" (tdlr.texas.gov), checked 2026-11-03"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "AI fact-check",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_tx_health_safety_rules",
+      "rev": 1,
+      "status": "active",
+      "domain": "tx_law",
+      "topicGroup": "health_safety",
+      "order": 102,
+      "isFree": false,
+      "title": {
+        "en": "Texas health and safety rules for nail services",
+        "vi": "Quy định vệ sinh và an toàn của Texas cho dịch vụ móng"
+      },
+      "body": {
+        "en": "The Texas sanitation rules are in 16 TAC Chapter 83. Key words have exact meanings.\n\n- **Cleaning** removes visible debris with soap and water. It is not disinfection.\n- **Disinfection** uses an EPA-registered bactericidal, fungicidal and virucidal disinfectant, or a chlorine bleach solution, on non-porous items.\n- **Sterilization** kills all microorganisms with an autoclave or dry heat sterilizer. **Sanitization** reduces them to a safe level with an ultraviolet sanitizer.\n\n**Metal nail tools** are cleaned, disinfected, then sterilized or sanitized before every service. This applies even to tools a client brings and only she uses.\n\n**Bleach** is mixed fresh every day, kept in a closed container out of sunlight, and stored away from other chemicals and flame.\n\n**Blood.** Never touch an open wound. Clean blood on a surface right away with a hospital-grade or tuberculocidal disinfectant, or blood-cleanup bleach. A metal tool with blood is cleaned and disinfected at once. A porous item with blood is double-bagged and thrown away.\n\n**Foot spas** are cleaned after each client, flushed with soap and warm water for at least ten minutes at the end of each day, and soaked every other week. Every cleaning goes on the log, including days the spa was not used. A spa without records is taken out of service.\n\n**Premises.** Use good ventilation to remove fumes, never sleep in the salon, and keep a separate entrance if the salon is attached to a home. Products the FDA considers unsafe may not even be stored on the premises.",
+        "vi": "Quy định vệ sinh của Texas nằm trong 16 TAC Chapter 83. Các từ chính có nghĩa chính xác.\n\n- **Cleaning (làm sạch)** là lấy hết bụi bẩn thấy được bằng xà bông và nước. Làm sạch không phải là khử trùng.\n- **Disinfection (khử trùng)** là dùng thuốc EPA-registered diệt vi khuẩn, nấm và virus, hoặc dung dịch chlorine bleach, trên đồ không thấm nước.\n- **Sterilization (tiệt trùng)** diệt tất cả vi sinh vật bằng autoclave hoặc dry heat sterilizer. **Sanitization** giảm vi sinh vật xuống mức an toàn bằng máy UV.\n\n**Dụng cụ móng bằng kim loại** phải làm sạch, khử trùng, rồi tiệt trùng hoặc sanitize trước mỗi lần làm. Quy định này áp dụng cả với dụng cụ khách tự mang và chỉ khách đó dùng.\n\n**Bleach** phải pha mới mỗi ngày, đựng trong hộp kín tránh nắng, và để xa hóa chất khác và lửa.\n\n**Máu.** Không bao giờ chạm vào vết thương hở. Máu trên bề mặt phải lau ngay bằng thuốc hospital-grade hoặc tuberculocidal, hoặc bleach dùng cho máu. Dụng cụ kim loại dính máu phải làm sạch và khử trùng ngay. Đồ thấm nước (porous) dính máu phải bỏ vào hai lớp túi rồi vứt.\n\n**Bồn spa chân** phải làm sạch sau mỗi khách, cuối ngày xả với xà bông và nước ấm ít nhất mười phút, và ngâm khử trùng hai tuần một lần. Mọi lần làm sạch phải ghi vào sổ, kể cả ngày không dùng bồn. Bồn không có hồ sơ phải ngưng sử dụng.\n\n**Tiệm.** Phải thông gió tốt để hút hơi hóa chất, không được ngủ trong tiệm, và phải có lối vào riêng nếu tiệm sát nhà ở. Sản phẩm FDA cho là không an toàn thì cất trong tiệm cũng không được."
+      },
+      "keyPoints": {
+        "en": [
+          "Cleaning is not disinfection; sterilization and sanitization are different too.",
+          "Metal nail tools are cleaned, disinfected, then sterilized or sanitized before every service.",
+          "Bleach is mixed daily and kept closed, out of sunlight, away from other chemicals.",
+          "Foot spa cleanings are logged every day, and a spa without records is removed from service.",
+          "Porous items with blood are double-bagged and discarded."
+        ],
+        "vi": [
+          "Làm sạch không phải là khử trùng; tiệt trùng và sanitize cũng khác nhau.",
+          "Dụng cụ móng kim loại phải làm sạch, khử trùng, rồi tiệt trùng hoặc sanitize trước mỗi lần làm.",
+          "Bleach pha mỗi ngày, đựng kín, tránh nắng, để xa hóa chất khác.",
+          "Việc làm sạch bồn spa phải ghi sổ mỗi ngày, bồn không có hồ sơ phải ngưng dùng.",
+          "Đồ thấm nước dính máu phải bỏ vào hai lớp túi rồi vứt."
+        ]
+      },
+      "commonMistake": {
+        "en": "Skipping sterilization because a tool belongs to one client. In Texas, every metal nail tool is sterilized or sanitized before each service, no matter who owns it.",
+        "vi": "Bỏ qua tiệt trùng vì dụng cụ là của riêng một khách. Ở Texas, mọi dụng cụ móng kim loại đều phải tiệt trùng hoặc sanitize trước mỗi lần làm, dù là của ai."
+      },
+      "examTip": {
+        "en": "Remember the order: clean first, then disinfect, then sterilize or sanitize.",
+        "vi": "Nhớ thứ tự: làm sạch trước, rồi khử trùng, rồi tiệt trùng hoặc sanitize."
+      },
+      "glossaryTermIds": [
+        "term_cleaning",
+        "term_disinfection",
+        "term_sterilization",
+        "term_tx_chlorine_bleach_solution",
+        "term_tx_whirlpool_foot_spa",
+        "term_pedicure_cleaning_log"
+      ],
+      "image": null,
+      "diagram": null,
+      "sourceRefs": [
+        "16 TAC §83.100 (Texas), checked 2026-11-03",
+        "16 TAC §83.101(b) (Texas), checked 2026-11-03",
+        "16 TAC §83.106(c) (Texas), checked 2026-11-03",
+        "16 TAC §83.108(b)-(e), (m) (Texas), checked 2026-11-03",
+        "16 TAC §83.111 (Texas), checked 2026-11-03",
+        "16 TAC §83.113 (Texas), checked 2026-11-03",
+        "16 TAC §83.114(g)-(h) (Texas), checked 2026-11-03",
+        "Texas Occupations Code §1603.352, checked 2026-11-03",
+        "Texas Occupations Code §1603.2205, checked 2026-11-03"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "AI fact-check",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "les_tx_enforcement",
+      "rev": 1,
+      "status": "active",
+      "domain": "tx_law",
+      "topicGroup": "enforcement",
+      "order": 103,
+      "isFree": false,
+      "title": {
+        "en": "How TDLR enforces the rules",
+        "vi": "TDLR thi hành quy định như thế nào"
+      },
+      "body": {
+        "en": "**TDLR** enforces the barbering and cosmetology law using Occupations Code Chapter 51 and Chapter 1603.\n\n**Complaints and inspections.** Anyone can file a complaint. TDLR looks at complaints based on the risk to the public, and it may accept an anonymous complaint without having to investigate it. Inspectors may enter a salon during business hours and examine and copy records. TDLR gives priority to salons with past violations and may sometimes inspect by video call.\n\n**Penalties.** When TDLR finds a violation, it sends a **notice of alleged violation**. The notice summarizes the violation, states the recommended penalty and explains the right to a hearing. The person may accept the penalty or ask in writing for a hearing. The amount depends on things like how serious the violation is, past violations and efforts to fix the problem. Each day a violation continues counts as a separate violation.\n\n**Hearings.** Hearings are held by **SOAH**, the State Office of Administrative Hearings. A judge sends a proposal to the commission, which makes the final decision.\n\n**Sanctions.** The commission may deny, suspend, revoke or refuse to renew a license, or reprimand the holder. A suspension may be **probated** with conditions such as regular reports, limits on practice or more education. A license holder may also be ordered to refund a client, up to what the client paid.\n\n**Urgent action.** The executive director may issue a cease and desist order, or an emergency order that suspends a license or shuts down unsafe equipment.",
+        "vi": "**TDLR** thi hành luật barbering và cosmetology dựa trên Occupations Code Chapter 51 và Chapter 1603.\n\n**Khiếu nại và kiểm tra.** Ai cũng có thể gửi khiếu nại. TDLR xem xét khiếu nại dựa trên mức độ rủi ro cho công chúng, và có thể nhận đơn không tên mà không bắt buộc điều tra. Thanh tra có thể vào tiệm trong giờ làm việc, xem và sao chép hồ sơ. TDLR ưu tiên kiểm tra tiệm từng vi phạm và đôi khi có thể kiểm tra qua gọi video.\n\n**Phạt tiền.** Khi thấy có vi phạm, TDLR gửi **notice of alleged violation** (thông báo vi phạm). Thông báo tóm tắt vi phạm, ghi mức phạt đề nghị và nói rõ quyền yêu cầu hearing. Người bị phạt có thể chấp nhận mức phạt hoặc viết đơn xin hearing. Mức phạt tùy vào mức độ nghiêm trọng, các lần vi phạm trước và việc cố gắng sửa sai. Vi phạm kéo dài bao nhiêu ngày thì mỗi ngày tính là một vi phạm riêng.\n\n**Điều trần.** Hearing do **SOAH** (State Office of Administrative Hearings) chủ trì. Thẩm phán gửi đề xuất cho commission, và commission ra quyết định cuối cùng.\n\n**Xử lý license.** Commission có thể từ chối, đình chỉ, thu hồi hoặc không cho gia hạn license, hoặc khiển trách người có license. Việc đình chỉ có thể cho **probation** (án treo) kèm điều kiện như báo cáo thường xuyên, giới hạn hành nghề hoặc học thêm. Người có license cũng có thể bị buộc hoàn tiền cho khách, tối đa bằng số tiền khách đã trả.\n\n**Hành động khẩn.** Giám đốc điều hành có thể ra lệnh ngưng (cease and desist), hoặc lệnh khẩn cấp (emergency order) để đình chỉ license hay ngưng thiết bị không an toàn."
+      },
+      "keyPoints": {
+        "en": [
+          "TDLR handles complaints by risk to the public and may inspect during business hours.",
+          "A notice of alleged violation states the violation, the recommended penalty and the right to a hearing.",
+          "SOAH holds hearings; the commission makes the final decision.",
+          "Sanctions include denial, suspension, revocation, reprimand and probated suspension."
+        ],
+        "vi": [
+          "TDLR xử lý khiếu nại theo mức độ rủi ro và có thể kiểm tra trong giờ làm việc.",
+          "Notice of alleged violation ghi vi phạm, mức phạt đề nghị và quyền yêu cầu hearing.",
+          "SOAH chủ trì hearing; commission ra quyết định cuối cùng.",
+          "Các hình thức xử lý gồm từ chối, đình chỉ, thu hồi, khiển trách và đình chỉ có án treo."
+        ]
+      },
+      "commonMistake": {
+        "en": "Thinking the inspector decides the final penalty. The inspector reports the violation; the penalty is set through the notice, an optional SOAH hearing, and a commission or executive director order.",
+        "vi": "Nghĩ rằng thanh tra quyết định mức phạt cuối cùng. Thanh tra chỉ ghi nhận vi phạm; mức phạt được quyết định qua thông báo vi phạm, hearing tại SOAH nếu có yêu cầu, và lệnh của commission hoặc giám đốc điều hành."
+      },
+      "examTip": {
+        "en": "If asked who conducts a contested hearing, choose SOAH, not TDLR inspectors.",
+        "vi": "Nếu đề hỏi ai chủ trì hearing khi có phản đối, chọn SOAH, không phải thanh tra TDLR."
+      },
+      "glossaryTermIds": [
+        "term_tdlr",
+        "term_tx_notice_of_alleged_violation",
+        "term_tx_administrative_penalty",
+        "term_tx_soah",
+        "term_tx_probated_suspension",
+        "term_tx_emergency_order",
+        "term_tx_cease_and_desist_order"
+      ],
+      "image": null,
+      "diagram": null,
+      "sourceRefs": [
+        "Texas Occupations Code §51.211, checked 2026-11-03",
+        "Texas Occupations Code §51.252(b-1), checked 2026-11-03",
+        "Texas Occupations Code §51.2521(a), checked 2026-11-03",
+        "Texas Occupations Code §51.302, checked 2026-11-03",
+        "Texas Occupations Code §51.303, checked 2026-11-03",
+        "Texas Occupations Code §51.304, checked 2026-11-03",
+        "Texas Occupations Code §51.305, checked 2026-11-03",
+        "Texas Occupations Code §51.306, checked 2026-11-03",
+        "Texas Occupations Code §51.351, checked 2026-11-03",
+        "Texas Occupations Code §51.3511, checked 2026-11-03",
+        "Texas Occupations Code §51.3513, checked 2026-11-03",
+        "Texas Occupations Code §51.353, checked 2026-11-03",
+        "Texas Occupations Code §51.359, checked 2026-11-03",
+        "16 TAC §83.90 (Texas), checked 2026-11-03"
+      ],
+      "review": {
+        "status": "approved",
+        "reviewer": "AI fact-check",
         "date": "2026-11-03"
       }
     }

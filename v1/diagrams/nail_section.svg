@@ -1,24 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 300" width="520" height="300">
-  <!-- NailPass original diagram: fingertip, side cross-section. No text: labels come from the glossary. -->
+  <!-- NailPass original diagram: fingertip, side cross-section (nail on top, fingertip to the right). No text: labels come from the glossary. -->
   <g stroke-linejoin="round" stroke-linecap="round">
-    <path id="part_finger" d="M0 70 L330 70 C420 70 470 120 470 180 C470 240 420 280 330 280 L0 280 Z" fill="#F3D9CC" stroke="#B98A78" stroke-width="3"/>
-    <path id="part_distal_phalanx" d="M20 150 L300 140 C340 140 360 160 360 180 C360 200 340 215 300 214 L20 214 Z" fill="#EFE6D8" stroke="#B5A48A" stroke-width="3"/>
-    <path id="part_matrix" d="M120 92 L190 88 L190 112 L120 118 Z" fill="#E6A9A0" stroke="#B9776E" stroke-width="2"/>
-    <path id="part_nail_bed" d="M190 106 L420 98 L420 112 L190 120 Z" fill="#F0B9B0" stroke="#C48A80" stroke-width="2"/>
-    <path id="part_nail_plate" d="M150 80 L430 74 C460 74 492 80 500 92 L500 100 C490 94 462 90 430 90 L150 96 Z" fill="#F7E7E3" stroke="#9C6B5E" stroke-width="3"/>
-    <path id="part_free_edge" d="M420 76 C460 74 492 80 500 92 L500 100 C490 94 462 90 420 91 Z" fill="#FFFFFF" stroke="#9C6B5E" stroke-width="2"/>
-    <path id="part_proximal_nail_fold" d="M100 70 L160 70 C160 70 156 80 150 82 L100 84 Z" fill="#E9C2B3" stroke="#B98A78" stroke-width="2"/>
-    <path id="part_eponychium" d="M150 70 L176 70 L170 80 L150 82 Z" fill="#DDA996" stroke="#B98A78" stroke-width="2"/>
-    <path id="part_hyponychium" d="M420 98 C440 100 450 108 452 118 L420 118 Z" fill="#E6A9A0" stroke="#B9776E" stroke-width="2"/>
+    <path id="part_finger" d="M0 84 L148 84 C164 84 174 92 176 100 L410 106 C426 108 434 116 436 126 C452 150 458 195 440 232 C422 262 380 276 320 276 L0 276 Z" fill="#F3D9CC" stroke="#B98A78" stroke-width="3"/>
+    <path id="part_distal_phalanx" d="M30 150 C30 136 48 130 80 132 L180 134 C260 136 320 138 350 146 C364 150 368 162 358 170 C344 180 300 178 260 180 L120 190 C80 196 40 192 32 176 Z" fill="#EFE6D8" stroke="#B5A48A" stroke-width="3"/>
+    <path id="part_matrix" d="M110 108 C126 104 160 104 180 108 L180 122 C156 124 128 124 110 120 Z" fill="#E6A9A0" stroke="#B9776E" stroke-width="2"/>
+    <path id="part_nail_bed" d="M180 110 L412 112 L412 124 L180 122 Z" fill="#F0B9B0" stroke="#C48A80" stroke-width="2"/>
+    <path id="part_hyponychium" d="M412 112 C424 113 432 118 436 126 L412 124 Z" fill="#E6A9A0" stroke="#B9776E" stroke-width="2"/>
+    <path id="part_nail_plate" d="M112 98 C200 95 330 96 412 101 C440 103 458 108 468 115 L466 122 C456 116 438 112 412 111 C330 107 200 107 112 108 Z" fill="#F7E7E3" stroke="#9C6B5E" stroke-width="3"/>
+    <path id="part_free_edge" d="M412 101 C440 103 458 108 468 115 L466 122 C456 116 438 112 412 111 Z" fill="#FFFFFF" stroke="#9C6B5E" stroke-width="2"/>
+    <path id="part_proximal_nail_fold" d="M90 84 L148 84 C164 84 174 92 176 98 L112 97 L90 97 Z" fill="#E9C2B3" stroke="#B98A78" stroke-width="2"/>
+    <path id="part_eponychium" d="M156 86 C168 88 175 93 177 98 L154 97 Z" fill="#DDA996" stroke="#B98A78" stroke-width="2"/>
+    <path id="part_cuticle" d="M178 97 L196 96" fill="none" stroke="#D7B3A6" stroke-width="4"/>
   </g>
   <g class="hotspots" fill="#C85A70" fill-opacity="0" stroke="none">
-    <circle class="hotspot" id="matrix" cx="155" cy="104" r="18"/>
-    <circle class="hotspot" id="nail_bed" cx="300" cy="112" r="20"/>
-    <circle class="hotspot" id="nail_plate" cx="300" cy="84" r="16"/>
-    <circle class="hotspot" id="free_edge" cx="478" cy="88" r="16"/>
-    <circle class="hotspot" id="hyponychium" cx="436" cy="112" r="14"/>
-    <circle class="hotspot" id="eponychium" cx="163" cy="74" r="12"/>
-    <circle class="hotspot" id="proximal_nail_fold" cx="120" cy="76" r="14"/>
-    <circle class="hotspot" id="distal_phalanx" cx="200" cy="180" r="26"/>
+    <circle class="hotspot" id="proximal_nail_fold" cx="116" cy="88" r="13"/>
+    <circle class="hotspot" id="eponychium" cx="166" cy="90" r="11"/>
+    <circle class="hotspot" id="matrix" cx="142" cy="116" r="14"/>
+    <circle class="hotspot" id="nail_plate" cx="260" cy="100" r="13"/>
+    <circle class="hotspot" id="nail_bed" cx="340" cy="120" r="13"/>
+    <circle class="hotspot" id="free_edge" cx="452" cy="110" r="14"/>
+    <circle class="hotspot" id="hyponychium" cx="424" cy="134" r="11"/>
+    <circle class="hotspot" id="distal_phalanx" cx="220" cy="160" r="24"/>
   </g>
 </svg>
